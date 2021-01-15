@@ -1,0 +1,29 @@
+su root sjtu
+useradd worker0 worker0_password 3 LouisClark
+logout
+su worker0 worker0_password
+useradd user0 user0_password 1 SusanRyan
+logout
+register user1 user1_password DavidGalvan
+su user0 user0_password
+logout
+su user1 user1_password
+logout
+su root sjtu
+useradd worker1 worker1_password 3 ErinRodriguez
+useradd user2 user2_password 1 DavidRobinson
+logout
+register user3 user3_password LawrenceMorris
+su user2 user2_password
+logout
+su user3 user3_password
+logout
+su worker1 worker1_password
+useradd user4 user4_password 1 YeseniaBurns
+logout
+register user5 user5_password KathleenJackson
+su user4 user4_password
+logout
+su user5 user5_password
+logout
+exit

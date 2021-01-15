@@ -1,0 +1,36 @@
+su root sjtu
+useradd worker worker_password 3 King-Bailey
+logout
+su worker worker_password
+select 9787559609303
+modify -ISBN=9787559609304
+modify -name="DavisandSons"
+modify -name="Thompson-Patrick"
+select 9787559609304
+modify -keyword="Stephens-Moore|WilkinsLLC" -price=50 -author="Weaver-Moreno"
+modify -price=49.8
+select 9787544287722
+modify -name="McclainLLC" -keyword="RogersGroup|OconnorandSons" -author="Atkins-Summers" -price=45.00
+logout
+register user user_password Griffin,RamirezandRobinson
+su user user_password
+show -ISBN=9787559609303
+show -ISBN=9787559609304
+show -name="Day-Cummings"
+show -name="Thompson-Patrick"
+show -author="Weaver-Moreno"
+logout
+su worker worker_password
+select 9787559410443
+modify -name="FoxInc" -keyword="RogersGroup|Irwin-Atkinson" -author="Anderson-Yang" -price=38
+import 5 50
+select 9787559609304
+import 10 100
+select 9787544287722
+import 15 150
+show -name="Rodriguez,BakerandMartinez"
+show -name="Thompson-Patrick"
+show -keyword="RogersGroup"
+show
+logout
+exit

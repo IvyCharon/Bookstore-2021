@@ -1,0 +1,5 @@
+su root sjtu
+logout
+su worker worker_password
+show -keyword="65"
+exit

@@ -1,0 +1,38 @@
+su root sjtu
+useradd worker0 worker0_password 3 Palmer,SnyderandClark
+passwd root sjtuuu
+logout
+su worker0 worker0_password
+useradd user0 user0_password 1 Huynh,CardenasandGarcia
+register user1 user1_password Miller-Sandoval
+logout
+su root sjtuuu
+delete worker0
+logout
+su user0 user0_password
+passwd user1 user1_password user1_passworddd
+logout
+su user0 user0_password
+logout
+su user1 user1_passworddd
+logout
+su root sjtuuu
+delete user0
+delete user1
+useradd worker1 worker1_password 3 Stanley-Anderson
+useradd user2 user2_password 1 Ortiz-Riley
+register user3 user3_password Santos-Watkins
+logout
+su user2 user2_password
+logout
+su user3 user3_password
+logout
+su worker1 worker1_password
+useradd user4 user4_password 1 Reyes-Bryant
+register user5 user5_password Wheeler-Smith
+logout
+su user4 user4_password
+logout
+su user5 user5_password
+logout
+exit

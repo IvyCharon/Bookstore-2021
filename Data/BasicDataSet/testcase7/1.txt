@@ -1,0 +1,13 @@
+su root sjtu
+useradd worker worker_password 3 LongLtd
+logout
+su worker worker_password
+select 9787559609304
+modify -name="Rodriguez,ThompsonandRyan"
+modify -keyword="Roman-Morales|MorrowInc" -price=50 -author="Kim,GarciaandPalmer"
+modify -price=49.8
+select 9787544287722
+modify -name="Eaton-Finley" -keyword="Vance-Robinson|Lopez-Keller" -author="HendrixInc" -price=45.00
+logout
+exit
+

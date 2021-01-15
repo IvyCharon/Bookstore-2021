@@ -1,0 +1,6 @@
+su root sjtu
+su worker worker_password
+select 9787544287722
+modify -name="Eaton-Finley" -keyword="Vance-Robinson|Lopez-Keller" -author="HendrixInc" -price=45.00
+exit
+

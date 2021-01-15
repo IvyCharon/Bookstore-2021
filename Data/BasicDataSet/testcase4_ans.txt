@@ -1,0 +1,11 @@
+9787559609304	Thompson-Patrick	Weaver-Moreno	Stephens-Moore|WilkinsLLC	49.80	0
+
+9787559609304	Thompson-Patrick	Weaver-Moreno	Stephens-Moore|WilkinsLLC	49.80	0
+9787559609304	Thompson-Patrick	Weaver-Moreno	Stephens-Moore|WilkinsLLC	49.80	0
+
+9787559609304	Thompson-Patrick	Weaver-Moreno	Stephens-Moore|WilkinsLLC	49.80	10
+9787544287722	McclainLLC	Atkins-Summers	RogersGroup|OconnorandSons	45.00	15
+9787559410443	FoxInc	Anderson-Yang	RogersGroup|Irwin-Atkinson	38.00	5
+9787544287722	McclainLLC	Atkins-Summers	RogersGroup|OconnorandSons	45.00	15
+9787559410443	FoxInc	Anderson-Yang	RogersGroup|Irwin-Atkinson	38.00	5
+9787559609304	Thompson-Patrick	Weaver-Moreno	Stephens-Moore|WilkinsLLC	49.80	10

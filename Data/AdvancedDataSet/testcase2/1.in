@@ -1,0 +1,110 @@
+su root sjtu
+logout
+su root sjtu
+passwd root xz5ZLqMiBWoL
+passwd root duml_KOZe1Jn2c
+select 978-1-4393-6830-5
+modify -name="picnicking" -author="LanceReilly" -keyword="injury|Vassar|built|homologue" -price=230.25
+passwd root HVGtMnxcSarKgjBYLpz8S9EeTBg
+logout
+su root HVGtMnxcSarKgjBYLpz8S9EeTBg
+useradd qI5P_SIkFhrGb3LV08AR_kb2xRjHtx fY536HM4Brl 1 KathleenSparks
+logout
+register p3GhIE8z ILMXDNk JosephMyers
+su p3GhIE8z ILMXDNk
+show -name="picnicking"
+logout
+su p3GhIE8z ILMXDNk
+buy 978-1-4393-6830-5 1
+show -ISBN=978-1-4393-6830-5
+select 978-1-4393-6830-5
+modify -author="ElizabethOconnor"
+logout
+su p3GhIE8z ILMXDNk
+passwd p3GhIE8z ILMXDNk KIQkmZ
+show -ISBN=978-1-4393-6830-5
+select 978-1-4393-6830-5
+modify -author="ElizabethOconnor" -price=331.77
+buy 978-1-4393-6830-5 1
+show -keyword="homologue"
+show -author="ElizabethOconnor"
+select 978-1-4393-6830-5
+modify -author="AnthonyVillanueva" -keyword="injury|pixy|Hildebrand|Howard" -price=106.62
+buy 978-1-4393-6830-5 1
+buy 978-1-4393-6830-5 1
+select 978-1-4393-6830-5
+modify -name="bethought" -keyword="built|admonish" -price=132.35
+passwd p3GhIE8z KIQkmZ Lb
+show -name="bethought"
+buy 978-1-4393-6830-5 1
+passwd p3GhIE8z Lb zLOZmFhaxFFk2
+show -ISBN=978-1-4393-6830-5
+logout
+register fjFT6WkfjYQXQDVyHqTllYmrZduMg uWWBr5dhE2 MandyBurton
+register ef zbfRYcUm456HPMNZ1Cz JasonArias
+select 978-1-4662-5439-8
+modify -name="panicle" -author="JaniceHiggins" -keyword="incline|transistor" -price=460.54
+su root HVGtMnxcSarKgjBYLpz8S9EeTBg
+delete qI5P_SIkFhrGb3LV08AR_kb2xRjHtx
+logout
+select 978-1-5055-8808-8
+modify -name="candlewick" -author="AnthonyVillanueva" -keyword="pixy" -price=242.16
+select 978-0-08-764529-5
+modify -name="Nicholson" -author="AngelaStone" -keyword="incline|Howard|matriarchy|pixy" -price=374.73
+su p3GhIE8z zLOZmFhaxFFk2
+show -ISBN=978-1-4393-6830-5
+show -name="bethought"
+select 978-1-4393-6830-5
+modify -keyword="concentrate"
+show -keyword="concentrate"
+buy 978-1-4393-6830-5 1
+show -name="bethought"
+show -keyword="concentrate"
+select 978-1-4393-6830-5
+modify -keyword="matriarchy" -price=357.31
+buy 978-1-4393-6830-5 1
+show -author="AnthonyVillanueva"
+buy 978-1-4393-6830-5 1
+show -author="AnthonyVillanueva"
+buy 978-1-4393-6830-5 1
+buy 978-1-4393-6830-5 1
+show -name="bethought"
+buy 978-1-4393-6830-5 1
+show -author="AnthonyVillanueva"
+buy 978-1-4393-6830-5 1
+select 978-0-351-69822-4
+modify -name="martyrdom" -author="BrandonRay" -keyword="Howard|matriarchy" -price=137.91
+logout
+select 978-0-351-69822-4
+modify -name="Ms" -author="Dr.DustinBranchDDS"
+select 978-0-582-99824-7
+modify -name="peninsula" -author="LanceReilly" -keyword="soil|matriarchy|pixy|homologue|vast" -price=376.54
+select 978-0-8192-1251-1
+modify -name="achieve" -author="JeanneAtkinson" -keyword="matriarchy|Howard" -price=450.07
+select 978-0-351-69822-4
+modify -name="panoramic" -keyword="incline|homologue|Howard" -price=20.34
+su fjFT6WkfjYQXQDVyHqTllYmrZduMg uWWBr5dhE2
+passwd fjFT6WkfjYQXQDVyHqTllYmrZduMg uWWBr5dhE2 5iI3m
+logout
+select 978-0-351-69822-4
+modify -name="rental" -author="JaniceHiggins" -price=445.48
+register SacbyhoKGtEIrYHe FUSDq3y1aj85ywM72TlJDYVCh KatherineSmith
+register aQlfeZTn 0SRlRxs_ZdA90B8cUuBJvx_ DebraGregory
+su ef zbfRYcUm456HPMNZ1Cz
+show -keyword="matriarchy"
+select 978-1-4393-6830-5
+modify -name="deceit" -author="JaniceHiggins" -keyword="matriarchy|incline|pixy|homologue" -price=283.82
+buy 978-0-351-69822-4 1
+buy 978-1-4393-6830-5 1
+buy 978-0-351-69822-4 1
+select 978-0-201-84949-3
+modify -name="Reuters" -author="AnthonyVillanueva" -keyword="matriarchy|incline|pixy" -price=437.27
+show -ISBN=978-1-4393-6830-5
+logout
+register C1AXC_OHRpGQaqFv3YOMAhkS51Ku LW4OQsW21l7BhS7tzYJ6Yfje_oK ChelseaPerez
+select 978-1-4393-6830-5
+modify -name="pretentious" -author="LanceReilly" -keyword="built|admonish|soil" -price=83.05
+register ONvuFV_gQBtr uOR3zLAdL7XjB7pqgPdvK JamesWallace
+su C1AXC_OHRpGQaqFv3YOMAhkS51Ku LW4OQsW21l7BhS7tzYJ6Yfje_oK
+logout
+register Z2_uxEotMPqSV1k_fhx m_9_gWtMW4gCno LisaGarcia

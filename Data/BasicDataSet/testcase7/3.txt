@@ -1,0 +1,8 @@
+su root sjtu
+logout
+register user user_password JonesGroup
+su user user_password
+show -ISBN=9787559609304
+show
+exit
+

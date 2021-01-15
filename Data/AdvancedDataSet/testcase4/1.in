@@ -1,0 +1,606 @@
+su root sjtu
+passwd root b739XDfoCWPuci
+useradd c6ZE PmqM9ibl 1 HaroldDavis
+useradd rtb0Jk6hvprUlF Vz_EKRthgiPSIg0PDKzliP1eu8r 1 JenniferMacdonald
+delete rtb0Jk6hvprUlF
+select 978-0-900241-36-9
+modify -name="Lowe" -author="CameronCook" -keyword="ergative" -price=211.30
+logout
+select 978-0-900241-36-9
+modify -author="KimberlyButler" -keyword="extrapolate|tippy|expressive|Linus" -price=350.33
+register OXxtRvXlCPlOmmjl6GfchLsGMJE63 kCOPA5oJyr SandraRichard
+su c6ZE PmqM9ibl
+show -ISBN=978-0-900241-36-9
+select 978-0-900241-36-9
+modify -name="doggone" -keyword="extrapolate|Schuylkill|Linus|ergative|scary"
+show -ISBN=978-0-900241-36-9
+logout
+su root b739XDfoCWPuci
+logout
+select 978-0-900241-36-9
+modify -name="irreversible" -author="KimberlyButler" -keyword="Schuylkill|microbe" -price=311.36
+su OXxtRvXlCPlOmmjl6GfchLsGMJE63 kCOPA5oJyr
+logout
+su root b739XDfoCWPuci
+select 978-1-886881-31-0
+modify -name="licensable" -author="SamanthaDuarte" -keyword="deliquesce|paw|microbe|extrapolate" -price=41.71
+passwd c6ZE K
+select 978-1-339-30713-8
+modify -name="invective" -author="GeoffreyGomez" -keyword="Osborne|expressive" -price=378.17
+delete c6ZE
+logout
+register RD4ZfBA3EXFmxzMBOKJRtTjESpt1 Db3jE8HIxnv Dr.CarolineHenderson
+su RD4ZfBA3EXFmxzMBOKJRtTjESpt1 Db3jE8HIxnv
+select 978-1-339-30713-8
+modify -price=310.84
+buy 978-1-886881-31-0 1
+show -ISBN=978-1-886881-31-0
+logout
+su OXxtRvXlCPlOmmjl6GfchLsGMJE63 kCOPA5oJyr
+logout
+select 978-1-339-30713-8
+modify -name="closet" -author="JohnChan" -keyword="microbe|sunset|numeral|gym"
+select 978-1-339-30713-8
+modify -name="arsenide" -author="GeoffreyGomez" -price=375.03
+select 978-1-886881-31-0
+modify -author="MarieAdkins" -keyword="gym|tippy|ergative|microbe|scary"
+select 978-0-900241-36-9
+modify -name="Fayetteville" -author="KimberlyCross" -keyword="ergative|tippy|Linus|scary" -price=15.39
+select 978-0-8187-3493-9
+modify -name="eclectic" -author="CarrieAnderson" -keyword="paw|deliquesce|tram" -price=397.95
+su OXxtRvXlCPlOmmjl6GfchLsGMJE63 kCOPA5oJyr
+show -ISBN=978-0-900241-36-9
+logout
+register lIMUw_xaq9a 4GWScfr StephanieFowler
+su OXxtRvXlCPlOmmjl6GfchLsGMJE63 kCOPA5oJyr
+select 978-1-886881-31-0
+modify -keyword="tram|paw|extrapolate"
+buy 978-0-900241-36-9 1
+select 978-1-248-95598-7
+modify -name="yaw" -author="HeidiLopez" -keyword="gym|expressive|scary" -price=497.72
+buy 978-0-900241-36-9 1
+passwd OXxtRvXlCPlOmmjl6GfchLsGMJE63 kCOPA5oJyr o
+buy 978-1-339-30713-8 1
+logout
+su lIMUw_xaq9a 4GWScfr
+show -ISBN=978-1-248-95598-7
+logout
+select 978-1-886881-31-0
+modify -name="Afrikaans"
+su RD4ZfBA3EXFmxzMBOKJRtTjESpt1 Db3jE8HIxnv
+logout
+su root b739XDfoCWPuci
+passwd RD4ZfBA3EXFmxzMBOKJRtTjESpt1 sX2taRjlX8SPxKvjdd86U
+select 978-0-900241-36-9
+import 1 189.29
+passwd OXxtRvXlCPlOmmjl6GfchLsGMJE63 5Y5JhulPIy2pUpTlcIyb2W
+logout
+su RD4ZfBA3EXFmxzMBOKJRtTjESpt1 sX2taRjlX8SPxKvjdd86U
+show -author="GeoffreyGomez"
+show -name="doggone"
+select 978-1-339-30713-8
+modify -name="Jacky"
+show -author="GeoffreyGomez"
+logout
+select 978-1-339-30713-8
+modify -author="CameronCook" -price=240.79
+su lIMUw_xaq9a 4GWScfr
+logout
+su root b739XDfoCWPuci
+select 978-0-85730-732-3
+modify -name="Beirut" -author="JesusBlack" -keyword="paw" -price=451.93
+select 978-1-366-32894-6
+modify -name="chronic" -author="CarrieAnderson" -keyword="paw|gym|expressive" -price=88.85
+useradd CoYOVVeur4L47CqISkzva1YVWU5wyv Ud3t2VaRGOOBLDu3q7ZnAc 3 AbigailReese
+useradd sKnCSxFei7qpCQVMWf td 1 CassandraScott
+useradd WzWlYj8B7RZ9uoWcZQ7NZ 2IhMAZA4_m9HIF8vQLFCqkmapzM 1 JessicaSimpson
+select 978-0-08-874137-8
+modify -name="Whatley" -author="JenniferObrien" -keyword="ergative" -price=475.57
+select 978-0-85730-732-3
+modify -name="Deirdre" -price=152.61
+delete RD4ZfBA3EXFmxzMBOKJRtTjESpt1
+import 6 903.17
+logout
+select 978-0-249-83145-0
+modify -name="shack" -author="JenniferObrien" -keyword="extrapolate" -price=197.10
+su root b739XDfoCWPuci
+logout
+register Xui9hgi7t9mUDuwCtE9bU3bq xrErV MichaelWoods
+su WzWlYj8B7RZ9uoWcZQ7NZ 2IhMAZA4_m9HIF8vQLFCqkmapzM
+show -ISBN=978-0-85730-732-3
+buy 978-1-339-30713-8 1
+logout
+select 978-1-82363-654-6
+modify -name="Yemen" -author="MatthewWright" -keyword="paw|ergative|scary" -price=318.46
+select 978-1-366-32894-6
+modify -name="sustenance" -author="JenniferObrien" -keyword="sunset|extrapolate|gym|paw" -price=302.02
+select 978-1-09-190541-2
+modify -name="sizzle" -author="CameronCook" -keyword="expressive" -price=10.61
+select 978-0-900241-36-9
+modify -author="JohnChan" -price=426.83
+register 6DXTKrdXu5RrUlx_rJjXJJdU9wGk nkpUMzFH1aW98gI AmyObrien
+register ZOiebUT akhEgNifZ5ok_KzvN_PvGGuPaTDpB AllisonBlevins
+select 978-1-339-30713-8
+modify -name="amply" -price=81.90
+register cM1AYImlWPSf7RWyTzPPAVykFyFXzo gu SusanChang
+register lvG_ t78cW5MR4RgvLqqwyz2rImqN8JCV AnthonyCarroll
+select 978-1-339-30713-8
+modify -name="redbird" -author="JenniferObrien" -keyword="deliquesce|scary|tram"
+su Xui9hgi7t9mUDuwCtE9bU3bq xrErV
+buy 978-0-08-874137-8 1
+buy 978-0-900241-36-9 1
+select 978-1-886881-31-0
+modify -name="poach" -author="RichardManning" -keyword="tippy|deliquesce|extrapolate"
+passwd Xui9hgi7t9mUDuwCtE9bU3bq xrErV ioYshP0rxSklztexw
+show -ISBN=978-0-08-874137-8
+show -name="Whatley"
+select 978-0-533-93145-3
+modify -name="embargo" -author="KimberlyCross" -keyword="tippy|gym" -price=375.08
+logout
+select 978-1-886881-31-0
+modify -name="indorse" -keyword="numeral" -price=220.35
+su OXxtRvXlCPlOmmjl6GfchLsGMJE63 5Y5JhulPIy2pUpTlcIyb2W
+buy 978-1-248-95598-7 1
+select 978-0-912526-49-2
+modify -name="swirly" -author="HeidiLopez" -keyword="microbe|Osborne|numeral|extrapolate" -price=97.88
+passwd OXxtRvXlCPlOmmjl6GfchLsGMJE63 5Y5JhulPIy2pUpTlcIyb2W v_7JPi85HZlQ8xs5q3As0qw
+logout
+select 978-0-9858805-1-4
+modify -name="ex" -author="ChristinaKennedy" -keyword="Osborne|microbe|Schuylkill|paw" -price=178.23
+select 978-0-385-47585-3
+modify -name="ludicrous" -author="SaraJoseph" -keyword="Linus|Schuylkill" -price=181.59
+register vVCF ls NicoleSpears
+select 978-1-366-32894-6
+modify -name="squid" -author="HeidiLopez" -keyword="extrapolate|deliquesce|expressive|microbe"
+select 978-0-7371-6869-3
+modify -name="Halifax" -author="JesusBlack" -keyword="deliquesce|tippy|paw" -price=383.34
+su vVCF ls
+buy 978-0-912526-49-2 1
+logout
+select 978-1-63732-224-6
+modify -name="pressure" -author="KevinSchmidt" -keyword="Linus|Schuylkill|ergative" -price=376.30
+select 978-0-85730-732-3
+modify -author="SaraJoseph" -keyword="Schuylkill|tram" -price=417.69
+select 978-1-892653-56-7
+modify -name="scalar" -author="ChristinaKennedy" -keyword="Osborne|deliquesce|scary" -price=343.17
+register AqVr1WI1wE2EevVnRFQ5aCicowgAXq CWrQb4GJ SarahHolmes
+select 978-0-533-93145-3
+modify -author="CarrieAnderson" -keyword="paw" -price=189.29
+select 978-0-492-09173-1
+modify -name="honeysuckle" -author="MatthewWright" -keyword="Osborne" -price=247.87
+select 978-0-85730-732-3
+modify -author="JohnChan" -keyword="extrapolate|ergative|sunset|paw" -price=453.73
+select 978-0-85730-732-3
+modify -author="HeidiLopez" -keyword="deliquesce|microbe|Osborne|tram"
+register 5EjakAMuL2SWiB4g CBIk4dc46NHVd1D0ywEoaZpBi269MO JasmineMiller
+select 978-0-08-874137-8
+modify -keyword="microbe|ergative|Osborne|numeral|Schuylkill"
+su OXxtRvXlCPlOmmjl6GfchLsGMJE63 v_7JPi85HZlQ8xs5q3As0qw
+select 978-0-85730-732-3
+modify -name="incredulous" -keyword="numeral|tippy|sunset"
+show -keyword="gym"
+show -author="CameronCook"
+logout
+su 5EjakAMuL2SWiB4g CBIk4dc46NHVd1D0ywEoaZpBi269MO
+show -ISBN=978-1-339-30713-8
+buy 978-0-900241-36-9 1
+select 978-1-366-32894-6
+modify -name="Garrisonian" -author="CarrieAnderson" -keyword="expressive|deliquesce|microbe"
+select 978-1-312-36607-7
+modify -name="thong" -author="MatthewWright" -keyword="tram" -price=446.20
+show -name="Whatley"
+select 978-0-533-93145-3
+modify -name="cyanic" -keyword="Osborne|sunset|Linus|tippy" -price=75.79
+show -ISBN=978-0-533-93145-3
+logout
+su AqVr1WI1wE2EevVnRFQ5aCicowgAXq CWrQb4GJ
+show -name="doggone"
+show -keyword="ergative"
+select 978-0-85730-732-3
+modify -name="hateful" -author="MatthewWright"
+select 978-1-4499-0125-7
+modify -name="thud" -author="JohnChan" -keyword="ergative|microbe|gym|scary" -price=344.28
+buy 978-1-886881-31-0 1
+select 978-0-08-874137-8
+modify -author="KimberlyCross" -keyword="extrapolate|expressive|deliquesce|paw" -price=54.97
+logout
+select 978-1-339-30713-8
+modify -name="powdery"
+su OXxtRvXlCPlOmmjl6GfchLsGMJE63 v_7JPi85HZlQ8xs5q3As0qw
+logout
+su AqVr1WI1wE2EevVnRFQ5aCicowgAXq CWrQb4GJ
+select 978-0-9623228-6-0
+modify -name="leisure" -author="MarieAdkins" -keyword="Schuylkill|tippy|deliquesce|ergative" -price=401.33
+logout
+register v 7MLG5atDlqZ8WI9Odyz4VqfVBiTI JamieSilva
+select 978-1-339-30713-8
+modify -name="mathematic" -author="CarrieAnderson" -keyword="microbe|expressive|numeral" -price=34.25
+su ZOiebUT akhEgNifZ5ok_KzvN_PvGGuPaTDpB
+show -author="HeidiLopez"
+show -ISBN=978-1-339-30713-8
+select 978-1-312-36607-7
+modify -name="pathbreaking" -author="SamanthaDuarte" -keyword="numeral|gym|sunset"
+logout
+select 978-1-4499-0125-7
+modify -keyword="deliquesce|numeral|extrapolate|ergative|tram" -price=35.29
+su sKnCSxFei7qpCQVMWf td
+buy 978-1-248-95598-7 1
+select 978-0-533-93145-3
+modify -author="JohnChan" -keyword="expressive|tippy" -price=87.26
+buy 978-0-900241-36-9 1
+logout
+select 978-0-900241-36-9
+modify -name="gutsy" -keyword="ergative|Linus" -price=148.16
+select 978-1-248-95598-7
+modify -name="lavender" -author="CarrieAnderson" -keyword="Linus|tram|tippy" -price=494.80
+su cM1AYImlWPSf7RWyTzPPAVykFyFXzo gu
+select 978-0-692-98289-1
+modify -name="foothill" -author="MatthewWright" -keyword="gym|sunset|paw" -price=213.55
+logout
+select 978-0-85730-732-3
+modify -author="ChristinaKennedy" -keyword="ergative|scary|sunset|tram|Linus"
+select 978-0-8110-7729-3
+modify -name="secession" -author="HeidiLopez" -keyword="expressive|sunset|extrapolate|deliquesce" -price=356.90
+select 978-0-8010-2254-8
+modify -name="Carr" -author="JenniferObrien" -keyword="microbe|deliquesce|tippy|Osborne" -price=15.65
+select 978-0-900241-36-9
+modify -name="Connally" -author="JenniferObrien" -price=305.38
+su vVCF ls
+select 978-0-9623228-6-0
+modify -name="thallophyte" -author="CarrieAnderson"
+show -name="Jacky"
+logout
+register eApg9MAz9m4Ua LpmNVUkluL0LtWMU9VcO6ojv VeronicaFrey
+su 6DXTKrdXu5RrUlx_rJjXJJdU9wGk nkpUMzFH1aW98gI
+show -keyword="extrapolate"
+select 978-0-85730-732-3
+modify -price=13.29
+select 978-0-8324-3990-2
+modify -name="video" -author="RichardManning" -keyword="Osborne|paw|tippy|numeral|scary" -price=35.82
+logout
+su ZOiebUT akhEgNifZ5ok_KzvN_PvGGuPaTDpB
+select 978-0-900241-36-9
+modify -name="springtime" -author="KevinSchmidt" -keyword="tippy|microbe|Schuylkill|sunset" -price=135.79
+logout
+su 5EjakAMuL2SWiB4g CBIk4dc46NHVd1D0ywEoaZpBi269MO
+buy 978-0-9623228-6-0 1
+show -ISBN=978-0-8324-3990-2
+select 978-1-70191-415-5
+modify -name="idyllic" -author="KimberlyButler" -keyword="Osborne|tippy|Linus|tram" -price=372.32
+logout
+su 6DXTKrdXu5RrUlx_rJjXJJdU9wGk nkpUMzFH1aW98gI
+show -keyword="extrapolate"
+buy 978-1-886881-31-0 1
+select 978-0-533-93145-3
+modify -name="myel" -author="EvelynMoore" -price=307.03
+show -ISBN=978-0-85730-732-3
+logout
+select 978-0-86733-112-7
+modify -name="cryptographer" -author="GeoffreyGomez" -keyword="paw|Osborne|gym|Schuylkill" -price=252.72
+su 5EjakAMuL2SWiB4g CBIk4dc46NHVd1D0ywEoaZpBi269MO
+logout
+su CoYOVVeur4L47CqISkzva1YVWU5wyv Ud3t2VaRGOOBLDu3q7ZnAc
+select 978-0-9623228-6-0
+modify -name="hormone" -author="KimberlyButler" -keyword="Linus|expressive|ergative|Schuylkill" -price=287.82
+import 8 1842.25
+logout
+su ZOiebUT akhEgNifZ5ok_KzvN_PvGGuPaTDpB
+show -ISBN=978-1-312-36607-7
+select 978-0-348-04876-6
+modify -name="typesetting" -author="ChristinaKennedy" -keyword="tippy|Schuylkill|ergative|gym" -price=319.68
+select 978-0-533-93145-3
+modify -name="chancy" -author="EvelynMoore" -keyword="ergative|tippy|paw|expressive|extrapolate"
+show -author="GeoffreyGomez"
+show -author="KimberlyCross"
+show -name="yaw"
+show -name="poach"
+buy 978-0-692-98289-1 1
+show -ISBN=978-0-900241-36-9
+show -name="video"
+select 978-0-480-83259-9
+modify -name="mooch" -author="RichardManning" -keyword="Schuylkill|ergative|paw|tippy" -price=146.96
+show -keyword="sunset"
+logout
+su WzWlYj8B7RZ9uoWcZQ7NZ 2IhMAZA4_m9HIF8vQLFCqkmapzM
+buy 978-1-70191-415-5 1
+select 978-1-886881-31-0
+modify -name="cursory" -author="KimberlyCross" -keyword="sunset|Osborne|tippy|tram" -price=177.38
+buy 978-0-692-98289-1 1
+show -keyword="gym"
+select 978-0-446-08493-2
+modify -name="Copenhagen" -author="RichardManning" -keyword="Linus|tram|microbe" -price=353.75
+buy 978-0-533-93145-3 1
+show -ISBN=978-0-9623228-6-0
+show -keyword="ergative"
+select 978-0-900241-36-9
+modify -name="surprise" -author="CarrieAnderson" -keyword="tippy|numeral|Linus|scary" -price=357.03
+buy 978-0-9623228-6-0 1
+show -author="SamanthaDuarte"
+buy 978-1-339-30713-8 1
+passwd WzWlYj8B7RZ9uoWcZQ7NZ 2IhMAZA4_m9HIF8vQLFCqkmapzM Q1FPofdTZToGT5kwIUePdKqhqAp
+logout
+su Xui9hgi7t9mUDuwCtE9bU3bq ioYshP0rxSklztexw
+buy 978-1-339-30713-8 1
+buy 978-1-70191-415-5 1
+select 978-0-533-93145-3
+modify -name="parkway" -author="HeidiLopez" -keyword="tippy|Schuylkill" -price=121.19
+select 978-0-9709886-6-9
+modify -name="hasten" -author="JillCarrillo" -keyword="numeral|sunset" -price=474.52
+select 978-0-527-25074-4
+modify -name="Esposito" -author="CarrieAnderson" -keyword="tram|numeral|Linus" -price=491.86
+buy 978-1-4499-0125-7 1
+show -keyword="microbe"
+buy 978-0-446-08493-2 1
+show -keyword="Schuylkill"
+buy 978-1-4499-0125-7 1
+select 978-0-10-157784-7
+modify -name="permalloy" -author="RichardManning" -keyword="ergative|tram|gym" -price=416.05
+show -ISBN=978-0-10-157784-7
+select 978-0-10-157784-7
+modify -keyword="numeral" -price=64.31
+buy 978-0-10-157784-7 1
+show -keyword="sunset"
+logout
+register Wdjne8baHT8fTbN3OEqLg0 6wgGvrrH73uO6ose6VUiya AnthonyGillespie
+select 978-1-82930-814-0
+modify -name="delusion" -author="RickyBaker" -keyword="sunset" -price=387.75
+select 978-1-56242-178-6
+modify -name="deal" -author="GeoffreyGomez" -keyword="numeral|paw|expressive" -price=354.77
+register HB95 h9Qmh3e5dUEvt3rOytq9wB TheresaRasmussen
+su HB95 h9Qmh3e5dUEvt3rOytq9wB
+select 978-1-155-48175-3
+modify -name="bluster" -author="JohnChan" -keyword="deliquesce|gym" -price=402.88
+show -name="cursory"
+select 978-0-696-48517-6
+modify -name="Odessa" -author="KimberlyButler" -keyword="gym|expressive" -price=195.91
+buy 978-0-348-04876-6 1
+show -name="thud"
+logout
+select 978-1-248-95598-7
+modify -keyword="tippy|sunset|deliquesce|expressive" -price=107.95
+su AqVr1WI1wE2EevVnRFQ5aCicowgAXq CWrQb4GJ
+passwd AqVr1WI1wE2EevVnRFQ5aCicowgAXq CWrQb4GJ vuo3Gb5YUbE
+buy 978-0-527-25074-4 1
+buy 978-0-08-874137-8 1
+select 978-1-312-36607-7
+modify -author="RichardManning" -keyword="expressive|tram|numeral|ergative"
+show -author="MatthewWright"
+select 978-0-88673-602-6
+modify -name="margin" -author="RichardManning" -keyword="Schuylkill|extrapolate|ergative" -price=438.97
+buy 978-1-339-30713-8 1
+buy 978-0-10-157784-7 1
+show -ISBN=978-1-339-30713-8
+select 978-0-10-157784-7
+modify -author="CameronCook" -keyword="expressive|tippy|Linus|deliquesce"
+buy 978-0-08-874137-8 1
+logout
+su root b739XDfoCWPuci
+useradd FVd8HIUC4KLhiWyTkySvL4mT_XPo1U s6C 3 JamesGardner
+logout
+su Xui9hgi7t9mUDuwCtE9bU3bq ioYshP0rxSklztexw
+logout
+register Bf4 cpW40XPErP7qIq0FwJJAKx DianeMedina
+su v 7MLG5atDlqZ8WI9Odyz4VqfVBiTI
+select 978-0-358-56331-0
+modify -name="scrubby" -author="SamanthaDuarte" -keyword="Schuylkill" -price=240.99
+logout
+su Xui9hgi7t9mUDuwCtE9bU3bq ioYshP0rxSklztexw
+logout
+su ZOiebUT akhEgNifZ5ok_KzvN_PvGGuPaTDpB
+select 978-1-4499-0125-7
+modify -name="necromantic" -author="CarrieAnderson" -keyword="deliquesce|sunset|scary|ergative" -price=445.71
+select 978-0-294-64970-3
+modify -name="lithe" -author="HeidiLopez" -keyword="ergative|paw|Osborne" -price=397.13
+select 978-1-4238-3775-6
+modify -name="drag" -author="SaraJoseph" -keyword="microbe|tippy|ergative|deliquesce|sunset" -price=152.02
+passwd 6DXTKrdXu5RrUlx_rJjXJJdU9wGk 2g46Nf5rEvxxWOMJdpm9Zb 4H5wdsLk4
+buy 978-0-446-08493-2 1
+logout
+select 978-0-647-72143-8
+modify -name="housework" -author="KimberlyCross" -keyword="tippy|tram|scary|Schuylkill|Linus" -price=348.38
+register hl0SijRwWIbJ8 3 Mr.MichaelRamosPhD
+register NjATh6pjI0NFPdiaJD 71NhNITt96P63fMamxuPGY5idhEYj ElizabethCain
+select 978-0-9709886-6-9
+modify -name="ii" -author="JillCarrillo" -price=404.84
+select 978-1-4191-1064-1
+modify -name="Terra" -author="RichardManning" -keyword="microbe|scary|deliquesce" -price=139.71
+select 978-0-527-25074-4
+modify -name="previous" -author="KimberlyCross" -keyword="gym|paw|microbe" -price=8.90
+select 978-1-4238-3775-6
+modify -name="theme" -author="KimberlyButler" -price=236.70
+su 5EjakAMuL2SWiB4g CBIk4dc46NHVd1D0ywEoaZpBi269MO
+logout
+su HB95 h9Qmh3e5dUEvt3rOytq9wB
+buy 978-0-85730-732-3 1
+show -author="RichardManning"
+select 978-0-348-04876-6
+modify -name="Ogden" -author="KimberlyCross" -price=436.49
+buy 978-0-8324-3990-2 1
+show -keyword="tram"
+buy 978-1-70191-415-5 1
+logout
+su eApg9MAz9m4Ua LpmNVUkluL0LtWMU9VcO6ojv
+show -name="Garrisonian"
+show -name="Ogden"
+buy 978-0-480-83259-9 1
+buy 978-0-8324-3990-2 1
+logout
+su lvG_ t78cW5MR4RgvLqqwyz2rImqN8JCV
+logout
+su eApg9MAz9m4Ua LpmNVUkluL0LtWMU9VcO6ojv
+select 978-0-912526-49-2
+modify -author="RichardManning" -keyword="gym" -price=94.13
+show -ISBN=978-0-480-83259-9
+buy 978-0-527-25074-4 1
+logout
+su lIMUw_xaq9a 4GWScfr
+buy 978-1-155-48175-3 1
+logout
+register Aw 7jT8Ld2aEh_Whzrxd2L9BVgYmg ChristopherRobinson
+su Aw 7jT8Ld2aEh_Whzrxd2L9BVgYmg
+show -name="lithe"
+select 978-0-08-874137-8
+modify -keyword="expressive|Schuylkill|Linus|extrapolate" -price=175.75
+select 978-1-07-299798-6
+modify -name="fortin" -author="CarrieAnderson" -keyword="Linus|gym|Osborne|ergative" -price=312.65
+select 978-0-533-93145-3
+modify -name="peridotite" -author="MarieAdkins" -price=47.13
+logout
+select 978-1-366-32894-6
+modify -name="Boucher" -keyword="paw" -price=109.73
+select 978-1-70191-415-5
+modify -name="inceptor" -keyword="extrapolate|tram|ergative|Schuylkill"
+select 978-0-696-48517-6
+modify -price=436.40
+select 978-1-64482-316-3
+modify -name="decline" -author="RickyBaker" -keyword="ergative|extrapolate|scary" -price=388.51
+select 978-1-327-14799-9
+modify -name="demolish" -author="JohnChan" -keyword="gym|sunset|paw|scary|Osborne" -price=288.07
+su 6DXTKrdXu5RrUlx_rJjXJJdU9wGk nkpUMzFH1aW98gI
+show -author="RichardManning"
+logout
+su root b739XDfoCWPuci
+select 978-0-696-48517-6
+modify -author="EvelynMoore" -price=82.84
+useradd TVkfe0MVbgi0B8hbH9z4 7N6LVi7W5M5XWgmiBPngtX6Jvj6t 3 AnthonyHoffman
+select 978-0-10-157784-7
+modify -name="interpretation" -author="MarieAdkins"
+select 978-1-81401-511-4
+modify -name="gantlet" -author="JenniferObrien" -keyword="sunset|tram" -price=44.62
+import 14 349.73
+logout
+register SicKy5bc9vdw7W8O JgJsac596kcWad83J AnnetteReed
+su vVCF ls
+show -name="necromantic"
+logout
+su hl0SijRwWIbJ8 3
+buy 978-0-08-874137-8 1
+buy 978-0-348-04876-6 1
+show -name="Whatley"
+select 978-0-9709886-6-9
+modify -name="implicit"
+buy 978-1-07-299798-6 1
+buy 978-1-886881-31-0 1
+show -keyword="tram"
+logout
+su cM1AYImlWPSf7RWyTzPPAVykFyFXzo gu
+buy 978-0-527-25074-4 1
+buy 978-0-527-25074-4 1
+logout
+su SicKy5bc9vdw7W8O JgJsac596kcWad83J
+select 978-1-267-48091-0
+modify -name="warranty" -author="KimberlyButler" -keyword="deliquesce|paw|tram" -price=353.53
+show -author="KimberlyButler"
+passwd SicKy5bc9vdw7W8O JgJsac596kcWad83J PUvhe
+buy 978-1-07-299798-6 1
+select 978-1-70023-462-9
+modify -name="NBS" -author="SaraJoseph" -keyword="numeral|tippy|ergative" -price=230.14
+buy 978-0-692-98289-1 1
+select 978-0-09-963422-5
+modify -name="woody" -author="JenniferObrien" -keyword="numeral|tippy|tram" -price=140.81
+logout
+su FVd8HIUC4KLhiWyTkySvL4mT_XPo1U s6C
+useradd IAhgp9iulcKbqlb ztjo4VazHWSz9EOxZnsiAh8 1 ScottSmith
+select 978-1-366-32894-6
+modify -name="psycho" -keyword="sunset|tram|Linus"
+useradd hTP VGBO0faLFYerogwQuv2cJNNeWJVj 1 TimothyDrake
+logout
+register PO9_y0KC4Qfaq_ZPPX1Au2 gpxdzzMokL3xy WesleyMoore
+select 978-1-918163-02-5
+modify -name="townhouse" -author="GeoffreyGomez" -keyword="Osborne|paw|deliquesce" -price=488.65
+su NjATh6pjI0NFPdiaJD 71NhNITt96P63fMamxuPGY5idhEYj
+logout
+select 978-0-378-96216-2
+modify -name="daylight" -author="EvelynMoore" -keyword="Linus|gym|Schuylkill|deliquesce" -price=354.61
+su 5EjakAMuL2SWiB4g CBIk4dc46NHVd1D0ywEoaZpBi269MO
+logout
+su vVCF ls
+buy 978-0-10-157784-7 1
+buy 978-0-696-48517-6 1
+buy 978-0-696-48517-6 1
+select 978-0-248-85367-5
+modify -name="myofibril" -author="KevinSchmidt" -keyword="paw|microbe|Osborne|sunset" -price=386.85
+select 978-1-884479-78-6
+modify -name="sovkhoz" -author="SamanthaDuarte" -keyword="microbe|scary|numeral|Osborne|expressive" -price=453.79
+show -ISBN=978-1-248-95598-7
+buy 978-1-155-48175-3 1
+show -keyword="Linus"
+select 978-1-334-99071-7
+modify -name="suffer" -author="JillCarrillo" -keyword="deliquesce|microbe|paw|Osborne" -price=419.68
+select 978-1-4238-3775-6
+modify -name="mount" -keyword="gym" -price=90.51
+select 978-1-886881-31-0
+modify -author="RickyBaker" -keyword="extrapolate|tram" -price=297.91
+logout
+su OXxtRvXlCPlOmmjl6GfchLsGMJE63 v_7JPi85HZlQ8xs5q3As0qw
+select 978-0-87684-018-4
+modify -name="Kirby" -author="SamanthaDuarte" -keyword="tram|microbe|numeral" -price=307.45
+show -keyword="sunset"
+logout
+register U ocU3hCwUhRgm EthanPollard
+select 978-1-4499-0125-7
+modify -name="methodology" -author="HeidiLopez" -keyword="tram"
+select 978-0-446-08493-2
+modify -name="Ababa" -author="SaraJoseph" -keyword="Linus|sunset|paw|deliquesce" -price=166.30
+su eApg9MAz9m4Ua LpmNVUkluL0LtWMU9VcO6ojv
+buy 978-1-886881-31-0 1
+show -name="lithe"
+select 978-0-08-874137-8
+modify -name="Haas" -author="HeidiLopez" -keyword="numeral|Schuylkill" -price=81.50
+show -author="SamanthaDuarte"
+logout
+register uAr4Z101L4W9g1Ia9guJE Dm3dVT3ewoLRns_qn6RmpWClM6E1kn JohnMartin
+register CGq2BS DbiUQjqYYz ChristopherAllen
+select 978-0-85730-732-3
+modify -name="polonium" -price=348.81
+su U ocU3hCwUhRgm
+show -keyword="gym"
+select 978-1-4238-3775-6
+modify -author="JesusBlack" -keyword="ergative|expressive"
+passwd U ocU3hCwUhRgm JxAoEi
+logout
+su AqVr1WI1wE2EevVnRFQ5aCicowgAXq vuo3Gb5YUbE
+logout
+su HB95 h9Qmh3e5dUEvt3rOytq9wB
+select 978-1-334-99071-7
+modify -name="comparative"
+buy 978-1-366-32894-6 1
+buy 978-0-248-85367-5 1
+show -author="JillCarrillo"
+buy 978-0-348-04876-6 1
+logout
+select 978-1-992290-06-8
+modify -name="carboxy" -author="EvelynMoore" -keyword="microbe|Schuylkill|expressive" -price=20.17
+register 6XNr5en07AmahD2 h67msbf7CQTA7vDxYNNFZ KyleHowell
+register xIK 1b GinaDavis
+select 978-0-09-963422-5
+modify -name="surety" -author="RickyBaker" -keyword="deliquesce|tippy"
+register bzYJYcEZ3nZI tibqvfA_niyW1CXbjQd JacobFisher
+select 978-1-06-148515-9
+modify -name="checkout" -author="RichardManning" -keyword="Linus|numeral" -price=48.87
+select 978-0-8324-3990-2
+modify -author="ChristinaKennedy" -keyword="tram"
+select 978-1-4499-0125-7
+modify -author="SaraJoseph" -keyword="tram"
+select 978-1-5096-3287-9
+modify -name="yachtsman" -author="RickyBaker" -keyword="tippy|deliquesce|Osborne" -price=283.19
+su sKnCSxFei7qpCQVMWf td
+logout
+su IAhgp9iulcKbqlb ztjo4VazHWSz9EOxZnsiAh8
+logout
+su Aw 7jT8Ld2aEh_Whzrxd2L9BVgYmg
+logout
+register UCT8X4UV_DWqBXAI0hK8z 2BG5ExmG9dKsiqoBbwIC4zcgs CharlesGreen
+register e2ZTxAfZ11Sfy1ECKD qnNIa6f_rQB CraigEllis
+su cM1AYImlWPSf7RWyTzPPAVykFyFXzo gu
+select 978-1-886881-31-0
+modify -name="embower" -author="RickyBaker" -price=317.33
+passwd cM1AYImlWPSf7RWyTzPPAVykFyFXzo gu gtuwh9
+show -author="CarrieAnderson"
+show -ISBN=978-0-348-04876-6
+show -keyword="Schuylkill"
+select 978-0-348-04876-6
+modify -name="psychic" -keyword="Osborne" -price=221.34
+buy 978-0-09-963422-5 1
+select 978-1-334-99071-7
+modify -name="contemplate" -author="EvelynMoore"

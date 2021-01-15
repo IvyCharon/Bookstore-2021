@@ -1,0 +1,38 @@
+su root sjtu
+useradd worker worker_password 3 Liu,TaylorandStewart
+select 9787544287722
+modify -name="Phillips,HallandWelch" -keyword="KlinePLC|GoldenInc" -author="SantiagoPLC" -price=45.00
+select 9787559410443
+modify -name="GonzalesLLC" -keyword="KlinePLC|SuttonPLC" -author="HunterLtd" -price=38
+logout
+su worker worker_password
+select 9787559410443
+import 48 233.33
+select 9787544287722
+import 15 150
+logout
+register user0 user0_password Dalton-Schwartz
+su user0 user0_password 
+buy 9787559410443 5 
+buy 9787544287722 3
+logout
+su worker worker_password 
+buy 9787559410443 20
+select 9787559410443
+import 20 200
+select 9787544287722
+import 3 30
+buy 9787544287722 5
+logout
+su root sjtu 
+buy 9787544287722 1
+select 9787544287722
+import 20 200.00
+show finance
+show finance 1
+show finance 3
+show finance 5
+show finance 10
+show
+logout
+exit

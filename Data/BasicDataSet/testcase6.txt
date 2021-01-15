@@ -1,0 +1,40 @@
+su root sjtu
+modify -name="Cortez,OliverandBall"
+import 48 233.33
+select 9787544287722
+modify -ISBN=9787544287723
+select 9787544287722
+modify -ISBN=9787544287723
+select 9787544287723
+modify -name="Cortez,OliverandBall" -keyword="Pittman,TaylorandMartinez|McclureGroup" -author="White,MoralesandHanson"
+import 48 233.33
+logout
+show -ISBN=9787544287722
+show -ISBN=9787544287723
+register user0 user0_password RussellGroup
+su user0 user0_password
+show -ISBN=9787544287723
+buy 9787544287723 0
+logout
+su root sjtu
+show finance
+select 9787544287723
+modify -price=45.00
+logout
+su user0 user0_password
+buy 9787544287723 24
+buy 9787544287723 25
+logout
+su root sjtu
+select 9787544287723
+modify -price=40.00
+import 1 10
+logout
+su user0 user0_password
+show -ISBN=9787544287723
+buy 9787544287723 25
+logout
+su root sjtu
+show finance
+logout
+exit

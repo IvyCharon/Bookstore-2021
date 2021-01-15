@@ -1,0 +1,5 @@
+su root sjtu
+logout
+su worker worker_password
+show -ISBN=12345678921
+exit

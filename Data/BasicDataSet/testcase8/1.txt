@@ -1,0 +1,2005 @@
+su root sjtu
+useradd worker worker_password 3 Leonard,CarpenterandMiles
+logout
+su worker worker_password
+select 1234567890
+modify -name="0's_book" -keyword="0|1|2" -author="0" -price=0
+select 1234567891
+modify -name="1's_book" -keyword="1|2|3" -author="2" -price=1
+select 1234567892
+modify -name="2's_book" -keyword="2|3|4" -author="4" -price=2
+select 1234567893
+modify -name="3's_book" -keyword="3|4|5" -author="6" -price=3
+select 1234567894
+modify -name="4's_book" -keyword="4|5|6" -author="8" -price=4
+select 1234567895
+modify -name="5's_book" -keyword="5|6|7" -author="10" -price=5
+select 1234567896
+modify -name="6's_book" -keyword="6|7|8" -author="12" -price=6
+select 1234567897
+modify -name="7's_book" -keyword="7|8|9" -author="14" -price=7
+select 1234567898
+modify -name="8's_book" -keyword="8|9|10" -author="16" -price=8
+select 1234567899
+modify -name="9's_book" -keyword="9|10|11" -author="18" -price=9
+select 12345678910
+modify -name="10's_book" -keyword="10|11|12" -author="20" -price=10
+select 12345678911
+modify -name="11's_book" -keyword="11|12|13" -author="22" -price=11
+select 12345678912
+modify -name="12's_book" -keyword="12|13|14" -author="24" -price=12
+select 12345678913
+modify -name="13's_book" -keyword="13|14|15" -author="26" -price=13
+select 12345678914
+modify -name="14's_book" -keyword="14|15|16" -author="28" -price=14
+select 12345678915
+modify -name="15's_book" -keyword="15|16|17" -author="30" -price=15
+select 12345678916
+modify -name="16's_book" -keyword="16|17|18" -author="32" -price=16
+select 12345678917
+modify -name="17's_book" -keyword="17|18|19" -author="34" -price=17
+select 12345678918
+modify -name="18's_book" -keyword="18|19|20" -author="36" -price=18
+select 12345678919
+modify -name="19's_book" -keyword="19|20|21" -author="38" -price=19
+select 12345678920
+modify -name="20's_book" -keyword="20|21|22" -author="40" -price=20
+select 12345678921
+modify -name="21's_book" -keyword="21|22|23" -author="42" -price=21
+select 12345678922
+modify -name="22's_book" -keyword="22|23|24" -author="44" -price=22
+select 12345678923
+modify -name="23's_book" -keyword="23|24|25" -author="46" -price=23
+select 12345678924
+modify -name="24's_book" -keyword="24|25|26" -author="48" -price=24
+select 12345678925
+modify -name="25's_book" -keyword="25|26|27" -author="50" -price=25
+select 12345678926
+modify -name="26's_book" -keyword="26|27|28" -author="52" -price=26
+select 12345678927
+modify -name="27's_book" -keyword="27|28|29" -author="54" -price=27
+select 12345678928
+modify -name="28's_book" -keyword="28|29|30" -author="56" -price=28
+select 12345678929
+modify -name="29's_book" -keyword="29|30|31" -author="58" -price=29
+select 12345678930
+modify -name="30's_book" -keyword="30|31|32" -author="60" -price=30
+select 12345678931
+modify -name="31's_book" -keyword="31|32|33" -author="62" -price=31
+select 12345678932
+modify -name="32's_book" -keyword="32|33|34" -author="64" -price=32
+select 12345678933
+modify -name="33's_book" -keyword="33|34|35" -author="66" -price=33
+select 12345678934
+modify -name="34's_book" -keyword="34|35|36" -author="68" -price=34
+select 12345678935
+modify -name="35's_book" -keyword="35|36|37" -author="70" -price=35
+select 12345678936
+modify -name="36's_book" -keyword="36|37|38" -author="72" -price=36
+select 12345678937
+modify -name="37's_book" -keyword="37|38|39" -author="74" -price=37
+select 12345678938
+modify -name="38's_book" -keyword="38|39|40" -author="76" -price=38
+select 12345678939
+modify -name="39's_book" -keyword="39|40|41" -author="78" -price=39
+select 12345678940
+modify -name="40's_book" -keyword="40|41|42" -author="80" -price=40
+select 12345678941
+modify -name="41's_book" -keyword="41|42|43" -author="82" -price=41
+select 12345678942
+modify -name="42's_book" -keyword="42|43|44" -author="84" -price=42
+select 12345678943
+modify -name="43's_book" -keyword="43|44|45" -author="86" -price=43
+select 12345678944
+modify -name="44's_book" -keyword="44|45|46" -author="88" -price=44
+select 12345678945
+modify -name="45's_book" -keyword="45|46|47" -author="90" -price=45
+select 12345678946
+modify -name="46's_book" -keyword="46|47|48" -author="92" -price=46
+select 12345678947
+modify -name="47's_book" -keyword="47|48|49" -author="94" -price=47
+select 12345678948
+modify -name="48's_book" -keyword="48|49|50" -author="96" -price=48
+select 12345678949
+modify -name="49's_book" -keyword="49|50|51" -author="98" -price=49
+select 12345678950
+modify -name="50's_book" -keyword="50|51|52" -author="100" -price=50
+select 12345678951
+modify -name="51's_book" -keyword="51|52|53" -author="102" -price=51
+select 12345678952
+modify -name="52's_book" -keyword="52|53|54" -author="104" -price=52
+select 12345678953
+modify -name="53's_book" -keyword="53|54|55" -author="106" -price=53
+select 12345678954
+modify -name="54's_book" -keyword="54|55|56" -author="108" -price=54
+select 12345678955
+modify -name="55's_book" -keyword="55|56|57" -author="110" -price=55
+select 12345678956
+modify -name="56's_book" -keyword="56|57|58" -author="112" -price=56
+select 12345678957
+modify -name="57's_book" -keyword="57|58|59" -author="114" -price=57
+select 12345678958
+modify -name="58's_book" -keyword="58|59|60" -author="116" -price=58
+select 12345678959
+modify -name="59's_book" -keyword="59|60|61" -author="118" -price=59
+select 12345678960
+modify -name="60's_book" -keyword="60|61|62" -author="120" -price=60
+select 12345678961
+modify -name="61's_book" -keyword="61|62|63" -author="122" -price=61
+select 12345678962
+modify -name="62's_book" -keyword="62|63|64" -author="124" -price=62
+select 12345678963
+modify -name="63's_book" -keyword="63|64|65" -author="126" -price=63
+select 12345678964
+modify -name="64's_book" -keyword="64|65|66" -author="128" -price=64
+select 12345678965
+modify -name="65's_book" -keyword="65|66|67" -author="130" -price=65
+select 12345678966
+modify -name="66's_book" -keyword="66|67|68" -author="132" -price=66
+select 12345678967
+modify -name="67's_book" -keyword="67|68|69" -author="134" -price=67
+select 12345678968
+modify -name="68's_book" -keyword="68|69|70" -author="136" -price=68
+select 12345678969
+modify -name="69's_book" -keyword="69|70|71" -author="138" -price=69
+select 12345678970
+modify -name="70's_book" -keyword="70|71|72" -author="140" -price=70
+select 12345678971
+modify -name="71's_book" -keyword="71|72|73" -author="142" -price=71
+select 12345678972
+modify -name="72's_book" -keyword="72|73|74" -author="144" -price=72
+select 12345678973
+modify -name="73's_book" -keyword="73|74|75" -author="146" -price=73
+select 12345678974
+modify -name="74's_book" -keyword="74|75|76" -author="148" -price=74
+select 12345678975
+modify -name="75's_book" -keyword="75|76|77" -author="150" -price=75
+select 12345678976
+modify -name="76's_book" -keyword="76|77|78" -author="152" -price=76
+select 12345678977
+modify -name="77's_book" -keyword="77|78|79" -author="154" -price=77
+select 12345678978
+modify -name="78's_book" -keyword="78|79|80" -author="156" -price=78
+select 12345678979
+modify -name="79's_book" -keyword="79|80|81" -author="158" -price=79
+select 12345678980
+modify -name="80's_book" -keyword="80|81|82" -author="160" -price=80
+select 12345678981
+modify -name="81's_book" -keyword="81|82|83" -author="162" -price=81
+select 12345678982
+modify -name="82's_book" -keyword="82|83|84" -author="164" -price=82
+select 12345678983
+modify -name="83's_book" -keyword="83|84|85" -author="166" -price=83
+select 12345678984
+modify -name="84's_book" -keyword="84|85|86" -author="168" -price=84
+select 12345678985
+modify -name="85's_book" -keyword="85|86|87" -author="170" -price=85
+select 12345678986
+modify -name="86's_book" -keyword="86|87|88" -author="172" -price=86
+select 12345678987
+modify -name="87's_book" -keyword="87|88|89" -author="174" -price=87
+select 12345678988
+modify -name="88's_book" -keyword="88|89|90" -author="176" -price=88
+select 12345678989
+modify -name="89's_book" -keyword="89|90|91" -author="178" -price=89
+select 12345678990
+modify -name="90's_book" -keyword="90|91|92" -author="180" -price=90
+select 12345678991
+modify -name="91's_book" -keyword="91|92|93" -author="182" -price=91
+select 12345678992
+modify -name="92's_book" -keyword="92|93|94" -author="184" -price=92
+select 12345678993
+modify -name="93's_book" -keyword="93|94|95" -author="186" -price=93
+select 12345678994
+modify -name="94's_book" -keyword="94|95|96" -author="188" -price=94
+select 12345678995
+modify -name="95's_book" -keyword="95|96|97" -author="190" -price=95
+select 12345678996
+modify -name="96's_book" -keyword="96|97|98" -author="192" -price=96
+select 12345678997
+modify -name="97's_book" -keyword="97|98|99" -author="194" -price=97
+select 12345678998
+modify -name="98's_book" -keyword="98|99|100" -author="196" -price=98
+select 12345678999
+modify -name="99's_book" -keyword="99|100|101" -author="198" -price=99
+select 123456789100
+modify -name="100's_book" -keyword="100|101|102" -author="200" -price=100
+select 123456789101
+modify -name="101's_book" -keyword="101|102|103" -author="202" -price=101
+select 123456789102
+modify -name="102's_book" -keyword="102|103|104" -author="204" -price=102
+select 123456789103
+modify -name="103's_book" -keyword="103|104|105" -author="206" -price=103
+select 123456789104
+modify -name="104's_book" -keyword="104|105|106" -author="208" -price=104
+select 123456789105
+modify -name="105's_book" -keyword="105|106|107" -author="210" -price=105
+select 123456789106
+modify -name="106's_book" -keyword="106|107|108" -author="212" -price=106
+select 123456789107
+modify -name="107's_book" -keyword="107|108|109" -author="214" -price=107
+select 123456789108
+modify -name="108's_book" -keyword="108|109|110" -author="216" -price=108
+select 123456789109
+modify -name="109's_book" -keyword="109|110|111" -author="218" -price=109
+select 123456789110
+modify -name="110's_book" -keyword="110|111|112" -author="220" -price=110
+select 123456789111
+modify -name="111's_book" -keyword="111|112|113" -author="222" -price=111
+select 123456789112
+modify -name="112's_book" -keyword="112|113|114" -author="224" -price=112
+select 123456789113
+modify -name="113's_book" -keyword="113|114|115" -author="226" -price=113
+select 123456789114
+modify -name="114's_book" -keyword="114|115|116" -author="228" -price=114
+select 123456789115
+modify -name="115's_book" -keyword="115|116|117" -author="230" -price=115
+select 123456789116
+modify -name="116's_book" -keyword="116|117|118" -author="232" -price=116
+select 123456789117
+modify -name="117's_book" -keyword="117|118|119" -author="234" -price=117
+select 123456789118
+modify -name="118's_book" -keyword="118|119|120" -author="236" -price=118
+select 123456789119
+modify -name="119's_book" -keyword="119|120|121" -author="238" -price=119
+select 123456789120
+modify -name="120's_book" -keyword="120|121|122" -author="240" -price=120
+select 123456789121
+modify -name="121's_book" -keyword="121|122|123" -author="242" -price=121
+select 123456789122
+modify -name="122's_book" -keyword="122|123|124" -author="244" -price=122
+select 123456789123
+modify -name="123's_book" -keyword="123|124|125" -author="246" -price=123
+select 123456789124
+modify -name="124's_book" -keyword="124|125|126" -author="248" -price=124
+select 123456789125
+modify -name="125's_book" -keyword="125|126|127" -author="250" -price=125
+select 123456789126
+modify -name="126's_book" -keyword="126|127|128" -author="252" -price=126
+select 123456789127
+modify -name="127's_book" -keyword="127|128|129" -author="254" -price=127
+select 123456789128
+modify -name="128's_book" -keyword="128|129|130" -author="256" -price=128
+select 123456789129
+modify -name="129's_book" -keyword="129|130|131" -author="258" -price=129
+select 123456789130
+modify -name="130's_book" -keyword="130|131|132" -author="260" -price=130
+select 123456789131
+modify -name="131's_book" -keyword="131|132|133" -author="262" -price=131
+select 123456789132
+modify -name="132's_book" -keyword="132|133|134" -author="264" -price=132
+select 123456789133
+modify -name="133's_book" -keyword="133|134|135" -author="266" -price=133
+select 123456789134
+modify -name="134's_book" -keyword="134|135|136" -author="268" -price=134
+select 123456789135
+modify -name="135's_book" -keyword="135|136|137" -author="270" -price=135
+select 123456789136
+modify -name="136's_book" -keyword="136|137|138" -author="272" -price=136
+select 123456789137
+modify -name="137's_book" -keyword="137|138|139" -author="274" -price=137
+select 123456789138
+modify -name="138's_book" -keyword="138|139|140" -author="276" -price=138
+select 123456789139
+modify -name="139's_book" -keyword="139|140|141" -author="278" -price=139
+select 123456789140
+modify -name="140's_book" -keyword="140|141|142" -author="280" -price=140
+select 123456789141
+modify -name="141's_book" -keyword="141|142|143" -author="282" -price=141
+select 123456789142
+modify -name="142's_book" -keyword="142|143|144" -author="284" -price=142
+select 123456789143
+modify -name="143's_book" -keyword="143|144|145" -author="286" -price=143
+select 123456789144
+modify -name="144's_book" -keyword="144|145|146" -author="288" -price=144
+select 123456789145
+modify -name="145's_book" -keyword="145|146|147" -author="290" -price=145
+select 123456789146
+modify -name="146's_book" -keyword="146|147|148" -author="292" -price=146
+select 123456789147
+modify -name="147's_book" -keyword="147|148|149" -author="294" -price=147
+select 123456789148
+modify -name="148's_book" -keyword="148|149|150" -author="296" -price=148
+select 123456789149
+modify -name="149's_book" -keyword="149|150|151" -author="298" -price=149
+select 123456789150
+modify -name="150's_book" -keyword="150|151|152" -author="300" -price=150
+select 123456789151
+modify -name="151's_book" -keyword="151|152|153" -author="302" -price=151
+select 123456789152
+modify -name="152's_book" -keyword="152|153|154" -author="304" -price=152
+select 123456789153
+modify -name="153's_book" -keyword="153|154|155" -author="306" -price=153
+select 123456789154
+modify -name="154's_book" -keyword="154|155|156" -author="308" -price=154
+select 123456789155
+modify -name="155's_book" -keyword="155|156|157" -author="310" -price=155
+select 123456789156
+modify -name="156's_book" -keyword="156|157|158" -author="312" -price=156
+select 123456789157
+modify -name="157's_book" -keyword="157|158|159" -author="314" -price=157
+select 123456789158
+modify -name="158's_book" -keyword="158|159|160" -author="316" -price=158
+select 123456789159
+modify -name="159's_book" -keyword="159|160|161" -author="318" -price=159
+select 123456789160
+modify -name="160's_book" -keyword="160|161|162" -author="320" -price=160
+select 123456789161
+modify -name="161's_book" -keyword="161|162|163" -author="322" -price=161
+select 123456789162
+modify -name="162's_book" -keyword="162|163|164" -author="324" -price=162
+select 123456789163
+modify -name="163's_book" -keyword="163|164|165" -author="326" -price=163
+select 123456789164
+modify -name="164's_book" -keyword="164|165|166" -author="328" -price=164
+select 123456789165
+modify -name="165's_book" -keyword="165|166|167" -author="330" -price=165
+select 123456789166
+modify -name="166's_book" -keyword="166|167|168" -author="332" -price=166
+select 123456789167
+modify -name="167's_book" -keyword="167|168|169" -author="334" -price=167
+select 123456789168
+modify -name="168's_book" -keyword="168|169|170" -author="336" -price=168
+select 123456789169
+modify -name="169's_book" -keyword="169|170|171" -author="338" -price=169
+select 123456789170
+modify -name="170's_book" -keyword="170|171|172" -author="340" -price=170
+select 123456789171
+modify -name="171's_book" -keyword="171|172|173" -author="342" -price=171
+select 123456789172
+modify -name="172's_book" -keyword="172|173|174" -author="344" -price=172
+select 123456789173
+modify -name="173's_book" -keyword="173|174|175" -author="346" -price=173
+select 123456789174
+modify -name="174's_book" -keyword="174|175|176" -author="348" -price=174
+select 123456789175
+modify -name="175's_book" -keyword="175|176|177" -author="350" -price=175
+select 123456789176
+modify -name="176's_book" -keyword="176|177|178" -author="352" -price=176
+select 123456789177
+modify -name="177's_book" -keyword="177|178|179" -author="354" -price=177
+select 123456789178
+modify -name="178's_book" -keyword="178|179|180" -author="356" -price=178
+select 123456789179
+modify -name="179's_book" -keyword="179|180|181" -author="358" -price=179
+select 123456789180
+modify -name="180's_book" -keyword="180|181|182" -author="360" -price=180
+select 123456789181
+modify -name="181's_book" -keyword="181|182|183" -author="362" -price=181
+select 123456789182
+modify -name="182's_book" -keyword="182|183|184" -author="364" -price=182
+select 123456789183
+modify -name="183's_book" -keyword="183|184|185" -author="366" -price=183
+select 123456789184
+modify -name="184's_book" -keyword="184|185|186" -author="368" -price=184
+select 123456789185
+modify -name="185's_book" -keyword="185|186|187" -author="370" -price=185
+select 123456789186
+modify -name="186's_book" -keyword="186|187|188" -author="372" -price=186
+select 123456789187
+modify -name="187's_book" -keyword="187|188|189" -author="374" -price=187
+select 123456789188
+modify -name="188's_book" -keyword="188|189|190" -author="376" -price=188
+select 123456789189
+modify -name="189's_book" -keyword="189|190|191" -author="378" -price=189
+select 123456789190
+modify -name="190's_book" -keyword="190|191|192" -author="380" -price=190
+select 123456789191
+modify -name="191's_book" -keyword="191|192|193" -author="382" -price=191
+select 123456789192
+modify -name="192's_book" -keyword="192|193|194" -author="384" -price=192
+select 123456789193
+modify -name="193's_book" -keyword="193|194|195" -author="386" -price=193
+select 123456789194
+modify -name="194's_book" -keyword="194|195|196" -author="388" -price=194
+select 123456789195
+modify -name="195's_book" -keyword="195|196|197" -author="390" -price=195
+select 123456789196
+modify -name="196's_book" -keyword="196|197|198" -author="392" -price=196
+select 123456789197
+modify -name="197's_book" -keyword="197|198|199" -author="394" -price=197
+select 123456789198
+modify -name="198's_book" -keyword="198|199|200" -author="396" -price=198
+select 123456789199
+modify -name="199's_book" -keyword="199|200|201" -author="398" -price=199
+select 123456789200
+modify -name="200's_book" -keyword="200|201|202" -author="400" -price=200
+select 123456789201
+modify -name="201's_book" -keyword="201|202|203" -author="402" -price=201
+select 123456789202
+modify -name="202's_book" -keyword="202|203|204" -author="404" -price=202
+select 123456789203
+modify -name="203's_book" -keyword="203|204|205" -author="406" -price=203
+select 123456789204
+modify -name="204's_book" -keyword="204|205|206" -author="408" -price=204
+select 123456789205
+modify -name="205's_book" -keyword="205|206|207" -author="410" -price=205
+select 123456789206
+modify -name="206's_book" -keyword="206|207|208" -author="412" -price=206
+select 123456789207
+modify -name="207's_book" -keyword="207|208|209" -author="414" -price=207
+select 123456789208
+modify -name="208's_book" -keyword="208|209|210" -author="416" -price=208
+select 123456789209
+modify -name="209's_book" -keyword="209|210|211" -author="418" -price=209
+select 123456789210
+modify -name="210's_book" -keyword="210|211|212" -author="420" -price=210
+select 123456789211
+modify -name="211's_book" -keyword="211|212|213" -author="422" -price=211
+select 123456789212
+modify -name="212's_book" -keyword="212|213|214" -author="424" -price=212
+select 123456789213
+modify -name="213's_book" -keyword="213|214|215" -author="426" -price=213
+select 123456789214
+modify -name="214's_book" -keyword="214|215|216" -author="428" -price=214
+select 123456789215
+modify -name="215's_book" -keyword="215|216|217" -author="430" -price=215
+select 123456789216
+modify -name="216's_book" -keyword="216|217|218" -author="432" -price=216
+select 123456789217
+modify -name="217's_book" -keyword="217|218|219" -author="434" -price=217
+select 123456789218
+modify -name="218's_book" -keyword="218|219|220" -author="436" -price=218
+select 123456789219
+modify -name="219's_book" -keyword="219|220|221" -author="438" -price=219
+select 123456789220
+modify -name="220's_book" -keyword="220|221|222" -author="440" -price=220
+select 123456789221
+modify -name="221's_book" -keyword="221|222|223" -author="442" -price=221
+select 123456789222
+modify -name="222's_book" -keyword="222|223|224" -author="444" -price=222
+select 123456789223
+modify -name="223's_book" -keyword="223|224|225" -author="446" -price=223
+select 123456789224
+modify -name="224's_book" -keyword="224|225|226" -author="448" -price=224
+select 123456789225
+modify -name="225's_book" -keyword="225|226|227" -author="450" -price=225
+select 123456789226
+modify -name="226's_book" -keyword="226|227|228" -author="452" -price=226
+select 123456789227
+modify -name="227's_book" -keyword="227|228|229" -author="454" -price=227
+select 123456789228
+modify -name="228's_book" -keyword="228|229|230" -author="456" -price=228
+select 123456789229
+modify -name="229's_book" -keyword="229|230|231" -author="458" -price=229
+select 123456789230
+modify -name="230's_book" -keyword="230|231|232" -author="460" -price=230
+select 123456789231
+modify -name="231's_book" -keyword="231|232|233" -author="462" -price=231
+select 123456789232
+modify -name="232's_book" -keyword="232|233|234" -author="464" -price=232
+select 123456789233
+modify -name="233's_book" -keyword="233|234|235" -author="466" -price=233
+select 123456789234
+modify -name="234's_book" -keyword="234|235|236" -author="468" -price=234
+select 123456789235
+modify -name="235's_book" -keyword="235|236|237" -author="470" -price=235
+select 123456789236
+modify -name="236's_book" -keyword="236|237|238" -author="472" -price=236
+select 123456789237
+modify -name="237's_book" -keyword="237|238|239" -author="474" -price=237
+select 123456789238
+modify -name="238's_book" -keyword="238|239|240" -author="476" -price=238
+select 123456789239
+modify -name="239's_book" -keyword="239|240|241" -author="478" -price=239
+select 123456789240
+modify -name="240's_book" -keyword="240|241|242" -author="480" -price=240
+select 123456789241
+modify -name="241's_book" -keyword="241|242|243" -author="482" -price=241
+select 123456789242
+modify -name="242's_book" -keyword="242|243|244" -author="484" -price=242
+select 123456789243
+modify -name="243's_book" -keyword="243|244|245" -author="486" -price=243
+select 123456789244
+modify -name="244's_book" -keyword="244|245|246" -author="488" -price=244
+select 123456789245
+modify -name="245's_book" -keyword="245|246|247" -author="490" -price=245
+select 123456789246
+modify -name="246's_book" -keyword="246|247|248" -author="492" -price=246
+select 123456789247
+modify -name="247's_book" -keyword="247|248|249" -author="494" -price=247
+select 123456789248
+modify -name="248's_book" -keyword="248|249|250" -author="496" -price=248
+select 123456789249
+modify -name="249's_book" -keyword="249|250|251" -author="498" -price=249
+select 123456789250
+modify -name="250's_book" -keyword="250|251|252" -author="500" -price=250
+select 123456789251
+modify -name="251's_book" -keyword="251|252|253" -author="502" -price=251
+select 123456789252
+modify -name="252's_book" -keyword="252|253|254" -author="504" -price=252
+select 123456789253
+modify -name="253's_book" -keyword="253|254|255" -author="506" -price=253
+select 123456789254
+modify -name="254's_book" -keyword="254|255|256" -author="508" -price=254
+select 123456789255
+modify -name="255's_book" -keyword="255|256|257" -author="510" -price=255
+select 123456789256
+modify -name="256's_book" -keyword="256|257|258" -author="512" -price=256
+select 123456789257
+modify -name="257's_book" -keyword="257|258|259" -author="514" -price=257
+select 123456789258
+modify -name="258's_book" -keyword="258|259|260" -author="516" -price=258
+select 123456789259
+modify -name="259's_book" -keyword="259|260|261" -author="518" -price=259
+select 123456789260
+modify -name="260's_book" -keyword="260|261|262" -author="520" -price=260
+select 123456789261
+modify -name="261's_book" -keyword="261|262|263" -author="522" -price=261
+select 123456789262
+modify -name="262's_book" -keyword="262|263|264" -author="524" -price=262
+select 123456789263
+modify -name="263's_book" -keyword="263|264|265" -author="526" -price=263
+select 123456789264
+modify -name="264's_book" -keyword="264|265|266" -author="528" -price=264
+select 123456789265
+modify -name="265's_book" -keyword="265|266|267" -author="530" -price=265
+select 123456789266
+modify -name="266's_book" -keyword="266|267|268" -author="532" -price=266
+select 123456789267
+modify -name="267's_book" -keyword="267|268|269" -author="534" -price=267
+select 123456789268
+modify -name="268's_book" -keyword="268|269|270" -author="536" -price=268
+select 123456789269
+modify -name="269's_book" -keyword="269|270|271" -author="538" -price=269
+select 123456789270
+modify -name="270's_book" -keyword="270|271|272" -author="540" -price=270
+select 123456789271
+modify -name="271's_book" -keyword="271|272|273" -author="542" -price=271
+select 123456789272
+modify -name="272's_book" -keyword="272|273|274" -author="544" -price=272
+select 123456789273
+modify -name="273's_book" -keyword="273|274|275" -author="546" -price=273
+select 123456789274
+modify -name="274's_book" -keyword="274|275|276" -author="548" -price=274
+select 123456789275
+modify -name="275's_book" -keyword="275|276|277" -author="550" -price=275
+select 123456789276
+modify -name="276's_book" -keyword="276|277|278" -author="552" -price=276
+select 123456789277
+modify -name="277's_book" -keyword="277|278|279" -author="554" -price=277
+select 123456789278
+modify -name="278's_book" -keyword="278|279|280" -author="556" -price=278
+select 123456789279
+modify -name="279's_book" -keyword="279|280|281" -author="558" -price=279
+select 123456789280
+modify -name="280's_book" -keyword="280|281|282" -author="560" -price=280
+select 123456789281
+modify -name="281's_book" -keyword="281|282|283" -author="562" -price=281
+select 123456789282
+modify -name="282's_book" -keyword="282|283|284" -author="564" -price=282
+select 123456789283
+modify -name="283's_book" -keyword="283|284|285" -author="566" -price=283
+select 123456789284
+modify -name="284's_book" -keyword="284|285|286" -author="568" -price=284
+select 123456789285
+modify -name="285's_book" -keyword="285|286|287" -author="570" -price=285
+select 123456789286
+modify -name="286's_book" -keyword="286|287|288" -author="572" -price=286
+select 123456789287
+modify -name="287's_book" -keyword="287|288|289" -author="574" -price=287
+select 123456789288
+modify -name="288's_book" -keyword="288|289|290" -author="576" -price=288
+select 123456789289
+modify -name="289's_book" -keyword="289|290|291" -author="578" -price=289
+select 123456789290
+modify -name="290's_book" -keyword="290|291|292" -author="580" -price=290
+select 123456789291
+modify -name="291's_book" -keyword="291|292|293" -author="582" -price=291
+select 123456789292
+modify -name="292's_book" -keyword="292|293|294" -author="584" -price=292
+select 123456789293
+modify -name="293's_book" -keyword="293|294|295" -author="586" -price=293
+select 123456789294
+modify -name="294's_book" -keyword="294|295|296" -author="588" -price=294
+select 123456789295
+modify -name="295's_book" -keyword="295|296|297" -author="590" -price=295
+select 123456789296
+modify -name="296's_book" -keyword="296|297|298" -author="592" -price=296
+select 123456789297
+modify -name="297's_book" -keyword="297|298|299" -author="594" -price=297
+select 123456789298
+modify -name="298's_book" -keyword="298|299|300" -author="596" -price=298
+select 123456789299
+modify -name="299's_book" -keyword="299|300|301" -author="598" -price=299
+select 123456789300
+modify -name="300's_book" -keyword="300|301|302" -author="600" -price=300
+select 123456789301
+modify -name="301's_book" -keyword="301|302|303" -author="602" -price=301
+select 123456789302
+modify -name="302's_book" -keyword="302|303|304" -author="604" -price=302
+select 123456789303
+modify -name="303's_book" -keyword="303|304|305" -author="606" -price=303
+select 123456789304
+modify -name="304's_book" -keyword="304|305|306" -author="608" -price=304
+select 123456789305
+modify -name="305's_book" -keyword="305|306|307" -author="610" -price=305
+select 123456789306
+modify -name="306's_book" -keyword="306|307|308" -author="612" -price=306
+select 123456789307
+modify -name="307's_book" -keyword="307|308|309" -author="614" -price=307
+select 123456789308
+modify -name="308's_book" -keyword="308|309|310" -author="616" -price=308
+select 123456789309
+modify -name="309's_book" -keyword="309|310|311" -author="618" -price=309
+select 123456789310
+modify -name="310's_book" -keyword="310|311|312" -author="620" -price=310
+select 123456789311
+modify -name="311's_book" -keyword="311|312|313" -author="622" -price=311
+select 123456789312
+modify -name="312's_book" -keyword="312|313|314" -author="624" -price=312
+select 123456789313
+modify -name="313's_book" -keyword="313|314|315" -author="626" -price=313
+select 123456789314
+modify -name="314's_book" -keyword="314|315|316" -author="628" -price=314
+select 123456789315
+modify -name="315's_book" -keyword="315|316|317" -author="630" -price=315
+select 123456789316
+modify -name="316's_book" -keyword="316|317|318" -author="632" -price=316
+select 123456789317
+modify -name="317's_book" -keyword="317|318|319" -author="634" -price=317
+select 123456789318
+modify -name="318's_book" -keyword="318|319|320" -author="636" -price=318
+select 123456789319
+modify -name="319's_book" -keyword="319|320|321" -author="638" -price=319
+select 123456789320
+modify -name="320's_book" -keyword="320|321|322" -author="640" -price=320
+select 123456789321
+modify -name="321's_book" -keyword="321|322|323" -author="642" -price=321
+select 123456789322
+modify -name="322's_book" -keyword="322|323|324" -author="644" -price=322
+select 123456789323
+modify -name="323's_book" -keyword="323|324|325" -author="646" -price=323
+select 123456789324
+modify -name="324's_book" -keyword="324|325|326" -author="648" -price=324
+select 123456789325
+modify -name="325's_book" -keyword="325|326|327" -author="650" -price=325
+select 123456789326
+modify -name="326's_book" -keyword="326|327|328" -author="652" -price=326
+select 123456789327
+modify -name="327's_book" -keyword="327|328|329" -author="654" -price=327
+select 123456789328
+modify -name="328's_book" -keyword="328|329|330" -author="656" -price=328
+select 123456789329
+modify -name="329's_book" -keyword="329|330|331" -author="658" -price=329
+select 123456789330
+modify -name="330's_book" -keyword="330|331|332" -author="660" -price=330
+select 123456789331
+modify -name="331's_book" -keyword="331|332|333" -author="662" -price=331
+select 123456789332
+modify -name="332's_book" -keyword="332|333|334" -author="664" -price=332
+select 123456789333
+modify -name="333's_book" -keyword="333|334|335" -author="666" -price=333
+select 123456789334
+modify -name="334's_book" -keyword="334|335|336" -author="668" -price=334
+select 123456789335
+modify -name="335's_book" -keyword="335|336|337" -author="670" -price=335
+select 123456789336
+modify -name="336's_book" -keyword="336|337|338" -author="672" -price=336
+select 123456789337
+modify -name="337's_book" -keyword="337|338|339" -author="674" -price=337
+select 123456789338
+modify -name="338's_book" -keyword="338|339|340" -author="676" -price=338
+select 123456789339
+modify -name="339's_book" -keyword="339|340|341" -author="678" -price=339
+select 123456789340
+modify -name="340's_book" -keyword="340|341|342" -author="680" -price=340
+select 123456789341
+modify -name="341's_book" -keyword="341|342|343" -author="682" -price=341
+select 123456789342
+modify -name="342's_book" -keyword="342|343|344" -author="684" -price=342
+select 123456789343
+modify -name="343's_book" -keyword="343|344|345" -author="686" -price=343
+select 123456789344
+modify -name="344's_book" -keyword="344|345|346" -author="688" -price=344
+select 123456789345
+modify -name="345's_book" -keyword="345|346|347" -author="690" -price=345
+select 123456789346
+modify -name="346's_book" -keyword="346|347|348" -author="692" -price=346
+select 123456789347
+modify -name="347's_book" -keyword="347|348|349" -author="694" -price=347
+select 123456789348
+modify -name="348's_book" -keyword="348|349|350" -author="696" -price=348
+select 123456789349
+modify -name="349's_book" -keyword="349|350|351" -author="698" -price=349
+select 123456789350
+modify -name="350's_book" -keyword="350|351|352" -author="700" -price=350
+select 123456789351
+modify -name="351's_book" -keyword="351|352|353" -author="702" -price=351
+select 123456789352
+modify -name="352's_book" -keyword="352|353|354" -author="704" -price=352
+select 123456789353
+modify -name="353's_book" -keyword="353|354|355" -author="706" -price=353
+select 123456789354
+modify -name="354's_book" -keyword="354|355|356" -author="708" -price=354
+select 123456789355
+modify -name="355's_book" -keyword="355|356|357" -author="710" -price=355
+select 123456789356
+modify -name="356's_book" -keyword="356|357|358" -author="712" -price=356
+select 123456789357
+modify -name="357's_book" -keyword="357|358|359" -author="714" -price=357
+select 123456789358
+modify -name="358's_book" -keyword="358|359|360" -author="716" -price=358
+select 123456789359
+modify -name="359's_book" -keyword="359|360|361" -author="718" -price=359
+select 123456789360
+modify -name="360's_book" -keyword="360|361|362" -author="720" -price=360
+select 123456789361
+modify -name="361's_book" -keyword="361|362|363" -author="722" -price=361
+select 123456789362
+modify -name="362's_book" -keyword="362|363|364" -author="724" -price=362
+select 123456789363
+modify -name="363's_book" -keyword="363|364|365" -author="726" -price=363
+select 123456789364
+modify -name="364's_book" -keyword="364|365|366" -author="728" -price=364
+select 123456789365
+modify -name="365's_book" -keyword="365|366|367" -author="730" -price=365
+select 123456789366
+modify -name="366's_book" -keyword="366|367|368" -author="732" -price=366
+select 123456789367
+modify -name="367's_book" -keyword="367|368|369" -author="734" -price=367
+select 123456789368
+modify -name="368's_book" -keyword="368|369|370" -author="736" -price=368
+select 123456789369
+modify -name="369's_book" -keyword="369|370|371" -author="738" -price=369
+select 123456789370
+modify -name="370's_book" -keyword="370|371|372" -author="740" -price=370
+select 123456789371
+modify -name="371's_book" -keyword="371|372|373" -author="742" -price=371
+select 123456789372
+modify -name="372's_book" -keyword="372|373|374" -author="744" -price=372
+select 123456789373
+modify -name="373's_book" -keyword="373|374|375" -author="746" -price=373
+select 123456789374
+modify -name="374's_book" -keyword="374|375|376" -author="748" -price=374
+select 123456789375
+modify -name="375's_book" -keyword="375|376|377" -author="750" -price=375
+select 123456789376
+modify -name="376's_book" -keyword="376|377|378" -author="752" -price=376
+select 123456789377
+modify -name="377's_book" -keyword="377|378|379" -author="754" -price=377
+select 123456789378
+modify -name="378's_book" -keyword="378|379|380" -author="756" -price=378
+select 123456789379
+modify -name="379's_book" -keyword="379|380|381" -author="758" -price=379
+select 123456789380
+modify -name="380's_book" -keyword="380|381|382" -author="760" -price=380
+select 123456789381
+modify -name="381's_book" -keyword="381|382|383" -author="762" -price=381
+select 123456789382
+modify -name="382's_book" -keyword="382|383|384" -author="764" -price=382
+select 123456789383
+modify -name="383's_book" -keyword="383|384|385" -author="766" -price=383
+select 123456789384
+modify -name="384's_book" -keyword="384|385|386" -author="768" -price=384
+select 123456789385
+modify -name="385's_book" -keyword="385|386|387" -author="770" -price=385
+select 123456789386
+modify -name="386's_book" -keyword="386|387|388" -author="772" -price=386
+select 123456789387
+modify -name="387's_book" -keyword="387|388|389" -author="774" -price=387
+select 123456789388
+modify -name="388's_book" -keyword="388|389|390" -author="776" -price=388
+select 123456789389
+modify -name="389's_book" -keyword="389|390|391" -author="778" -price=389
+select 123456789390
+modify -name="390's_book" -keyword="390|391|392" -author="780" -price=390
+select 123456789391
+modify -name="391's_book" -keyword="391|392|393" -author="782" -price=391
+select 123456789392
+modify -name="392's_book" -keyword="392|393|394" -author="784" -price=392
+select 123456789393
+modify -name="393's_book" -keyword="393|394|395" -author="786" -price=393
+select 123456789394
+modify -name="394's_book" -keyword="394|395|396" -author="788" -price=394
+select 123456789395
+modify -name="395's_book" -keyword="395|396|397" -author="790" -price=395
+select 123456789396
+modify -name="396's_book" -keyword="396|397|398" -author="792" -price=396
+select 123456789397
+modify -name="397's_book" -keyword="397|398|399" -author="794" -price=397
+select 123456789398
+modify -name="398's_book" -keyword="398|399|400" -author="796" -price=398
+select 123456789399
+modify -name="399's_book" -keyword="399|400|401" -author="798" -price=399
+select 123456789400
+modify -name="400's_book" -keyword="400|401|402" -author="800" -price=400
+select 123456789401
+modify -name="401's_book" -keyword="401|402|403" -author="802" -price=401
+select 123456789402
+modify -name="402's_book" -keyword="402|403|404" -author="804" -price=402
+select 123456789403
+modify -name="403's_book" -keyword="403|404|405" -author="806" -price=403
+select 123456789404
+modify -name="404's_book" -keyword="404|405|406" -author="808" -price=404
+select 123456789405
+modify -name="405's_book" -keyword="405|406|407" -author="810" -price=405
+select 123456789406
+modify -name="406's_book" -keyword="406|407|408" -author="812" -price=406
+select 123456789407
+modify -name="407's_book" -keyword="407|408|409" -author="814" -price=407
+select 123456789408
+modify -name="408's_book" -keyword="408|409|410" -author="816" -price=408
+select 123456789409
+modify -name="409's_book" -keyword="409|410|411" -author="818" -price=409
+select 123456789410
+modify -name="410's_book" -keyword="410|411|412" -author="820" -price=410
+select 123456789411
+modify -name="411's_book" -keyword="411|412|413" -author="822" -price=411
+select 123456789412
+modify -name="412's_book" -keyword="412|413|414" -author="824" -price=412
+select 123456789413
+modify -name="413's_book" -keyword="413|414|415" -author="826" -price=413
+select 123456789414
+modify -name="414's_book" -keyword="414|415|416" -author="828" -price=414
+select 123456789415
+modify -name="415's_book" -keyword="415|416|417" -author="830" -price=415
+select 123456789416
+modify -name="416's_book" -keyword="416|417|418" -author="832" -price=416
+select 123456789417
+modify -name="417's_book" -keyword="417|418|419" -author="834" -price=417
+select 123456789418
+modify -name="418's_book" -keyword="418|419|420" -author="836" -price=418
+select 123456789419
+modify -name="419's_book" -keyword="419|420|421" -author="838" -price=419
+select 123456789420
+modify -name="420's_book" -keyword="420|421|422" -author="840" -price=420
+select 123456789421
+modify -name="421's_book" -keyword="421|422|423" -author="842" -price=421
+select 123456789422
+modify -name="422's_book" -keyword="422|423|424" -author="844" -price=422
+select 123456789423
+modify -name="423's_book" -keyword="423|424|425" -author="846" -price=423
+select 123456789424
+modify -name="424's_book" -keyword="424|425|426" -author="848" -price=424
+select 123456789425
+modify -name="425's_book" -keyword="425|426|427" -author="850" -price=425
+select 123456789426
+modify -name="426's_book" -keyword="426|427|428" -author="852" -price=426
+select 123456789427
+modify -name="427's_book" -keyword="427|428|429" -author="854" -price=427
+select 123456789428
+modify -name="428's_book" -keyword="428|429|430" -author="856" -price=428
+select 123456789429
+modify -name="429's_book" -keyword="429|430|431" -author="858" -price=429
+select 123456789430
+modify -name="430's_book" -keyword="430|431|432" -author="860" -price=430
+select 123456789431
+modify -name="431's_book" -keyword="431|432|433" -author="862" -price=431
+select 123456789432
+modify -name="432's_book" -keyword="432|433|434" -author="864" -price=432
+select 123456789433
+modify -name="433's_book" -keyword="433|434|435" -author="866" -price=433
+select 123456789434
+modify -name="434's_book" -keyword="434|435|436" -author="868" -price=434
+select 123456789435
+modify -name="435's_book" -keyword="435|436|437" -author="870" -price=435
+select 123456789436
+modify -name="436's_book" -keyword="436|437|438" -author="872" -price=436
+select 123456789437
+modify -name="437's_book" -keyword="437|438|439" -author="874" -price=437
+select 123456789438
+modify -name="438's_book" -keyword="438|439|440" -author="876" -price=438
+select 123456789439
+modify -name="439's_book" -keyword="439|440|441" -author="878" -price=439
+select 123456789440
+modify -name="440's_book" -keyword="440|441|442" -author="880" -price=440
+select 123456789441
+modify -name="441's_book" -keyword="441|442|443" -author="882" -price=441
+select 123456789442
+modify -name="442's_book" -keyword="442|443|444" -author="884" -price=442
+select 123456789443
+modify -name="443's_book" -keyword="443|444|445" -author="886" -price=443
+select 123456789444
+modify -name="444's_book" -keyword="444|445|446" -author="888" -price=444
+select 123456789445
+modify -name="445's_book" -keyword="445|446|447" -author="890" -price=445
+select 123456789446
+modify -name="446's_book" -keyword="446|447|448" -author="892" -price=446
+select 123456789447
+modify -name="447's_book" -keyword="447|448|449" -author="894" -price=447
+select 123456789448
+modify -name="448's_book" -keyword="448|449|450" -author="896" -price=448
+select 123456789449
+modify -name="449's_book" -keyword="449|450|451" -author="898" -price=449
+select 123456789450
+modify -name="450's_book" -keyword="450|451|452" -author="900" -price=450
+select 123456789451
+modify -name="451's_book" -keyword="451|452|453" -author="902" -price=451
+select 123456789452
+modify -name="452's_book" -keyword="452|453|454" -author="904" -price=452
+select 123456789453
+modify -name="453's_book" -keyword="453|454|455" -author="906" -price=453
+select 123456789454
+modify -name="454's_book" -keyword="454|455|456" -author="908" -price=454
+select 123456789455
+modify -name="455's_book" -keyword="455|456|457" -author="910" -price=455
+select 123456789456
+modify -name="456's_book" -keyword="456|457|458" -author="912" -price=456
+select 123456789457
+modify -name="457's_book" -keyword="457|458|459" -author="914" -price=457
+select 123456789458
+modify -name="458's_book" -keyword="458|459|460" -author="916" -price=458
+select 123456789459
+modify -name="459's_book" -keyword="459|460|461" -author="918" -price=459
+select 123456789460
+modify -name="460's_book" -keyword="460|461|462" -author="920" -price=460
+select 123456789461
+modify -name="461's_book" -keyword="461|462|463" -author="922" -price=461
+select 123456789462
+modify -name="462's_book" -keyword="462|463|464" -author="924" -price=462
+select 123456789463
+modify -name="463's_book" -keyword="463|464|465" -author="926" -price=463
+select 123456789464
+modify -name="464's_book" -keyword="464|465|466" -author="928" -price=464
+select 123456789465
+modify -name="465's_book" -keyword="465|466|467" -author="930" -price=465
+select 123456789466
+modify -name="466's_book" -keyword="466|467|468" -author="932" -price=466
+select 123456789467
+modify -name="467's_book" -keyword="467|468|469" -author="934" -price=467
+select 123456789468
+modify -name="468's_book" -keyword="468|469|470" -author="936" -price=468
+select 123456789469
+modify -name="469's_book" -keyword="469|470|471" -author="938" -price=469
+select 123456789470
+modify -name="470's_book" -keyword="470|471|472" -author="940" -price=470
+select 123456789471
+modify -name="471's_book" -keyword="471|472|473" -author="942" -price=471
+select 123456789472
+modify -name="472's_book" -keyword="472|473|474" -author="944" -price=472
+select 123456789473
+modify -name="473's_book" -keyword="473|474|475" -author="946" -price=473
+select 123456789474
+modify -name="474's_book" -keyword="474|475|476" -author="948" -price=474
+select 123456789475
+modify -name="475's_book" -keyword="475|476|477" -author="950" -price=475
+select 123456789476
+modify -name="476's_book" -keyword="476|477|478" -author="952" -price=476
+select 123456789477
+modify -name="477's_book" -keyword="477|478|479" -author="954" -price=477
+select 123456789478
+modify -name="478's_book" -keyword="478|479|480" -author="956" -price=478
+select 123456789479
+modify -name="479's_book" -keyword="479|480|481" -author="958" -price=479
+select 123456789480
+modify -name="480's_book" -keyword="480|481|482" -author="960" -price=480
+select 123456789481
+modify -name="481's_book" -keyword="481|482|483" -author="962" -price=481
+select 123456789482
+modify -name="482's_book" -keyword="482|483|484" -author="964" -price=482
+select 123456789483
+modify -name="483's_book" -keyword="483|484|485" -author="966" -price=483
+select 123456789484
+modify -name="484's_book" -keyword="484|485|486" -author="968" -price=484
+select 123456789485
+modify -name="485's_book" -keyword="485|486|487" -author="970" -price=485
+select 123456789486
+modify -name="486's_book" -keyword="486|487|488" -author="972" -price=486
+select 123456789487
+modify -name="487's_book" -keyword="487|488|489" -author="974" -price=487
+select 123456789488
+modify -name="488's_book" -keyword="488|489|490" -author="976" -price=488
+select 123456789489
+modify -name="489's_book" -keyword="489|490|491" -author="978" -price=489
+select 123456789490
+modify -name="490's_book" -keyword="490|491|492" -author="980" -price=490
+select 123456789491
+modify -name="491's_book" -keyword="491|492|493" -author="982" -price=491
+select 123456789492
+modify -name="492's_book" -keyword="492|493|494" -author="984" -price=492
+select 123456789493
+modify -name="493's_book" -keyword="493|494|495" -author="986" -price=493
+select 123456789494
+modify -name="494's_book" -keyword="494|495|496" -author="988" -price=494
+select 123456789495
+modify -name="495's_book" -keyword="495|496|497" -author="990" -price=495
+select 123456789496
+modify -name="496's_book" -keyword="496|497|498" -author="992" -price=496
+select 123456789497
+modify -name="497's_book" -keyword="497|498|499" -author="994" -price=497
+select 123456789498
+modify -name="498's_book" -keyword="498|499|500" -author="996" -price=498
+select 123456789499
+modify -name="499's_book" -keyword="499|500|501" -author="998" -price=499
+select 123456789500
+modify -name="500's_book" -keyword="500|501|502" -author="1000" -price=500
+select 123456789501
+modify -name="501's_book" -keyword="501|502|503" -author="1002" -price=501
+select 123456789502
+modify -name="502's_book" -keyword="502|503|504" -author="1004" -price=502
+select 123456789503
+modify -name="503's_book" -keyword="503|504|505" -author="1006" -price=503
+select 123456789504
+modify -name="504's_book" -keyword="504|505|506" -author="1008" -price=504
+select 123456789505
+modify -name="505's_book" -keyword="505|506|507" -author="1010" -price=505
+select 123456789506
+modify -name="506's_book" -keyword="506|507|508" -author="1012" -price=506
+select 123456789507
+modify -name="507's_book" -keyword="507|508|509" -author="1014" -price=507
+select 123456789508
+modify -name="508's_book" -keyword="508|509|510" -author="1016" -price=508
+select 123456789509
+modify -name="509's_book" -keyword="509|510|511" -author="1018" -price=509
+select 123456789510
+modify -name="510's_book" -keyword="510|511|512" -author="1020" -price=510
+select 123456789511
+modify -name="511's_book" -keyword="511|512|513" -author="1022" -price=511
+select 123456789512
+modify -name="512's_book" -keyword="512|513|514" -author="1024" -price=512
+select 123456789513
+modify -name="513's_book" -keyword="513|514|515" -author="1026" -price=513
+select 123456789514
+modify -name="514's_book" -keyword="514|515|516" -author="1028" -price=514
+select 123456789515
+modify -name="515's_book" -keyword="515|516|517" -author="1030" -price=515
+select 123456789516
+modify -name="516's_book" -keyword="516|517|518" -author="1032" -price=516
+select 123456789517
+modify -name="517's_book" -keyword="517|518|519" -author="1034" -price=517
+select 123456789518
+modify -name="518's_book" -keyword="518|519|520" -author="1036" -price=518
+select 123456789519
+modify -name="519's_book" -keyword="519|520|521" -author="1038" -price=519
+select 123456789520
+modify -name="520's_book" -keyword="520|521|522" -author="1040" -price=520
+select 123456789521
+modify -name="521's_book" -keyword="521|522|523" -author="1042" -price=521
+select 123456789522
+modify -name="522's_book" -keyword="522|523|524" -author="1044" -price=522
+select 123456789523
+modify -name="523's_book" -keyword="523|524|525" -author="1046" -price=523
+select 123456789524
+modify -name="524's_book" -keyword="524|525|526" -author="1048" -price=524
+select 123456789525
+modify -name="525's_book" -keyword="525|526|527" -author="1050" -price=525
+select 123456789526
+modify -name="526's_book" -keyword="526|527|528" -author="1052" -price=526
+select 123456789527
+modify -name="527's_book" -keyword="527|528|529" -author="1054" -price=527
+select 123456789528
+modify -name="528's_book" -keyword="528|529|530" -author="1056" -price=528
+select 123456789529
+modify -name="529's_book" -keyword="529|530|531" -author="1058" -price=529
+select 123456789530
+modify -name="530's_book" -keyword="530|531|532" -author="1060" -price=530
+select 123456789531
+modify -name="531's_book" -keyword="531|532|533" -author="1062" -price=531
+select 123456789532
+modify -name="532's_book" -keyword="532|533|534" -author="1064" -price=532
+select 123456789533
+modify -name="533's_book" -keyword="533|534|535" -author="1066" -price=533
+select 123456789534
+modify -name="534's_book" -keyword="534|535|536" -author="1068" -price=534
+select 123456789535
+modify -name="535's_book" -keyword="535|536|537" -author="1070" -price=535
+select 123456789536
+modify -name="536's_book" -keyword="536|537|538" -author="1072" -price=536
+select 123456789537
+modify -name="537's_book" -keyword="537|538|539" -author="1074" -price=537
+select 123456789538
+modify -name="538's_book" -keyword="538|539|540" -author="1076" -price=538
+select 123456789539
+modify -name="539's_book" -keyword="539|540|541" -author="1078" -price=539
+select 123456789540
+modify -name="540's_book" -keyword="540|541|542" -author="1080" -price=540
+select 123456789541
+modify -name="541's_book" -keyword="541|542|543" -author="1082" -price=541
+select 123456789542
+modify -name="542's_book" -keyword="542|543|544" -author="1084" -price=542
+select 123456789543
+modify -name="543's_book" -keyword="543|544|545" -author="1086" -price=543
+select 123456789544
+modify -name="544's_book" -keyword="544|545|546" -author="1088" -price=544
+select 123456789545
+modify -name="545's_book" -keyword="545|546|547" -author="1090" -price=545
+select 123456789546
+modify -name="546's_book" -keyword="546|547|548" -author="1092" -price=546
+select 123456789547
+modify -name="547's_book" -keyword="547|548|549" -author="1094" -price=547
+select 123456789548
+modify -name="548's_book" -keyword="548|549|550" -author="1096" -price=548
+select 123456789549
+modify -name="549's_book" -keyword="549|550|551" -author="1098" -price=549
+select 123456789550
+modify -name="550's_book" -keyword="550|551|552" -author="1100" -price=550
+select 123456789551
+modify -name="551's_book" -keyword="551|552|553" -author="1102" -price=551
+select 123456789552
+modify -name="552's_book" -keyword="552|553|554" -author="1104" -price=552
+select 123456789553
+modify -name="553's_book" -keyword="553|554|555" -author="1106" -price=553
+select 123456789554
+modify -name="554's_book" -keyword="554|555|556" -author="1108" -price=554
+select 123456789555
+modify -name="555's_book" -keyword="555|556|557" -author="1110" -price=555
+select 123456789556
+modify -name="556's_book" -keyword="556|557|558" -author="1112" -price=556
+select 123456789557
+modify -name="557's_book" -keyword="557|558|559" -author="1114" -price=557
+select 123456789558
+modify -name="558's_book" -keyword="558|559|560" -author="1116" -price=558
+select 123456789559
+modify -name="559's_book" -keyword="559|560|561" -author="1118" -price=559
+select 123456789560
+modify -name="560's_book" -keyword="560|561|562" -author="1120" -price=560
+select 123456789561
+modify -name="561's_book" -keyword="561|562|563" -author="1122" -price=561
+select 123456789562
+modify -name="562's_book" -keyword="562|563|564" -author="1124" -price=562
+select 123456789563
+modify -name="563's_book" -keyword="563|564|565" -author="1126" -price=563
+select 123456789564
+modify -name="564's_book" -keyword="564|565|566" -author="1128" -price=564
+select 123456789565
+modify -name="565's_book" -keyword="565|566|567" -author="1130" -price=565
+select 123456789566
+modify -name="566's_book" -keyword="566|567|568" -author="1132" -price=566
+select 123456789567
+modify -name="567's_book" -keyword="567|568|569" -author="1134" -price=567
+select 123456789568
+modify -name="568's_book" -keyword="568|569|570" -author="1136" -price=568
+select 123456789569
+modify -name="569's_book" -keyword="569|570|571" -author="1138" -price=569
+select 123456789570
+modify -name="570's_book" -keyword="570|571|572" -author="1140" -price=570
+select 123456789571
+modify -name="571's_book" -keyword="571|572|573" -author="1142" -price=571
+select 123456789572
+modify -name="572's_book" -keyword="572|573|574" -author="1144" -price=572
+select 123456789573
+modify -name="573's_book" -keyword="573|574|575" -author="1146" -price=573
+select 123456789574
+modify -name="574's_book" -keyword="574|575|576" -author="1148" -price=574
+select 123456789575
+modify -name="575's_book" -keyword="575|576|577" -author="1150" -price=575
+select 123456789576
+modify -name="576's_book" -keyword="576|577|578" -author="1152" -price=576
+select 123456789577
+modify -name="577's_book" -keyword="577|578|579" -author="1154" -price=577
+select 123456789578
+modify -name="578's_book" -keyword="578|579|580" -author="1156" -price=578
+select 123456789579
+modify -name="579's_book" -keyword="579|580|581" -author="1158" -price=579
+select 123456789580
+modify -name="580's_book" -keyword="580|581|582" -author="1160" -price=580
+select 123456789581
+modify -name="581's_book" -keyword="581|582|583" -author="1162" -price=581
+select 123456789582
+modify -name="582's_book" -keyword="582|583|584" -author="1164" -price=582
+select 123456789583
+modify -name="583's_book" -keyword="583|584|585" -author="1166" -price=583
+select 123456789584
+modify -name="584's_book" -keyword="584|585|586" -author="1168" -price=584
+select 123456789585
+modify -name="585's_book" -keyword="585|586|587" -author="1170" -price=585
+select 123456789586
+modify -name="586's_book" -keyword="586|587|588" -author="1172" -price=586
+select 123456789587
+modify -name="587's_book" -keyword="587|588|589" -author="1174" -price=587
+select 123456789588
+modify -name="588's_book" -keyword="588|589|590" -author="1176" -price=588
+select 123456789589
+modify -name="589's_book" -keyword="589|590|591" -author="1178" -price=589
+select 123456789590
+modify -name="590's_book" -keyword="590|591|592" -author="1180" -price=590
+select 123456789591
+modify -name="591's_book" -keyword="591|592|593" -author="1182" -price=591
+select 123456789592
+modify -name="592's_book" -keyword="592|593|594" -author="1184" -price=592
+select 123456789593
+modify -name="593's_book" -keyword="593|594|595" -author="1186" -price=593
+select 123456789594
+modify -name="594's_book" -keyword="594|595|596" -author="1188" -price=594
+select 123456789595
+modify -name="595's_book" -keyword="595|596|597" -author="1190" -price=595
+select 123456789596
+modify -name="596's_book" -keyword="596|597|598" -author="1192" -price=596
+select 123456789597
+modify -name="597's_book" -keyword="597|598|599" -author="1194" -price=597
+select 123456789598
+modify -name="598's_book" -keyword="598|599|600" -author="1196" -price=598
+select 123456789599
+modify -name="599's_book" -keyword="599|600|601" -author="1198" -price=599
+select 123456789600
+modify -name="600's_book" -keyword="600|601|602" -author="1200" -price=600
+select 123456789601
+modify -name="601's_book" -keyword="601|602|603" -author="1202" -price=601
+select 123456789602
+modify -name="602's_book" -keyword="602|603|604" -author="1204" -price=602
+select 123456789603
+modify -name="603's_book" -keyword="603|604|605" -author="1206" -price=603
+select 123456789604
+modify -name="604's_book" -keyword="604|605|606" -author="1208" -price=604
+select 123456789605
+modify -name="605's_book" -keyword="605|606|607" -author="1210" -price=605
+select 123456789606
+modify -name="606's_book" -keyword="606|607|608" -author="1212" -price=606
+select 123456789607
+modify -name="607's_book" -keyword="607|608|609" -author="1214" -price=607
+select 123456789608
+modify -name="608's_book" -keyword="608|609|610" -author="1216" -price=608
+select 123456789609
+modify -name="609's_book" -keyword="609|610|611" -author="1218" -price=609
+select 123456789610
+modify -name="610's_book" -keyword="610|611|612" -author="1220" -price=610
+select 123456789611
+modify -name="611's_book" -keyword="611|612|613" -author="1222" -price=611
+select 123456789612
+modify -name="612's_book" -keyword="612|613|614" -author="1224" -price=612
+select 123456789613
+modify -name="613's_book" -keyword="613|614|615" -author="1226" -price=613
+select 123456789614
+modify -name="614's_book" -keyword="614|615|616" -author="1228" -price=614
+select 123456789615
+modify -name="615's_book" -keyword="615|616|617" -author="1230" -price=615
+select 123456789616
+modify -name="616's_book" -keyword="616|617|618" -author="1232" -price=616
+select 123456789617
+modify -name="617's_book" -keyword="617|618|619" -author="1234" -price=617
+select 123456789618
+modify -name="618's_book" -keyword="618|619|620" -author="1236" -price=618
+select 123456789619
+modify -name="619's_book" -keyword="619|620|621" -author="1238" -price=619
+select 123456789620
+modify -name="620's_book" -keyword="620|621|622" -author="1240" -price=620
+select 123456789621
+modify -name="621's_book" -keyword="621|622|623" -author="1242" -price=621
+select 123456789622
+modify -name="622's_book" -keyword="622|623|624" -author="1244" -price=622
+select 123456789623
+modify -name="623's_book" -keyword="623|624|625" -author="1246" -price=623
+select 123456789624
+modify -name="624's_book" -keyword="624|625|626" -author="1248" -price=624
+select 123456789625
+modify -name="625's_book" -keyword="625|626|627" -author="1250" -price=625
+select 123456789626
+modify -name="626's_book" -keyword="626|627|628" -author="1252" -price=626
+select 123456789627
+modify -name="627's_book" -keyword="627|628|629" -author="1254" -price=627
+select 123456789628
+modify -name="628's_book" -keyword="628|629|630" -author="1256" -price=628
+select 123456789629
+modify -name="629's_book" -keyword="629|630|631" -author="1258" -price=629
+select 123456789630
+modify -name="630's_book" -keyword="630|631|632" -author="1260" -price=630
+select 123456789631
+modify -name="631's_book" -keyword="631|632|633" -author="1262" -price=631
+select 123456789632
+modify -name="632's_book" -keyword="632|633|634" -author="1264" -price=632
+select 123456789633
+modify -name="633's_book" -keyword="633|634|635" -author="1266" -price=633
+select 123456789634
+modify -name="634's_book" -keyword="634|635|636" -author="1268" -price=634
+select 123456789635
+modify -name="635's_book" -keyword="635|636|637" -author="1270" -price=635
+select 123456789636
+modify -name="636's_book" -keyword="636|637|638" -author="1272" -price=636
+select 123456789637
+modify -name="637's_book" -keyword="637|638|639" -author="1274" -price=637
+select 123456789638
+modify -name="638's_book" -keyword="638|639|640" -author="1276" -price=638
+select 123456789639
+modify -name="639's_book" -keyword="639|640|641" -author="1278" -price=639
+select 123456789640
+modify -name="640's_book" -keyword="640|641|642" -author="1280" -price=640
+select 123456789641
+modify -name="641's_book" -keyword="641|642|643" -author="1282" -price=641
+select 123456789642
+modify -name="642's_book" -keyword="642|643|644" -author="1284" -price=642
+select 123456789643
+modify -name="643's_book" -keyword="643|644|645" -author="1286" -price=643
+select 123456789644
+modify -name="644's_book" -keyword="644|645|646" -author="1288" -price=644
+select 123456789645
+modify -name="645's_book" -keyword="645|646|647" -author="1290" -price=645
+select 123456789646
+modify -name="646's_book" -keyword="646|647|648" -author="1292" -price=646
+select 123456789647
+modify -name="647's_book" -keyword="647|648|649" -author="1294" -price=647
+select 123456789648
+modify -name="648's_book" -keyword="648|649|650" -author="1296" -price=648
+select 123456789649
+modify -name="649's_book" -keyword="649|650|651" -author="1298" -price=649
+select 123456789650
+modify -name="650's_book" -keyword="650|651|652" -author="1300" -price=650
+select 123456789651
+modify -name="651's_book" -keyword="651|652|653" -author="1302" -price=651
+select 123456789652
+modify -name="652's_book" -keyword="652|653|654" -author="1304" -price=652
+select 123456789653
+modify -name="653's_book" -keyword="653|654|655" -author="1306" -price=653
+select 123456789654
+modify -name="654's_book" -keyword="654|655|656" -author="1308" -price=654
+select 123456789655
+modify -name="655's_book" -keyword="655|656|657" -author="1310" -price=655
+select 123456789656
+modify -name="656's_book" -keyword="656|657|658" -author="1312" -price=656
+select 123456789657
+modify -name="657's_book" -keyword="657|658|659" -author="1314" -price=657
+select 123456789658
+modify -name="658's_book" -keyword="658|659|660" -author="1316" -price=658
+select 123456789659
+modify -name="659's_book" -keyword="659|660|661" -author="1318" -price=659
+select 123456789660
+modify -name="660's_book" -keyword="660|661|662" -author="1320" -price=660
+select 123456789661
+modify -name="661's_book" -keyword="661|662|663" -author="1322" -price=661
+select 123456789662
+modify -name="662's_book" -keyword="662|663|664" -author="1324" -price=662
+select 123456789663
+modify -name="663's_book" -keyword="663|664|665" -author="1326" -price=663
+select 123456789664
+modify -name="664's_book" -keyword="664|665|666" -author="1328" -price=664
+select 123456789665
+modify -name="665's_book" -keyword="665|666|667" -author="1330" -price=665
+select 123456789666
+modify -name="666's_book" -keyword="666|667|668" -author="1332" -price=666
+select 123456789667
+modify -name="667's_book" -keyword="667|668|669" -author="1334" -price=667
+select 123456789668
+modify -name="668's_book" -keyword="668|669|670" -author="1336" -price=668
+select 123456789669
+modify -name="669's_book" -keyword="669|670|671" -author="1338" -price=669
+select 123456789670
+modify -name="670's_book" -keyword="670|671|672" -author="1340" -price=670
+select 123456789671
+modify -name="671's_book" -keyword="671|672|673" -author="1342" -price=671
+select 123456789672
+modify -name="672's_book" -keyword="672|673|674" -author="1344" -price=672
+select 123456789673
+modify -name="673's_book" -keyword="673|674|675" -author="1346" -price=673
+select 123456789674
+modify -name="674's_book" -keyword="674|675|676" -author="1348" -price=674
+select 123456789675
+modify -name="675's_book" -keyword="675|676|677" -author="1350" -price=675
+select 123456789676
+modify -name="676's_book" -keyword="676|677|678" -author="1352" -price=676
+select 123456789677
+modify -name="677's_book" -keyword="677|678|679" -author="1354" -price=677
+select 123456789678
+modify -name="678's_book" -keyword="678|679|680" -author="1356" -price=678
+select 123456789679
+modify -name="679's_book" -keyword="679|680|681" -author="1358" -price=679
+select 123456789680
+modify -name="680's_book" -keyword="680|681|682" -author="1360" -price=680
+select 123456789681
+modify -name="681's_book" -keyword="681|682|683" -author="1362" -price=681
+select 123456789682
+modify -name="682's_book" -keyword="682|683|684" -author="1364" -price=682
+select 123456789683
+modify -name="683's_book" -keyword="683|684|685" -author="1366" -price=683
+select 123456789684
+modify -name="684's_book" -keyword="684|685|686" -author="1368" -price=684
+select 123456789685
+modify -name="685's_book" -keyword="685|686|687" -author="1370" -price=685
+select 123456789686
+modify -name="686's_book" -keyword="686|687|688" -author="1372" -price=686
+select 123456789687
+modify -name="687's_book" -keyword="687|688|689" -author="1374" -price=687
+select 123456789688
+modify -name="688's_book" -keyword="688|689|690" -author="1376" -price=688
+select 123456789689
+modify -name="689's_book" -keyword="689|690|691" -author="1378" -price=689
+select 123456789690
+modify -name="690's_book" -keyword="690|691|692" -author="1380" -price=690
+select 123456789691
+modify -name="691's_book" -keyword="691|692|693" -author="1382" -price=691
+select 123456789692
+modify -name="692's_book" -keyword="692|693|694" -author="1384" -price=692
+select 123456789693
+modify -name="693's_book" -keyword="693|694|695" -author="1386" -price=693
+select 123456789694
+modify -name="694's_book" -keyword="694|695|696" -author="1388" -price=694
+select 123456789695
+modify -name="695's_book" -keyword="695|696|697" -author="1390" -price=695
+select 123456789696
+modify -name="696's_book" -keyword="696|697|698" -author="1392" -price=696
+select 123456789697
+modify -name="697's_book" -keyword="697|698|699" -author="1394" -price=697
+select 123456789698
+modify -name="698's_book" -keyword="698|699|700" -author="1396" -price=698
+select 123456789699
+modify -name="699's_book" -keyword="699|700|701" -author="1398" -price=699
+select 123456789700
+modify -name="700's_book" -keyword="700|701|702" -author="1400" -price=700
+select 123456789701
+modify -name="701's_book" -keyword="701|702|703" -author="1402" -price=701
+select 123456789702
+modify -name="702's_book" -keyword="702|703|704" -author="1404" -price=702
+select 123456789703
+modify -name="703's_book" -keyword="703|704|705" -author="1406" -price=703
+select 123456789704
+modify -name="704's_book" -keyword="704|705|706" -author="1408" -price=704
+select 123456789705
+modify -name="705's_book" -keyword="705|706|707" -author="1410" -price=705
+select 123456789706
+modify -name="706's_book" -keyword="706|707|708" -author="1412" -price=706
+select 123456789707
+modify -name="707's_book" -keyword="707|708|709" -author="1414" -price=707
+select 123456789708
+modify -name="708's_book" -keyword="708|709|710" -author="1416" -price=708
+select 123456789709
+modify -name="709's_book" -keyword="709|710|711" -author="1418" -price=709
+select 123456789710
+modify -name="710's_book" -keyword="710|711|712" -author="1420" -price=710
+select 123456789711
+modify -name="711's_book" -keyword="711|712|713" -author="1422" -price=711
+select 123456789712
+modify -name="712's_book" -keyword="712|713|714" -author="1424" -price=712
+select 123456789713
+modify -name="713's_book" -keyword="713|714|715" -author="1426" -price=713
+select 123456789714
+modify -name="714's_book" -keyword="714|715|716" -author="1428" -price=714
+select 123456789715
+modify -name="715's_book" -keyword="715|716|717" -author="1430" -price=715
+select 123456789716
+modify -name="716's_book" -keyword="716|717|718" -author="1432" -price=716
+select 123456789717
+modify -name="717's_book" -keyword="717|718|719" -author="1434" -price=717
+select 123456789718
+modify -name="718's_book" -keyword="718|719|720" -author="1436" -price=718
+select 123456789719
+modify -name="719's_book" -keyword="719|720|721" -author="1438" -price=719
+select 123456789720
+modify -name="720's_book" -keyword="720|721|722" -author="1440" -price=720
+select 123456789721
+modify -name="721's_book" -keyword="721|722|723" -author="1442" -price=721
+select 123456789722
+modify -name="722's_book" -keyword="722|723|724" -author="1444" -price=722
+select 123456789723
+modify -name="723's_book" -keyword="723|724|725" -author="1446" -price=723
+select 123456789724
+modify -name="724's_book" -keyword="724|725|726" -author="1448" -price=724
+select 123456789725
+modify -name="725's_book" -keyword="725|726|727" -author="1450" -price=725
+select 123456789726
+modify -name="726's_book" -keyword="726|727|728" -author="1452" -price=726
+select 123456789727
+modify -name="727's_book" -keyword="727|728|729" -author="1454" -price=727
+select 123456789728
+modify -name="728's_book" -keyword="728|729|730" -author="1456" -price=728
+select 123456789729
+modify -name="729's_book" -keyword="729|730|731" -author="1458" -price=729
+select 123456789730
+modify -name="730's_book" -keyword="730|731|732" -author="1460" -price=730
+select 123456789731
+modify -name="731's_book" -keyword="731|732|733" -author="1462" -price=731
+select 123456789732
+modify -name="732's_book" -keyword="732|733|734" -author="1464" -price=732
+select 123456789733
+modify -name="733's_book" -keyword="733|734|735" -author="1466" -price=733
+select 123456789734
+modify -name="734's_book" -keyword="734|735|736" -author="1468" -price=734
+select 123456789735
+modify -name="735's_book" -keyword="735|736|737" -author="1470" -price=735
+select 123456789736
+modify -name="736's_book" -keyword="736|737|738" -author="1472" -price=736
+select 123456789737
+modify -name="737's_book" -keyword="737|738|739" -author="1474" -price=737
+select 123456789738
+modify -name="738's_book" -keyword="738|739|740" -author="1476" -price=738
+select 123456789739
+modify -name="739's_book" -keyword="739|740|741" -author="1478" -price=739
+select 123456789740
+modify -name="740's_book" -keyword="740|741|742" -author="1480" -price=740
+select 123456789741
+modify -name="741's_book" -keyword="741|742|743" -author="1482" -price=741
+select 123456789742
+modify -name="742's_book" -keyword="742|743|744" -author="1484" -price=742
+select 123456789743
+modify -name="743's_book" -keyword="743|744|745" -author="1486" -price=743
+select 123456789744
+modify -name="744's_book" -keyword="744|745|746" -author="1488" -price=744
+select 123456789745
+modify -name="745's_book" -keyword="745|746|747" -author="1490" -price=745
+select 123456789746
+modify -name="746's_book" -keyword="746|747|748" -author="1492" -price=746
+select 123456789747
+modify -name="747's_book" -keyword="747|748|749" -author="1494" -price=747
+select 123456789748
+modify -name="748's_book" -keyword="748|749|750" -author="1496" -price=748
+select 123456789749
+modify -name="749's_book" -keyword="749|750|751" -author="1498" -price=749
+select 123456789750
+modify -name="750's_book" -keyword="750|751|752" -author="1500" -price=750
+select 123456789751
+modify -name="751's_book" -keyword="751|752|753" -author="1502" -price=751
+select 123456789752
+modify -name="752's_book" -keyword="752|753|754" -author="1504" -price=752
+select 123456789753
+modify -name="753's_book" -keyword="753|754|755" -author="1506" -price=753
+select 123456789754
+modify -name="754's_book" -keyword="754|755|756" -author="1508" -price=754
+select 123456789755
+modify -name="755's_book" -keyword="755|756|757" -author="1510" -price=755
+select 123456789756
+modify -name="756's_book" -keyword="756|757|758" -author="1512" -price=756
+select 123456789757
+modify -name="757's_book" -keyword="757|758|759" -author="1514" -price=757
+select 123456789758
+modify -name="758's_book" -keyword="758|759|760" -author="1516" -price=758
+select 123456789759
+modify -name="759's_book" -keyword="759|760|761" -author="1518" -price=759
+select 123456789760
+modify -name="760's_book" -keyword="760|761|762" -author="1520" -price=760
+select 123456789761
+modify -name="761's_book" -keyword="761|762|763" -author="1522" -price=761
+select 123456789762
+modify -name="762's_book" -keyword="762|763|764" -author="1524" -price=762
+select 123456789763
+modify -name="763's_book" -keyword="763|764|765" -author="1526" -price=763
+select 123456789764
+modify -name="764's_book" -keyword="764|765|766" -author="1528" -price=764
+select 123456789765
+modify -name="765's_book" -keyword="765|766|767" -author="1530" -price=765
+select 123456789766
+modify -name="766's_book" -keyword="766|767|768" -author="1532" -price=766
+select 123456789767
+modify -name="767's_book" -keyword="767|768|769" -author="1534" -price=767
+select 123456789768
+modify -name="768's_book" -keyword="768|769|770" -author="1536" -price=768
+select 123456789769
+modify -name="769's_book" -keyword="769|770|771" -author="1538" -price=769
+select 123456789770
+modify -name="770's_book" -keyword="770|771|772" -author="1540" -price=770
+select 123456789771
+modify -name="771's_book" -keyword="771|772|773" -author="1542" -price=771
+select 123456789772
+modify -name="772's_book" -keyword="772|773|774" -author="1544" -price=772
+select 123456789773
+modify -name="773's_book" -keyword="773|774|775" -author="1546" -price=773
+select 123456789774
+modify -name="774's_book" -keyword="774|775|776" -author="1548" -price=774
+select 123456789775
+modify -name="775's_book" -keyword="775|776|777" -author="1550" -price=775
+select 123456789776
+modify -name="776's_book" -keyword="776|777|778" -author="1552" -price=776
+select 123456789777
+modify -name="777's_book" -keyword="777|778|779" -author="1554" -price=777
+select 123456789778
+modify -name="778's_book" -keyword="778|779|780" -author="1556" -price=778
+select 123456789779
+modify -name="779's_book" -keyword="779|780|781" -author="1558" -price=779
+select 123456789780
+modify -name="780's_book" -keyword="780|781|782" -author="1560" -price=780
+select 123456789781
+modify -name="781's_book" -keyword="781|782|783" -author="1562" -price=781
+select 123456789782
+modify -name="782's_book" -keyword="782|783|784" -author="1564" -price=782
+select 123456789783
+modify -name="783's_book" -keyword="783|784|785" -author="1566" -price=783
+select 123456789784
+modify -name="784's_book" -keyword="784|785|786" -author="1568" -price=784
+select 123456789785
+modify -name="785's_book" -keyword="785|786|787" -author="1570" -price=785
+select 123456789786
+modify -name="786's_book" -keyword="786|787|788" -author="1572" -price=786
+select 123456789787
+modify -name="787's_book" -keyword="787|788|789" -author="1574" -price=787
+select 123456789788
+modify -name="788's_book" -keyword="788|789|790" -author="1576" -price=788
+select 123456789789
+modify -name="789's_book" -keyword="789|790|791" -author="1578" -price=789
+select 123456789790
+modify -name="790's_book" -keyword="790|791|792" -author="1580" -price=790
+select 123456789791
+modify -name="791's_book" -keyword="791|792|793" -author="1582" -price=791
+select 123456789792
+modify -name="792's_book" -keyword="792|793|794" -author="1584" -price=792
+select 123456789793
+modify -name="793's_book" -keyword="793|794|795" -author="1586" -price=793
+select 123456789794
+modify -name="794's_book" -keyword="794|795|796" -author="1588" -price=794
+select 123456789795
+modify -name="795's_book" -keyword="795|796|797" -author="1590" -price=795
+select 123456789796
+modify -name="796's_book" -keyword="796|797|798" -author="1592" -price=796
+select 123456789797
+modify -name="797's_book" -keyword="797|798|799" -author="1594" -price=797
+select 123456789798
+modify -name="798's_book" -keyword="798|799|800" -author="1596" -price=798
+select 123456789799
+modify -name="799's_book" -keyword="799|800|801" -author="1598" -price=799
+select 123456789800
+modify -name="800's_book" -keyword="800|801|802" -author="1600" -price=800
+select 123456789801
+modify -name="801's_book" -keyword="801|802|803" -author="1602" -price=801
+select 123456789802
+modify -name="802's_book" -keyword="802|803|804" -author="1604" -price=802
+select 123456789803
+modify -name="803's_book" -keyword="803|804|805" -author="1606" -price=803
+select 123456789804
+modify -name="804's_book" -keyword="804|805|806" -author="1608" -price=804
+select 123456789805
+modify -name="805's_book" -keyword="805|806|807" -author="1610" -price=805
+select 123456789806
+modify -name="806's_book" -keyword="806|807|808" -author="1612" -price=806
+select 123456789807
+modify -name="807's_book" -keyword="807|808|809" -author="1614" -price=807
+select 123456789808
+modify -name="808's_book" -keyword="808|809|810" -author="1616" -price=808
+select 123456789809
+modify -name="809's_book" -keyword="809|810|811" -author="1618" -price=809
+select 123456789810
+modify -name="810's_book" -keyword="810|811|812" -author="1620" -price=810
+select 123456789811
+modify -name="811's_book" -keyword="811|812|813" -author="1622" -price=811
+select 123456789812
+modify -name="812's_book" -keyword="812|813|814" -author="1624" -price=812
+select 123456789813
+modify -name="813's_book" -keyword="813|814|815" -author="1626" -price=813
+select 123456789814
+modify -name="814's_book" -keyword="814|815|816" -author="1628" -price=814
+select 123456789815
+modify -name="815's_book" -keyword="815|816|817" -author="1630" -price=815
+select 123456789816
+modify -name="816's_book" -keyword="816|817|818" -author="1632" -price=816
+select 123456789817
+modify -name="817's_book" -keyword="817|818|819" -author="1634" -price=817
+select 123456789818
+modify -name="818's_book" -keyword="818|819|820" -author="1636" -price=818
+select 123456789819
+modify -name="819's_book" -keyword="819|820|821" -author="1638" -price=819
+select 123456789820
+modify -name="820's_book" -keyword="820|821|822" -author="1640" -price=820
+select 123456789821
+modify -name="821's_book" -keyword="821|822|823" -author="1642" -price=821
+select 123456789822
+modify -name="822's_book" -keyword="822|823|824" -author="1644" -price=822
+select 123456789823
+modify -name="823's_book" -keyword="823|824|825" -author="1646" -price=823
+select 123456789824
+modify -name="824's_book" -keyword="824|825|826" -author="1648" -price=824
+select 123456789825
+modify -name="825's_book" -keyword="825|826|827" -author="1650" -price=825
+select 123456789826
+modify -name="826's_book" -keyword="826|827|828" -author="1652" -price=826
+select 123456789827
+modify -name="827's_book" -keyword="827|828|829" -author="1654" -price=827
+select 123456789828
+modify -name="828's_book" -keyword="828|829|830" -author="1656" -price=828
+select 123456789829
+modify -name="829's_book" -keyword="829|830|831" -author="1658" -price=829
+select 123456789830
+modify -name="830's_book" -keyword="830|831|832" -author="1660" -price=830
+select 123456789831
+modify -name="831's_book" -keyword="831|832|833" -author="1662" -price=831
+select 123456789832
+modify -name="832's_book" -keyword="832|833|834" -author="1664" -price=832
+select 123456789833
+modify -name="833's_book" -keyword="833|834|835" -author="1666" -price=833
+select 123456789834
+modify -name="834's_book" -keyword="834|835|836" -author="1668" -price=834
+select 123456789835
+modify -name="835's_book" -keyword="835|836|837" -author="1670" -price=835
+select 123456789836
+modify -name="836's_book" -keyword="836|837|838" -author="1672" -price=836
+select 123456789837
+modify -name="837's_book" -keyword="837|838|839" -author="1674" -price=837
+select 123456789838
+modify -name="838's_book" -keyword="838|839|840" -author="1676" -price=838
+select 123456789839
+modify -name="839's_book" -keyword="839|840|841" -author="1678" -price=839
+select 123456789840
+modify -name="840's_book" -keyword="840|841|842" -author="1680" -price=840
+select 123456789841
+modify -name="841's_book" -keyword="841|842|843" -author="1682" -price=841
+select 123456789842
+modify -name="842's_book" -keyword="842|843|844" -author="1684" -price=842
+select 123456789843
+modify -name="843's_book" -keyword="843|844|845" -author="1686" -price=843
+select 123456789844
+modify -name="844's_book" -keyword="844|845|846" -author="1688" -price=844
+select 123456789845
+modify -name="845's_book" -keyword="845|846|847" -author="1690" -price=845
+select 123456789846
+modify -name="846's_book" -keyword="846|847|848" -author="1692" -price=846
+select 123456789847
+modify -name="847's_book" -keyword="847|848|849" -author="1694" -price=847
+select 123456789848
+modify -name="848's_book" -keyword="848|849|850" -author="1696" -price=848
+select 123456789849
+modify -name="849's_book" -keyword="849|850|851" -author="1698" -price=849
+select 123456789850
+modify -name="850's_book" -keyword="850|851|852" -author="1700" -price=850
+select 123456789851
+modify -name="851's_book" -keyword="851|852|853" -author="1702" -price=851
+select 123456789852
+modify -name="852's_book" -keyword="852|853|854" -author="1704" -price=852
+select 123456789853
+modify -name="853's_book" -keyword="853|854|855" -author="1706" -price=853
+select 123456789854
+modify -name="854's_book" -keyword="854|855|856" -author="1708" -price=854
+select 123456789855
+modify -name="855's_book" -keyword="855|856|857" -author="1710" -price=855
+select 123456789856
+modify -name="856's_book" -keyword="856|857|858" -author="1712" -price=856
+select 123456789857
+modify -name="857's_book" -keyword="857|858|859" -author="1714" -price=857
+select 123456789858
+modify -name="858's_book" -keyword="858|859|860" -author="1716" -price=858
+select 123456789859
+modify -name="859's_book" -keyword="859|860|861" -author="1718" -price=859
+select 123456789860
+modify -name="860's_book" -keyword="860|861|862" -author="1720" -price=860
+select 123456789861
+modify -name="861's_book" -keyword="861|862|863" -author="1722" -price=861
+select 123456789862
+modify -name="862's_book" -keyword="862|863|864" -author="1724" -price=862
+select 123456789863
+modify -name="863's_book" -keyword="863|864|865" -author="1726" -price=863
+select 123456789864
+modify -name="864's_book" -keyword="864|865|866" -author="1728" -price=864
+select 123456789865
+modify -name="865's_book" -keyword="865|866|867" -author="1730" -price=865
+select 123456789866
+modify -name="866's_book" -keyword="866|867|868" -author="1732" -price=866
+select 123456789867
+modify -name="867's_book" -keyword="867|868|869" -author="1734" -price=867
+select 123456789868
+modify -name="868's_book" -keyword="868|869|870" -author="1736" -price=868
+select 123456789869
+modify -name="869's_book" -keyword="869|870|871" -author="1738" -price=869
+select 123456789870
+modify -name="870's_book" -keyword="870|871|872" -author="1740" -price=870
+select 123456789871
+modify -name="871's_book" -keyword="871|872|873" -author="1742" -price=871
+select 123456789872
+modify -name="872's_book" -keyword="872|873|874" -author="1744" -price=872
+select 123456789873
+modify -name="873's_book" -keyword="873|874|875" -author="1746" -price=873
+select 123456789874
+modify -name="874's_book" -keyword="874|875|876" -author="1748" -price=874
+select 123456789875
+modify -name="875's_book" -keyword="875|876|877" -author="1750" -price=875
+select 123456789876
+modify -name="876's_book" -keyword="876|877|878" -author="1752" -price=876
+select 123456789877
+modify -name="877's_book" -keyword="877|878|879" -author="1754" -price=877
+select 123456789878
+modify -name="878's_book" -keyword="878|879|880" -author="1756" -price=878
+select 123456789879
+modify -name="879's_book" -keyword="879|880|881" -author="1758" -price=879
+select 123456789880
+modify -name="880's_book" -keyword="880|881|882" -author="1760" -price=880
+select 123456789881
+modify -name="881's_book" -keyword="881|882|883" -author="1762" -price=881
+select 123456789882
+modify -name="882's_book" -keyword="882|883|884" -author="1764" -price=882
+select 123456789883
+modify -name="883's_book" -keyword="883|884|885" -author="1766" -price=883
+select 123456789884
+modify -name="884's_book" -keyword="884|885|886" -author="1768" -price=884
+select 123456789885
+modify -name="885's_book" -keyword="885|886|887" -author="1770" -price=885
+select 123456789886
+modify -name="886's_book" -keyword="886|887|888" -author="1772" -price=886
+select 123456789887
+modify -name="887's_book" -keyword="887|888|889" -author="1774" -price=887
+select 123456789888
+modify -name="888's_book" -keyword="888|889|890" -author="1776" -price=888
+select 123456789889
+modify -name="889's_book" -keyword="889|890|891" -author="1778" -price=889
+select 123456789890
+modify -name="890's_book" -keyword="890|891|892" -author="1780" -price=890
+select 123456789891
+modify -name="891's_book" -keyword="891|892|893" -author="1782" -price=891
+select 123456789892
+modify -name="892's_book" -keyword="892|893|894" -author="1784" -price=892
+select 123456789893
+modify -name="893's_book" -keyword="893|894|895" -author="1786" -price=893
+select 123456789894
+modify -name="894's_book" -keyword="894|895|896" -author="1788" -price=894
+select 123456789895
+modify -name="895's_book" -keyword="895|896|897" -author="1790" -price=895
+select 123456789896
+modify -name="896's_book" -keyword="896|897|898" -author="1792" -price=896
+select 123456789897
+modify -name="897's_book" -keyword="897|898|899" -author="1794" -price=897
+select 123456789898
+modify -name="898's_book" -keyword="898|899|900" -author="1796" -price=898
+select 123456789899
+modify -name="899's_book" -keyword="899|900|901" -author="1798" -price=899
+select 123456789900
+modify -name="900's_book" -keyword="900|901|902" -author="1800" -price=900
+select 123456789901
+modify -name="901's_book" -keyword="901|902|903" -author="1802" -price=901
+select 123456789902
+modify -name="902's_book" -keyword="902|903|904" -author="1804" -price=902
+select 123456789903
+modify -name="903's_book" -keyword="903|904|905" -author="1806" -price=903
+select 123456789904
+modify -name="904's_book" -keyword="904|905|906" -author="1808" -price=904
+select 123456789905
+modify -name="905's_book" -keyword="905|906|907" -author="1810" -price=905
+select 123456789906
+modify -name="906's_book" -keyword="906|907|908" -author="1812" -price=906
+select 123456789907
+modify -name="907's_book" -keyword="907|908|909" -author="1814" -price=907
+select 123456789908
+modify -name="908's_book" -keyword="908|909|910" -author="1816" -price=908
+select 123456789909
+modify -name="909's_book" -keyword="909|910|911" -author="1818" -price=909
+select 123456789910
+modify -name="910's_book" -keyword="910|911|912" -author="1820" -price=910
+select 123456789911
+modify -name="911's_book" -keyword="911|912|913" -author="1822" -price=911
+select 123456789912
+modify -name="912's_book" -keyword="912|913|914" -author="1824" -price=912
+select 123456789913
+modify -name="913's_book" -keyword="913|914|915" -author="1826" -price=913
+select 123456789914
+modify -name="914's_book" -keyword="914|915|916" -author="1828" -price=914
+select 123456789915
+modify -name="915's_book" -keyword="915|916|917" -author="1830" -price=915
+select 123456789916
+modify -name="916's_book" -keyword="916|917|918" -author="1832" -price=916
+select 123456789917
+modify -name="917's_book" -keyword="917|918|919" -author="1834" -price=917
+select 123456789918
+modify -name="918's_book" -keyword="918|919|920" -author="1836" -price=918
+select 123456789919
+modify -name="919's_book" -keyword="919|920|921" -author="1838" -price=919
+select 123456789920
+modify -name="920's_book" -keyword="920|921|922" -author="1840" -price=920
+select 123456789921
+modify -name="921's_book" -keyword="921|922|923" -author="1842" -price=921
+select 123456789922
+modify -name="922's_book" -keyword="922|923|924" -author="1844" -price=922
+select 123456789923
+modify -name="923's_book" -keyword="923|924|925" -author="1846" -price=923
+select 123456789924
+modify -name="924's_book" -keyword="924|925|926" -author="1848" -price=924
+select 123456789925
+modify -name="925's_book" -keyword="925|926|927" -author="1850" -price=925
+select 123456789926
+modify -name="926's_book" -keyword="926|927|928" -author="1852" -price=926
+select 123456789927
+modify -name="927's_book" -keyword="927|928|929" -author="1854" -price=927
+select 123456789928
+modify -name="928's_book" -keyword="928|929|930" -author="1856" -price=928
+select 123456789929
+modify -name="929's_book" -keyword="929|930|931" -author="1858" -price=929
+select 123456789930
+modify -name="930's_book" -keyword="930|931|932" -author="1860" -price=930
+select 123456789931
+modify -name="931's_book" -keyword="931|932|933" -author="1862" -price=931
+select 123456789932
+modify -name="932's_book" -keyword="932|933|934" -author="1864" -price=932
+select 123456789933
+modify -name="933's_book" -keyword="933|934|935" -author="1866" -price=933
+select 123456789934
+modify -name="934's_book" -keyword="934|935|936" -author="1868" -price=934
+select 123456789935
+modify -name="935's_book" -keyword="935|936|937" -author="1870" -price=935
+select 123456789936
+modify -name="936's_book" -keyword="936|937|938" -author="1872" -price=936
+select 123456789937
+modify -name="937's_book" -keyword="937|938|939" -author="1874" -price=937
+select 123456789938
+modify -name="938's_book" -keyword="938|939|940" -author="1876" -price=938
+select 123456789939
+modify -name="939's_book" -keyword="939|940|941" -author="1878" -price=939
+select 123456789940
+modify -name="940's_book" -keyword="940|941|942" -author="1880" -price=940
+select 123456789941
+modify -name="941's_book" -keyword="941|942|943" -author="1882" -price=941
+select 123456789942
+modify -name="942's_book" -keyword="942|943|944" -author="1884" -price=942
+select 123456789943
+modify -name="943's_book" -keyword="943|944|945" -author="1886" -price=943
+select 123456789944
+modify -name="944's_book" -keyword="944|945|946" -author="1888" -price=944
+select 123456789945
+modify -name="945's_book" -keyword="945|946|947" -author="1890" -price=945
+select 123456789946
+modify -name="946's_book" -keyword="946|947|948" -author="1892" -price=946
+select 123456789947
+modify -name="947's_book" -keyword="947|948|949" -author="1894" -price=947
+select 123456789948
+modify -name="948's_book" -keyword="948|949|950" -author="1896" -price=948
+select 123456789949
+modify -name="949's_book" -keyword="949|950|951" -author="1898" -price=949
+select 123456789950
+modify -name="950's_book" -keyword="950|951|952" -author="1900" -price=950
+select 123456789951
+modify -name="951's_book" -keyword="951|952|953" -author="1902" -price=951
+select 123456789952
+modify -name="952's_book" -keyword="952|953|954" -author="1904" -price=952
+select 123456789953
+modify -name="953's_book" -keyword="953|954|955" -author="1906" -price=953
+select 123456789954
+modify -name="954's_book" -keyword="954|955|956" -author="1908" -price=954
+select 123456789955
+modify -name="955's_book" -keyword="955|956|957" -author="1910" -price=955
+select 123456789956
+modify -name="956's_book" -keyword="956|957|958" -author="1912" -price=956
+select 123456789957
+modify -name="957's_book" -keyword="957|958|959" -author="1914" -price=957
+select 123456789958
+modify -name="958's_book" -keyword="958|959|960" -author="1916" -price=958
+select 123456789959
+modify -name="959's_book" -keyword="959|960|961" -author="1918" -price=959
+select 123456789960
+modify -name="960's_book" -keyword="960|961|962" -author="1920" -price=960
+select 123456789961
+modify -name="961's_book" -keyword="961|962|963" -author="1922" -price=961
+select 123456789962
+modify -name="962's_book" -keyword="962|963|964" -author="1924" -price=962
+select 123456789963
+modify -name="963's_book" -keyword="963|964|965" -author="1926" -price=963
+select 123456789964
+modify -name="964's_book" -keyword="964|965|966" -author="1928" -price=964
+select 123456789965
+modify -name="965's_book" -keyword="965|966|967" -author="1930" -price=965
+select 123456789966
+modify -name="966's_book" -keyword="966|967|968" -author="1932" -price=966
+select 123456789967
+modify -name="967's_book" -keyword="967|968|969" -author="1934" -price=967
+select 123456789968
+modify -name="968's_book" -keyword="968|969|970" -author="1936" -price=968
+select 123456789969
+modify -name="969's_book" -keyword="969|970|971" -author="1938" -price=969
+select 123456789970
+modify -name="970's_book" -keyword="970|971|972" -author="1940" -price=970
+select 123456789971
+modify -name="971's_book" -keyword="971|972|973" -author="1942" -price=971
+select 123456789972
+modify -name="972's_book" -keyword="972|973|974" -author="1944" -price=972
+select 123456789973
+modify -name="973's_book" -keyword="973|974|975" -author="1946" -price=973
+select 123456789974
+modify -name="974's_book" -keyword="974|975|976" -author="1948" -price=974
+select 123456789975
+modify -name="975's_book" -keyword="975|976|977" -author="1950" -price=975
+select 123456789976
+modify -name="976's_book" -keyword="976|977|978" -author="1952" -price=976
+select 123456789977
+modify -name="977's_book" -keyword="977|978|979" -author="1954" -price=977
+select 123456789978
+modify -name="978's_book" -keyword="978|979|980" -author="1956" -price=978
+select 123456789979
+modify -name="979's_book" -keyword="979|980|981" -author="1958" -price=979
+select 123456789980
+modify -name="980's_book" -keyword="980|981|982" -author="1960" -price=980
+select 123456789981
+modify -name="981's_book" -keyword="981|982|983" -author="1962" -price=981
+select 123456789982
+modify -name="982's_book" -keyword="982|983|984" -author="1964" -price=982
+select 123456789983
+modify -name="983's_book" -keyword="983|984|985" -author="1966" -price=983
+select 123456789984
+modify -name="984's_book" -keyword="984|985|986" -author="1968" -price=984
+select 123456789985
+modify -name="985's_book" -keyword="985|986|987" -author="1970" -price=985
+select 123456789986
+modify -name="986's_book" -keyword="986|987|988" -author="1972" -price=986
+select 123456789987
+modify -name="987's_book" -keyword="987|988|989" -author="1974" -price=987
+select 123456789988
+modify -name="988's_book" -keyword="988|989|990" -author="1976" -price=988
+select 123456789989
+modify -name="989's_book" -keyword="989|990|991" -author="1978" -price=989
+select 123456789990
+modify -name="990's_book" -keyword="990|991|992" -author="1980" -price=990
+select 123456789991
+modify -name="991's_book" -keyword="991|992|993" -author="1982" -price=991
+select 123456789992
+modify -name="992's_book" -keyword="992|993|994" -author="1984" -price=992
+select 123456789993
+modify -name="993's_book" -keyword="993|994|995" -author="1986" -price=993
+select 123456789994
+modify -name="994's_book" -keyword="994|995|996" -author="1988" -price=994
+select 123456789995
+modify -name="995's_book" -keyword="995|996|997" -author="1990" -price=995
+select 123456789996
+modify -name="996's_book" -keyword="996|997|998" -author="1992" -price=996
+select 123456789997
+modify -name="997's_book" -keyword="997|998|999" -author="1994" -price=997
+select 123456789998
+modify -name="998's_book" -keyword="998|999|1000" -author="1996" -price=998
+select 123456789999
+modify -name="999's_book" -keyword="999|1000|1001" -author="1998" -price=999
+exit

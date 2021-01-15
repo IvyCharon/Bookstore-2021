@@ -1,0 +1,120 @@
+su root HVGtMnxcSarKgjBYLpz8S9EeTBg
+logout
+su 2BAEWY2asVjIKi bqRd5z3rWQHog4GZccICtcoNT37OFL
+show -ISBN=978-1-02-129328-2
+select 978-0-426-28454-3
+modify -name="interim" -author="BrandonRay" -price=318.70
+show -ISBN=978-0-927013-09-3
+logout
+su _uxdzFjCcS0lFsgEwnrfk2eRm LAn08JKwA7tiL1dc0MuANe3XQAqW2d
+select 978-1-122-55564-7
+modify -name="simply" -author="BrandonRay" -price=109.73
+buy 978-0-88120-554-1 1
+buy 978-1-83455-663-5 1
+select 978-0-598-66567-6
+modify -author="BrandonRay" -keyword="matriarchy|built|incline" -price=18.43
+buy 978-1-78887-051-1 1
+select 978-0-89548-747-6
+modify -name="monocular" -author="AngelaStone" -keyword="Vassar|admonish" -price=328.76
+passwd _uxdzFjCcS0lFsgEwnrfk2eRm LAn08JKwA7tiL1dc0MuANe3XQAqW2d hbj3zYBZAT
+show -author="AnthonyVillanueva"
+passwd _uxdzFjCcS0lFsgEwnrfk2eRm hbj3zYBZAT yMtC
+logout
+su PSv9QQzfmHQEGxCLGTr U4eTfYys_Ss9XpHE8Qd2JHWYrGb4
+logout
+su C1AXC_OHRpGQaqFv3YOMAhkS51Ku CmM
+show -ISBN=978-0-927013-09-3
+show -author="BrandonRay"
+show -keyword="soil"
+show -author="Dr.DustinBranchDDS"
+select 978-0-05-057026-5
+modify -name="adulterate" -author="JeanneAtkinson" -keyword="Howard|soil" -price=193.78
+passwd _lj1Cp4ax3K8va5vxdwPtXA uATvC a
+show -keyword="pixy"
+show -name="monocular"
+select 978-1-4641-8933-3
+modify -author="DanielSanchez" -keyword="built|Howard|admonish|transistor" -price=281.66
+logout
+su wKbjXfE7RExUY ZaIXiklp2wenZ9
+select 978-1-82067-226-4
+modify -name="sweeten" -author="ElizabethOconnor" -keyword="admonish" -price=47.06
+select 978-1-82441-223-1
+modify -name="squeeze" -author="JeanneAtkinson" -keyword="transistor|vast" -price=180.82
+buy 978-1-9875-3060-5 1
+show -keyword="vast"
+select 978-0-16-599910-4
+modify -name="Cajun" -author="JaniceHiggins" -keyword="concentrate|transistor" -price=300.87
+select 978-0-89107-232-4
+modify -name="Balinese" -author="BrandonRay" -keyword="Vassar|vast|Howard|pixy"
+select 978-1-395-52330-5
+modify -name="hellebore"
+show -author="AnthonyVillanueva"
+show -keyword="built"
+logout
+select 978-1-55067-803-1
+modify -name="frontal" -author="JaniceHiggins" -keyword="homologue|concentrate|whiteface|Hildebrand|soil" -price=253.87
+select 978-0-88120-554-1
+modify -keyword="homologue|admonish|concentrate|Vassar|pixy" -price=458.21
+su T2G4C24 7xag1g0AsVz
+logout
+select 978-1-09-288029-9
+modify -price=277.45
+select 978-1-395-52330-5
+modify -name="Ozark" -author="JaniceHiggins" -keyword="concentrate|Howard" -price=193.30
+register HCO9tgWeQ9bMjNDQLEhXjDiicbSQ KOM9 StevenJackson
+su _uxdzFjCcS0lFsgEwnrfk2eRm yMtC
+select 978-1-970370-28-7
+modify -name="ox" -author="LanceReilly"
+select 978-1-4641-8933-3
+modify -author="DanielSanchez" -keyword="concentrate|Vassar|pixy|whiteface"
+show -name="almond"
+passwd _uxdzFjCcS0lFsgEwnrfk2eRm yMtC Ku_hjxiNm9efDWrkL4iBgN
+buy 978-0-201-84949-3 1
+buy 978-1-63214-399-0 1
+buy 978-1-395-52330-5 1
+logout
+register 4Te9pfVd35SJWxi1ZUH_1DA LP8JXAN1KZfDepoSMdVOLt5tGnRIn JohnOliver
+register OeoQ2AWEEu4j53xjI YNvlbhX_4C89IK FeliciaKerr
+register up_BNgHjsM4rXKS CK5 JohnLee
+su w758EJyO2Q1i08Pxt_pQnyFqKE3 feNDkDT2L3M3fDaH4kIsusuADngg
+select 978-0-519-86897-1
+modify -name="checkerberry" -author="Dr.DustinBranchDDS" -keyword="vast|incline|admonish" -price=363.03
+select 978-1-09-963685-1
+modify -name="tarantula" -author="AnthonyVillanueva" -keyword="incline|concentrate|Vassar|built" -price=442.49
+logout
+su p3GhIE8z nEz4
+select 978-1-64788-557-1
+modify -keyword="vast|admonish|Vassar"
+select 978-0-669-60978-3
+modify -name="vertigo" -author="ElizabethOconnor" -keyword="built" -price=323.67
+select 978-1-5104-6329-5
+modify -name="sextet" -author="DanielSanchez" -keyword="Hildebrand|Vassar|vast|homologue" -price=198.92
+buy 978-0-03-915024-2 1
+buy 978-1-83455-663-5 1
+select 978-0-225-00977-4
+modify -name="conscious" -author="LeonardHarrison" -price=225.77
+show -name="sceptic"
+buy 978-1-4393-6830-5 1
+logout
+select 978-0-05-057026-5
+modify -keyword="injury|incline|admonish" -price=484.82
+su T2G4C24 7xag1g0AsVz
+passwd T2G4C24 7xag1g0AsVz obzy32hIq125Hbc6kb
+show -author="AnthonyVillanueva"
+logout
+select 978-0-225-00977-4
+modify -name="Atreus" -author="AngelaStone" -keyword="Hildebrand" -price=478.27
+su Z2_uxEotMPqSV1k_fhx 3GL9YKrO2UsyhamFsctx2O7ZjbFiV
+show -keyword="homologue"
+select 978-1-69748-704-6
+modify -name="Hawthorne" -author="AngelaStone" -keyword="built|transistor" -price=315.22
+select 978-1-68743-381-7
+modify -name="question" -author="BrandonRay" -keyword="Hildebrand|homologue" -price=392.71
+buy 978-1-83455-663-5 1
+logout
+select 978-1-888521-49-8
+modify -name="phagocyte" -author="Dr.DustinBranchDDS" -keyword="homologue" -price=30.71
+su prTolL0Xk4Kv9JMC MKGnY5ff4wbYDSNrpkRxjPzVa
+select 978-1-56856-167-7
+modify -name="drug" -author="DanielSanchez" -keyword="injury"
+buy 978-0-514-96193-6 1

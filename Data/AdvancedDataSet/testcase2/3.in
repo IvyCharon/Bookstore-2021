@@ -1,0 +1,115 @@
+su root HVGtMnxcSarKgjBYLpz8S9EeTBg
+delete aQlfeZTn
+useradd o8rTEkJsca1qXvRiK2RStFdELKoA ty2GftxISmgToWZ 3 DannyCowan
+logout
+select 978-0-10-290176-4
+modify -name="rubbery" -author="Dr.DustinBranchDDS" -keyword="homologue|transistor|Hildebrand|Howard"
+su Z2_uxEotMPqSV1k_fhx CcqbZ4wSKYEm
+logout
+select 978-1-131-92614-8
+modify -name="monastic" -author="AngelaStone" -keyword="soil|concentrate|transistor" -price=65.92
+su p3GhIE8z zLOZmFhaxFFk2
+select 978-1-4393-6830-5
+modify -author="JaniceHiggins" -keyword="vast|admonish|matriarchy" -price=106.26
+show -author="JaniceHiggins"
+show -ISBN=978-1-09-288029-9
+select 978-0-201-84949-3
+modify -name="hereto"
+logout
+register dE99ADdnJNJqygbG9 v1njVoFNmX8e00HYOiuIluyoMB AmberJames
+register itY6ZdDUOVGezyrhQ2XT8Cqn1qlpTW iWD_H2MhU DenisePollard
+select 978-0-563-44784-9
+modify -name="twin" -author="BrandonRay" -keyword="soil|Howard" -price=120.68
+select 978-1-55067-803-1
+modify -author="DanielSanchez" -keyword="homologue"
+select 978-0-9734147-1-4
+modify -name="cage" -author="JaniceHiggins" -keyword="admonish|whiteface" -price=97.13
+su fjFT6WkfjYQXQDVyHqTllYmrZduMg 5iI3m
+buy 978-1-4393-6830-5 1
+show -name="hereto"
+buy 978-0-940505-80-3 1
+show -author="ElizabethOconnor"
+logout
+register s78R1jNt3WVYrt6sOFJ f1SYO NicoleGibbs
+register _gv6PkQzkUp3tfvQtKK13 zBtHdPJjtzYQ3tpOVQkHDGq3lz ChristopherRivera
+select 978-0-940505-80-3
+modify -name="Johann"
+select 978-1-55067-803-1
+modify -name="immobile" -keyword="incline|homologue|soil"
+select 978-1-927590-53-9
+modify -name="Teddy" -author="LeonardHarrison" -keyword="Vassar|vast|soil|incline" -price=231.13
+su itY6ZdDUOVGezyrhQ2XT8Cqn1qlpTW iWD_H2MhU
+show -keyword="matriarchy"
+select 978-0-319-40222-1
+modify -name="imperishable" -author="Dr.DustinBranchDDS" -keyword="homologue|vast|built" -price=61.64
+buy 978-1-4393-6830-5 1
+passwd SacbyhoKGtEIrYHe t9gUAKGlFOBziN 4V3QIlatcUIVtttsuw_tl
+show -author="BrandonRay"
+buy 978-0-10-290176-4 1
+passwd itY6ZdDUOVGezyrhQ2XT8Cqn1qlpTW iWD_H2MhU mHduEOly
+buy 978-0-201-84949-3 1
+logout
+select 978-0-940505-80-3
+modify -name="euphoric" -author="AngelaStone" -price=450.54
+select 978-1-224-01116-4
+modify -name="loch" -author="LeonardHarrison" -keyword="pixy" -price=374.81
+su ef zbfRYcUm456HPMNZ1Cz
+buy 978-1-09-288029-9 1
+show -ISBN=978-0-201-84949-3
+show -name="immediacy"
+logout
+su fjFT6WkfjYQXQDVyHqTllYmrZduMg 5iI3m
+passwd fjFT6WkfjYQXQDVyHqTllYmrZduMg 5iI3m gtxKi2GUEEQt
+select 978-1-4393-6830-5
+modify -name="cacao" -author="ElizabethOconnor" -price=205.67
+passwd fjFT6WkfjYQXQDVyHqTllYmrZduMg gtxKi2GUEEQt Z_6OHvPvRACc
+buy 978-0-351-69822-4 1
+show -keyword="built"
+show -ISBN=978-1-4393-6830-5
+passwd fjFT6WkfjYQXQDVyHqTllYmrZduMg Z_6OHvPvRACc vxStZQyPPnI87VtdzxFYNSDO
+show -name="forget"
+buy 978-0-319-40222-1 1
+logout
+su ONvuFV_gQBtr LbLB3hmFBUBcG2Z17rfEquEjL4
+select 978-1-02-129328-2
+modify -name="Euclidean" -author="LanceReilly" -keyword="Vassar|incline|vast|injury|matriarchy" -price=314.52
+show -keyword="matriarchy"
+select 978-0-598-66567-6
+modify -name="bacon" -author="Dr.DustinBranchDDS" -keyword="admonish|vast|transistor|homologue" -price=246.38
+buy 978-1-09-288029-9 1
+show -name="Euclidean"
+logout
+select 978-0-351-69822-4
+modify -name="progeny" -author="LeonardHarrison" -keyword="transistor|matriarchy|built" -price=303.62
+select 978-1-02-129328-2
+modify -name="livre" -author="JaniceHiggins"
+select 978-0-10-290176-4
+modify -author="DanielSanchez" -keyword="matriarchy|vast|whiteface|pixy" -price=133.79
+su ef zbfRYcUm456HPMNZ1Cz
+select 978-0-426-28454-3
+modify -name="heathen" -author="JaniceHiggins" -keyword="admonish|injury" -price=466.07
+logout
+su ef zbfRYcUm456HPMNZ1Cz
+select 978-0-416-59166-8
+modify -name="changeover" -author="JeanneAtkinson" -keyword="incline" -price=200.90
+select 978-1-02-129328-2
+modify -name="illustrate" -author="AngelaStone" -keyword="built|Howard|admonish" -price=448.40
+logout
+su ef zbfRYcUm456HPMNZ1Cz
+show -keyword="built"
+select 978-1-02-129328-2
+modify -name="newsmen" -author="DanielSanchez" -keyword="matriarchy|whiteface|built|Howard"
+buy 978-0-319-40222-1 1
+select 978-1-962629-48-5
+modify -name="wheelhouse" -author="LeonardHarrison" -keyword="matriarchy|concentrate|incline" -price=290.19
+buy 978-0-201-84949-3 1
+buy 978-0-319-40222-1 1
+buy 978-0-201-84949-3 1
+buy 978-0-598-66567-6 1
+show -keyword="incline"
+buy 978-0-10-290176-4 1
+buy 978-0-940505-80-3 1
+buy 978-1-4393-6830-5 1
+buy 978-0-416-59166-8 1
+logout
+select 978-1-55067-803-1

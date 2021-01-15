@@ -1,0 +1,12 @@
+190.00
+135.00
+760.00
+225.00
+45.00
++ 1355.00 - 813.33
++ 0.00 - 200.00
++ 270.00 - 200.00
++ 270.00 - 430.00
++ 1355.00 - 813.33
+9787544287722	Phillips,HallandWelch	SantiagoPLC	KlinePLC|GoldenInc	45.00	29
+9787559410443	GonzalesLLC	HunterLtd	KlinePLC|SuttonPLC	38.00	43

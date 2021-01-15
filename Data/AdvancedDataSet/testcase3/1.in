@@ -1,0 +1,587 @@
+su root sjtu
+useradd Z6A3zsV6v0KHEfY cy3WW7VkHfGmahE 3 PatriciaSullivan
+select 978-1-891666-71-1
+modify -name="save" -author="ChristopherVelasquez" -keyword="foundling|Haberman|botulin|antique" -price=282.14
+useradd gOfvGpgdCC gpgToLWW 3 KarenRuiz
+logout
+select 978-1-891666-71-1
+modify -name="peltry" -keyword="Siamese|foundling|FPC" -price=378.28
+select 978-1-891666-71-1
+modify -name="threw" -keyword="foundling|Beaujolais" -price=113.41
+su root sjtu
+useradd 1KlnCG2b3boGCHgosdqSmm7auj4RwN pomJN7AkB8vFUQRD86UblVzEWM 3 BeverlyMccall
+select 978-1-891666-71-1
+modify -author="JeremyWood" -keyword="Beaujolais|dialysis"
+useradd 7xIFvS1HfzIiyKTJvl_Q aB_mkXT7h 1 StevenGutierrez
+delete 1KlnCG2b3boGCHgosdqSmm7auj4RwN
+logout
+register 5ooMg8gmAAatl0OAv7 ohcCDofFKirghSm7chi50vs6LHCWfi BrianHardingDVM
+su 7xIFvS1HfzIiyKTJvl_Q aB_mkXT7h
+buy 978-1-891666-71-1 1
+select 978-1-891666-71-1
+modify -author="RichardTurner" -keyword="factual" -price=376.24
+buy 978-1-891666-71-1 1
+logout
+register fweUjA0nHhCxXJ_duuSoc4tnOOTa04 C1 MichaelChavez
+select 978-0-14-425014-1
+modify -name="Sternberg" -author="LauraEvans" -keyword="factual|foundling|antique" -price=431.63
+select 978-1-891666-71-1
+modify -name="parlay" -author="RichardTurner" -keyword="dialysis"
+register hNRKidL1KjvTmqS5P7UZdipiYoV0m gHFCoWzmFtdIXp7lZm EricHooper
+select 978-1-891666-71-1
+modify -name="bottle" -keyword="FPC|factual" -price=370.25
+su root sjtu
+select 978-1-79984-815-8
+modify -name="inclement" -author="EricJones" -keyword="Haberman|botulin|factual" -price=373.39
+select 978-1-85099-059-8
+modify -name="sentence" -author="ScottFlores" -keyword="dialysis|Haberman" -price=66.19
+useradd vE0iDoWcMu dE86J3sMlSoM8VoABvsNh_wyv104Xw 3 CindyBurton
+delete 7xIFvS1HfzIiyKTJvl_Q
+logout
+su root sjtu
+useradd M1f2aP7kG L8aHJClDsL1xElHdPl2SeaZenV 3 NicoleStevens
+logout
+select 978-1-79984-815-8
+modify -name="laudanum" -keyword="Louisiana" -price=423.49
+register BPNuL2Jubyu YqraY_nAQjio5VwrDyZ DavidWalker
+su BPNuL2Jubyu YqraY_nAQjio5VwrDyZ
+passwd BPNuL2Jubyu YqraY_nAQjio5VwrDyZ 4hVBRra0ruFn2pe
+show -keyword="factual"
+select 978-1-891666-71-1
+modify -name="Manchester" -author="JenniferCarter" -keyword="Louisiana"
+show -author="JenniferCarter"
+passwd BPNuL2Jubyu 4hVBRra0ruFn2pe 6eAQm8d1
+show -ISBN=978-1-891666-71-1
+select 978-1-83093-783-4
+modify -name="profusion" -author="CliffordThornton" -keyword="Haberman|botulin" -price=382.90
+select 978-0-285-07051-6
+modify -name="withstand" -author="ScottHouse" -keyword="botulin|Haberman|factual|antique|Louisiana" -price=461.10
+show -ISBN=978-1-85099-059-8
+buy 978-0-285-07051-6 1
+select 978-1-79984-815-8
+modify -name="resentful" -author="CrystalWalton" -price=194.81
+buy 978-1-79984-815-8 1
+buy 978-1-891666-71-1 1
+show -name="profusion"
+buy 978-1-85099-059-8 1
+show -author="CrystalWalton"
+logout
+select 978-1-891666-71-1
+modify -name="madam" -author="AmberKemp"
+su hNRKidL1KjvTmqS5P7UZdipiYoV0m gHFCoWzmFtdIXp7lZm
+buy 978-0-285-07051-6 1
+logout
+su Z6A3zsV6v0KHEfY cy3WW7VkHfGmahE
+useradd Cx6t 2zHBjSRDw 1 ElizabethYang
+select 978-0-440-52054-2
+modify -name="stationarity" -author="CrystalWalton" -keyword="factual|botulin|antique" -price=328.21
+useradd fQSmJFEZf tdvPnmI 1 DeannaCasey
+useradd F r1s7L8Xtl4UM8EcS_LvPmV03BQNgA 1 ChristopherAnderson
+useradd M87lymKAdcWkyrGjZgea9usPP0y JFqwXln6WsiL3VALULHO_KaLqiZqnQ 1 WayneBaker
+import 11 1676.42
+select 978-1-874616-50-4
+modify -name="energetic" -author="JamesTorres" -keyword="botulin" -price=163.78
+logout
+register kxM_TwqI5AxA1mDBFapB P NicholasPerez
+su fQSmJFEZf tdvPnmI
+select 978-1-891666-71-1
+modify -name="opacity" -author="RobertBrown" -keyword="botulin|antique" -price=406.83
+show -author="ScottHouse"
+logout
+select 978-0-440-52054-2
+modify -name="cornish" -keyword="factual|Siamese|Louisiana"
+select 978-1-83093-783-4
+modify -name="boatswain" -keyword="foundling|antique|dialysis|FPC" -price=50.03
+su vE0iDoWcMu dE86J3sMlSoM8VoABvsNh_wyv104Xw
+logout
+su kxM_TwqI5AxA1mDBFapB P
+buy 978-1-85099-059-8 1
+show -ISBN=978-1-79984-815-8
+select 978-1-383-15414-6
+modify -name="wayside" -author="MarieAndersen" -keyword="antique|FPC" -price=493.67
+logout
+su root sjtu
+select 978-1-383-15414-6
+modify -name="tore" -price=55.53
+select 978-0-7491-3056-5
+modify -name="hoodlum" -author="ScottFlores" -keyword="FPC" -price=50.03
+useradd qOVY8Bl8mfnuagpNoZhhDH8 hWGW8QX7FiKmAGGq 1 DebraWilliams
+passwd F c
+logout
+select 978-0-285-07051-6
+modify -name="Tyrannosaurus" -author="RobertBrown" -keyword="Haberman|Siamese"
+select 978-1-285-47895-1
+modify -name="gamesmanship" -author="JeremyWood" -keyword="foundling|factual" -price=52.71
+su qOVY8Bl8mfnuagpNoZhhDH8 hWGW8QX7FiKmAGGq
+passwd 5ooMg8gmAAatl0OAv7 4WbeWXYHp_LFROeC2kASZcfY qYNLn2uqE8
+show -keyword="botulin"
+select 978-0-246-95986-7
+modify -name="phonograph" -author="DonaldIngram" -keyword="botulin|dialysis|Louisiana" -price=491.05
+show -name="stationarity"
+select 978-1-874616-50-4
+modify -author="ScottHouse" -keyword="Siamese" -price=419.15
+logout
+select 978-1-85099-059-8
+modify -name="insensitive" -author="RichardTurner" -price=276.11
+su 5ooMg8gmAAatl0OAv7 ohcCDofFKirghSm7chi50vs6LHCWfi
+buy 978-1-874616-50-4 1
+select 978-1-218-91208-8
+modify -name="dimple" -author="AngelYang" -keyword="dialysis|botulin" -price=10.54
+passwd 5ooMg8gmAAatl0OAv7 ohcCDofFKirghSm7chi50vs6LHCWfi cDOMbVTERdh2qQEx0NUP52LR
+select 978-1-891666-71-1
+modify -name="topple"
+show -name="energetic"
+buy 978-1-83093-783-4 1
+buy 978-1-891666-71-1 1
+show -keyword="botulin"
+show -keyword="Haberman"
+show -name="hoodlum"
+show -name="stationarity"
+show -keyword="antique"
+show -author="CliffordThornton"
+show -author="AngelYang"
+buy 978-1-874616-50-4 1
+select 978-0-246-95986-7
+modify -author="DonaldIngram" -keyword="foundling" -price=481.86
+show -author="CrystalWalton"
+logout
+register kiZ zbeJMQiUgf6Pc ShaneLee
+register uTAKQ5vU bnUx3OsuG AngelaSmith
+su kiZ zbeJMQiUgf6Pc
+logout
+su qOVY8Bl8mfnuagpNoZhhDH8 hWGW8QX7FiKmAGGq
+buy 978-1-85099-059-8 1
+show -keyword="foundling"
+logout
+su kiZ zbeJMQiUgf6Pc
+logout
+su gOfvGpgdCC gpgToLWW
+select 978-1-383-15414-6
+modify -author="CrystalWalton" -keyword="FPC" -price=414.34
+logout
+su root sjtu
+select 978-1-7371496-2-0
+modify -name="counterclockwise" -author="AlexHorton" -keyword="Louisiana|Haberman" -price=14.94
+useradd iCItEdQDunvFzxplH PZMnJLyfCElcpBpWur8pPR3P0bsIu 1 RichardChambers
+useradd U7SjOpc4GA yAq_bW7s2Zr8 3 ManuelMorton
+delete Z6A3zsV6v0KHEfY
+logout
+su Cx6t 2zHBjSRDw
+select 978-0-7491-3056-5
+modify -name="wastrel" -keyword="botulin|Louisiana|Haberman"
+show -keyword="foundling"
+logout
+register u0S7X0kLSpSBlYT_KgFaD4lEmK1 wPjOzXE MichelleMartin
+su kxM_TwqI5AxA1mDBFapB P
+show -name="dimple"
+select 978-1-891666-71-1
+modify -name="sulfur" -author="HeatherEvans" -keyword="Louisiana|factual"
+show -keyword="dialysis"
+show -keyword="Louisiana"
+select 978-0-87425-573-7
+modify -name="anthropogenic" -author="BrandonBrown" -keyword="Beaujolais|factual|Haberman|Siamese" -price=0.40
+buy 978-1-83093-783-4 1
+logout
+register qCJ7Ji_e7KVag7qdfA YaZRl MarissaMartin
+su root sjtu
+logout
+select 978-1-218-91208-8
+modify -name="winkle" -author="RachelKey" -keyword="antique|Beaujolais" -price=82.38
+su U7SjOpc4GA yAq_bW7s2Zr8
+select 978-0-440-52054-2
+import 1 329.56
+select 978-0-443-03854-9
+modify -name="lure" -author="MelissaKennedy" -keyword="foundling" -price=141.92
+logout
+su 5ooMg8gmAAatl0OAv7 cDOMbVTERdh2qQEx0NUP52LR
+select 978-0-440-52054-2
+modify -name="denial" -price=408.67
+buy 978-0-7491-3056-5 1
+buy 978-0-87425-573-7 1
+select 978-0-09-666517-8
+modify -name="dutiable" -author="DonaldIngram" -keyword="foundling" -price=461.03
+logout
+su uTAKQ5vU bnUx3OsuG
+select 978-1-85099-059-8
+modify -name="baccalaureate" -author="GeorgeRandolph"
+passwd uTAKQ5vU bnUx3OsuG lePGoIEca_9cUen5
+show -ISBN=978-0-09-666517-8
+select 978-0-246-51656-5
+modify -name="evacuate" -author="RachelKey" -keyword="foundling|antique" -price=14.23
+passwd gOfvGpgdCC gpgToLWW o39Dj5J4P
+show -name="phonograph"
+buy 978-0-09-666517-8 1
+passwd fQSmJFEZf AVRZte qUYdajcz1qmtENA6e
+show -name="lure"
+select 978-0-557-84074-8
+modify -name="ambulant" -author="MelissaKennedy" -keyword="FPC|factual|Haberman" -price=353.58
+logout
+su gOfvGpgdCC o39Dj5J4P
+select 978-0-440-52054-2
+import 14 3589.12
+select 978-0-557-84074-8
+modify -name="Verona" -author="JamesTorres" -price=128.68
+select 978-1-76164-425-2
+modify -name="abase" -author="ManuelRichardson" -keyword="factual|botulin|Haberman" -price=439.90
+useradd l4 FYjWHFBTnGURyZVr4bFRJNEaSYF6 1 JackDiaz
+useradd WUVWyEoIP03KKYPtVC0X1_GDmILSVt 9PCfXTZJhkjU3_cavJXIX 1 VanessaGordon
+select 978-1-218-91208-8
+modify -name="peak" -keyword="botulin" -price=171.46
+logout
+select 978-1-4805-2045-5
+modify -name="backtrack" -author="JenniferHardy" -keyword="Siamese|Haberman|Beaujolais" -price=93.07
+register eQ3A1S2boiFnf ccnqyFal1QcIXWOj62_Or7hnhAfi BethSchmidt
+su hNRKidL1KjvTmqS5P7UZdipiYoV0m gHFCoWzmFtdIXp7lZm
+logout
+register teAMqL2XMSxR5PZGzf0r d14i0_Ekt JefferyPatel
+select 978-0-557-84074-8
+modify -name="cure" -author="JenniferCarter" -keyword="FPC|antique|botulin" -price=237.64
+register M_2bdch7E0opWrb2SXY nQ2w7b8ycOV3 MartinWeeks
+register fNbdP9wR2MLQKGudQmLz4Ip 5fYi8ZY8S8JZMo14A TaylorLane
+su M1f2aP7kG L8aHJClDsL1xElHdPl2SeaZenV
+logout
+select 978-1-83093-783-4
+modify -name="loquacious" -price=208.02
+select 978-1-5109-1276-2
+modify -name="maidservant" -author="JanetFord" -keyword="botulin|factual|Haberman" -price=319.08
+select 978-1-79984-815-8
+modify -price=111.08
+su BPNuL2Jubyu 6eAQm8d1
+buy 978-1-85099-059-8 1
+select 978-0-273-31093-8
+modify -name="Erasmus" -author="JenniferHardy" -keyword="foundling|Haberman" -price=127.74
+select 978-1-02-443204-6
+modify -name="FCC" -author="GeorgeRandolph" -keyword="foundling" -price=95.00
+select 978-0-458-73985-1
+modify -name="Diana" -author="HeatherEvans" -keyword="botulin|Beaujolais" -price=176.66
+show -keyword="Haberman"
+select 978-1-874616-50-4
+modify -name="secretariat" -author="CarrieHarris" -keyword="dialysis|Siamese|botulin|Beaujolais|Haberman"
+buy 978-1-79984-815-8 1
+select 978-0-404-87318-9
+modify -name="Ayers" -author="BrandyBell" -keyword="Louisiana|foundling|Siamese" -price=8.98
+passwd BPNuL2Jubyu 6eAQm8d1 vRQbsBaw3CY5E5PxD_N_
+passwd BPNuL2Jubyu vRQbsBaw3CY5E5PxD_N_ b
+buy 978-0-557-84074-8 1
+buy 978-0-7491-3056-5 1
+logout
+register wEi_lEZy8kC93rJPvknzuU6ajvAIOu TDxIioXA9VgrgQm8GV5pqnjCz7 RebekahRojas
+su Cx6t 2zHBjSRDw
+show -name="baccalaureate"
+passwd u0S7X0kLSpSBlYT_KgFaD4lEmK1 3WC4CGA_x07ZHGgtol qgQvaOG1egTqVF
+buy 978-0-440-52054-2 1
+passwd Cx6t 2zHBjSRDw vucP
+logout
+su F c
+buy 978-1-85099-059-8 1
+select 978-0-458-73985-1
+modify -name="transitory" -author="GeorgeRandolph" -price=342.18
+buy 978-0-404-87318-9 1
+logout
+select 978-0-302-57547-5
+modify -name="pompey" -author="EricJones" -keyword="foundling|botulin|dialysis" -price=324.21
+select 978-1-295-34419-2
+modify -name="garble" -author="KelliShea" -keyword="Haberman|dialysis|antique" -price=216.30
+su vE0iDoWcMu dE86J3sMlSoM8VoABvsNh_wyv104Xw
+select 978-1-85099-059-8
+modify -name="cabal" -keyword="dialysis|factual|FPC|Haberman|antique" -price=114.48
+useradd Kr8uGhIvsCA1NFQqx_9S973PfxeL 22licN6qRlLlQTuDuJOyK 1 AudreyLee
+useradd cm4yXQO6oxjFq VyN_z7FWu26jVvoVKzckE 1 AshleyMartinez
+useradd pFO7lJq6eE3JxM9edJ8OROnrHae6 IZFahqPZD 1 WilliamWest
+useradd TlUDAnUufFhj5gIA5r92IZCEmP8JC CZg440HiGbiE_Vg 1 JaniceHolt
+select 978-1-336-39277-9
+modify -name="vitreous" -author="ChristopherVelasquez" -keyword="foundling|dialysis|factual|antique|Beaujolais" -price=207.53
+useradd ODe1c Uxg6fb 1 RichardGoodman
+useradd 85 oVhGWG0a_RazrLDRoDNvn 1 JasonHill
+useradd oXy lyPTyMKvu2xd 1 CassandraSmith
+select 978-0-440-52054-2
+modify -price=251.62
+select 978-0-273-31093-8
+modify -name="pushover" -price=149.81
+logout
+select 978-0-89343-524-0
+modify -name="Harrisburg" -author="JamesTorres" -keyword="factual|Haberman|FPC|dialysis" -price=251.67
+select 978-0-273-31093-8
+modify -name="Gerry" -keyword="Siamese|foundling"
+su 5ooMg8gmAAatl0OAv7 cDOMbVTERdh2qQEx0NUP52LR
+buy 978-0-440-52054-2 1
+logout
+su M1f2aP7kG L8aHJClDsL1xElHdPl2SeaZenV
+select 978-1-04-118023-4
+modify -name="smart" -author="CliffordThornton" -keyword="FPC|foundling" -price=269.78
+useradd dCmj b 1 RobertOlson
+useradd 079XHncLBfhD8EhYVMz_i9vjf SrjA7d9MT7WUcKepMyWMf 1 BarbaraFerguson
+useradd IkQ9Mri8T Z63vPL5uPu2 1 MarkClark
+import 7 296.55
+logout
+su hNRKidL1KjvTmqS5P7UZdipiYoV0m gHFCoWzmFtdIXp7lZm
+select 978-1-336-39277-9
+modify -name="carbine" -author="GeorgeRandolph" -keyword="FPC|antique|Louisiana"
+select 978-0-7928-0106-1
+modify -name="Bellini" -author="JenniferHardy" -keyword="dialysis|factual" -price=449.03
+passwd hNRKidL1KjvTmqS5P7UZdipiYoV0m gHFCoWzmFtdIXp7lZm mToMOO
+logout
+select 978-1-907345-62-3
+modify -name="trance" -author="ScottFlores" -keyword="Siamese|factual|Haberman|FPC" -price=422.94
+su fQSmJFEZf tdvPnmI
+show -keyword="Louisiana"
+buy 978-1-85099-059-8 1
+buy 978-1-218-91208-8 1
+select 978-1-7371496-2-0
+modify -name="inroad"
+logout
+select 978-0-7491-3056-5
+modify -name="comfort"
+su TlUDAnUufFhj5gIA5r92IZCEmP8JC CZg440HiGbiE_Vg
+buy 978-0-285-07051-6 1
+logout
+su iCItEdQDunvFzxplH PZMnJLyfCElcpBpWur8pPR3P0bsIu
+select 978-1-79984-815-8
+modify -name="cacophony" -author="JenniferHardy" -price=72.21
+buy 978-1-874616-50-4 1
+show -keyword="Haberman"
+select 978-1-288-25994-6
+modify -name="they'll" -author="RobertBrown" -keyword="Siamese|FPC|antique|Louisiana" -price=404.89
+show -name="wastrel"
+select 978-1-383-15414-6
+modify -name="songbag" -author="GeorgeRandolph" -keyword="antique|Louisiana"
+show -name="profusion"
+select 978-0-404-87318-9
+modify -price=17.23
+buy 978-0-273-31093-8 1
+show -author="MelissaKennedy"
+buy 978-1-02-443204-6 1
+buy 978-0-7491-3056-5 1
+show -keyword="Louisiana"
+passwd iCItEdQDunvFzxplH PZMnJLyfCElcpBpWur8pPR3P0bsIu 6jBZWWCb05U4lY250I
+select 978-1-5099-9508-0
+modify -name="desire" -author="JamesTorres" -keyword="Haberman|Louisiana|antique" -price=210.51
+show -author="GeorgeRandolph"
+show -keyword="foundling"
+show -author="JenniferHardy"
+select 978-0-443-03854-9
+modify -name="drawstring" -price=137.17
+buy 978-1-336-39277-9 1
+logout
+select 978-1-79984-815-8
+modify -name="Tahiti" -author="JamesTorres" -keyword="Haberman|antique|dialysis|Siamese"
+register BlIg1Cy_v7AfaU_WG0hNaDZ2 wzbuO TheresaLamb
+register DBQxXKlgrxZnOzvc_4NlyG 2mpy6rQhSWYM52UB6jIj9 CalvinJames
+register NNczaS ZN2m6Anp02Gh0O6Zg3 DustinBarnett
+register dqbupb mEA_1eXheSavxjwlVuz CraigCampbell
+select 978-0-443-03854-9
+modify -name="earthy" -author="JanetFord" -price=84.38
+register MnnDfXClzx 3OKMquP2MhaD1sIwO0f40lJK KatelynEspinoza
+su iCItEdQDunvFzxplH 6jBZWWCb05U4lY250I
+select 978-1-874616-50-4
+modify -author="RobertBrown" -keyword="botulin|Haberman|dialysis|Beaujolais|Louisiana" -price=266.18
+select 978-0-88458-424-7
+modify -name="crinoid" -author="KennethCervantes" -keyword="antique|Haberman" -price=484.06
+select 978-0-273-31093-8
+modify -name="Curtis" -author="MarieAndersen" -keyword="Louisiana|botulin" -price=387.87
+buy 978-0-246-51656-5 1
+logout
+su U7SjOpc4GA yAq_bW7s2Zr8
+select 978-0-7491-3056-5
+import 13 489.16
+select 978-1-891666-71-1
+modify -author="GeorgeRandolph" -price=99.45
+import 17 28.37
+useradd T35U0B7Kwv96WaJWafOkUSJOQ_T lE1IaIzpGK 1 JohnHoward
+useradd II47bSCeThUfjLU5p58Hwm_V XwW7yI_KKfnvm4 1 KeithLeblanc
+import 14 645.74
+useradd tpwUqEdiFbnduh6NsL1dRhZxz9y 7JcPrCYE 1 AnthonyBeasley
+logout
+su qOVY8Bl8mfnuagpNoZhhDH8 hWGW8QX7FiKmAGGq
+select 978-0-440-52054-2
+modify -author="CliffordThornton" -keyword="dialysis|Siamese" -price=87.56
+show -ISBN=978-1-383-15414-6
+show -keyword="foundling"
+logout
+su tpwUqEdiFbnduh6NsL1dRhZxz9y 7JcPrCYE
+show -author="MelissaKennedy"
+select 978-1-4472-7478-0
+modify -name="manioc" -author="ScottHouse" -keyword="Louisiana|Haberman|Beaujolais" -price=385.83
+buy 978-1-891666-71-1 1
+buy 978-1-02-443204-6 1
+select 978-0-333-83150-2
+modify -name="bin" -author="AngelYang" -keyword="foundling|factual|botulin|dialysis|Louisiana" -price=391.40
+select 978-0-7491-3056-5
+modify -name="Semitic" -author="AlexHorton" -keyword="Louisiana|botulin" -price=310.62
+show -name="Verona"
+buy 978-0-557-84074-8 1
+select 978-0-87425-573-7
+modify -name="ingenuous" -keyword="FPC|antique|Siamese|botulin|foundling" -price=205.64
+select 978-1-949985-49-8
+modify -name="methanol" -author="AmberKemp" -keyword="antique|Haberman|FPC" -price=399.34
+buy 978-0-333-83150-2 1
+buy 978-0-7491-3056-5 1
+buy 978-1-04-118023-4 1
+select 978-1-80284-579-2
+modify -name="haplology" -author="CarrieHarris" -keyword="Siamese" -price=191.21
+select 978-0-485-93690-2
+modify -name="ring" -author="JenniferCarter" -keyword="Siamese|factual|dialysis" -price=262.47
+passwd WUVWyEoIP03KKYPtVC0X1_GDmILSVt 20R0 qD1LNizRcf4KyYPbO807qgg8KNOir
+select 978-1-336-39277-9
+modify -author="MelissaKennedy" -price=189.33
+select 978-0-476-74595-7
+modify -name="conductance" -author="EricJones" -keyword="Beaujolais" -price=218.34
+logout
+select 978-1-76164-425-2
+modify -name="Boylston" -keyword="FPC|Louisiana|Haberman|dialysis" -price=446.13
+su qCJ7Ji_e7KVag7qdfA YaZRl
+show -name="conductance"
+show -ISBN=978-0-557-84074-8
+select 978-1-85099-059-8
+modify -name="safeguard" -price=436.71
+passwd qCJ7Ji_e7KVag7qdfA YaZRl 4WP7Xjd294lZkxV9JQrJ
+show -ISBN=978-1-76164-425-2
+select 978-0-485-93690-2
+modify -name="bouncy" -author="RobertBrown" -keyword="FPC|Haberman" -price=231.07
+logout
+su T35U0B7Kwv96WaJWafOkUSJOQ_T lE1IaIzpGK
+buy 978-1-874616-50-4 1
+select 978-0-285-07051-6
+modify -keyword="botulin" -price=290.64
+passwd T35U0B7Kwv96WaJWafOkUSJOQ_T lE1IaIzpGK iaEyNRd7D
+passwd T35U0B7Kwv96WaJWafOkUSJOQ_T iaEyNRd7D cVX1JjS
+select 978-1-04-118023-4
+modify -name="look" -author="DonaldIngram" -keyword="dialysis|factual|FPC"
+select 978-0-435-06298-9
+modify -name="oaf" -author="MelissaKennedy" -keyword="factual|Louisiana|foundling" -price=3.29
+logout
+select 978-0-246-51656-5
+modify -name="wasn't" -author="CarrieHarris" -price=344.34
+register lMz Mwe3Zj3RAdLgpEq4_k_LUz8zCscl AndrewJones
+select 978-0-89067-872-5
+modify -name="metropolitan" -author="JanetFord" -keyword="Beaujolais|dialysis|factual|foundling" -price=175.40
+su vE0iDoWcMu dE86J3sMlSoM8VoABvsNh_wyv104Xw
+useradd 2896nRXgi8Xw_jw ljIRxIjrurDcIdSV_ 1 NoahCarr
+useradd tYDO3Yv13hiXfk Zg51VU0xxXv0u64 1 LisaHawkins
+useradd bmUMYgv63uXjlHcF 8tXX3Kg2DhxAJeKyi6yxtZROn_O8Z 1 TimothyTurner
+useradd KoI uyX5rIWpp0e 1 MeghanLawson
+select 978-0-485-93690-2
+import 13 2586.59
+logout
+su hNRKidL1KjvTmqS5P7UZdipiYoV0m mToMOO
+show -keyword="botulin"
+passwd l4 7bym345 tO6Pqv1RVeAcb0s
+buy 978-1-5099-9508-0 1
+show -ISBN=978-0-273-31093-8
+select 978-0-246-51656-5
+modify -name="toilsome" -author="RachelKey" -keyword="Haberman|dialysis|Louisiana"
+show -author="DonaldIngram"
+select 978-1-336-39277-9
+modify -author="AngelYang" -price=283.84
+logout
+su pFO7lJq6eE3JxM9edJ8OROnrHae6 IZFahqPZD
+logout
+select 978-1-891666-71-1
+modify -name="salvageable" -author="HeatherEvans" -keyword="foundling|Siamese|Haberman|antique" -price=235.07
+su NNczaS ZN2m6Anp02Gh0O6Zg3
+select 978-0-246-51656-5
+modify -name="pickle" -author="ScottHouse" -keyword="Beaujolais|foundling" -price=151.99
+show -author="AngelYang"
+show -name="ingenuous"
+buy 978-0-7491-3056-5 1
+show -ISBN=978-0-88458-424-7
+select 978-0-7491-3056-5
+modify -name="JACM" -keyword="antique"
+show -keyword="factual"
+show -keyword="botulin"
+select 978-1-972388-15-0
+modify -name="megabit" -author="KennethCervantes" -keyword="Louisiana|foundling|Haberman|Beaujolais|antique" -price=126.99
+buy 978-0-273-31093-8 1
+buy 978-1-79984-815-8 1
+show -keyword="botulin"
+buy 978-0-476-74595-7 1
+logout
+su tYDO3Yv13hiXfk Zg51VU0xxXv0u64
+buy 978-1-83093-783-4 1
+buy 978-1-7371496-2-0 1
+logout
+select 978-1-336-39277-9
+modify -author="DonaldIngram" -price=325.47
+su qCJ7Ji_e7KVag7qdfA 4WP7Xjd294lZkxV9JQrJ
+buy 978-0-87425-573-7 1
+passwd qCJ7Ji_e7KVag7qdfA 4WP7Xjd294lZkxV9JQrJ 5Zix1IwnWhlw
+buy 978-0-7928-0106-1 1
+show -author="KennethCervantes"
+show -name="cacophony"
+buy 978-1-76164-425-2 1
+buy 978-1-5099-9508-0 1
+logout
+su Cx6t vucP
+select 978-0-09-666517-8
+modify -name="carrot" -author="BrandyBell" -price=7.51
+logout
+select 978-0-333-83150-2
+modify -author="ManuelRichardson" -keyword="foundling|factual"
+su tYDO3Yv13hiXfk Zg51VU0xxXv0u64
+logout
+select 978-0-246-95986-7
+modify -name="Kant" -price=83.92
+su cm4yXQO6oxjFq VyN_z7FWu26jVvoVKzckE
+select 978-0-7899-8360-2
+modify -name="inopportune" -author="BrandonBrown" -keyword="botulin|foundling" -price=435.35
+buy 978-0-87425-573-7 1
+logout
+su pFO7lJq6eE3JxM9edJ8OROnrHae6 IZFahqPZD
+show -ISBN=978-0-435-06298-9
+buy 978-0-285-07051-6 1
+show -ISBN=978-0-246-51656-5
+select 978-1-4472-7478-0
+modify -name="harbinger" -price=292.52
+logout
+select 978-0-435-06298-9
+modify -author="CrystalWalton" -price=26.41
+select 978-1-972388-15-0
+modify -name="bearish" -keyword="botulin"
+su MnnDfXClzx 3OKMquP2MhaD1sIwO0f40lJK
+buy 978-0-404-87318-9 1
+show -keyword="foundling"
+buy 978-0-443-03854-9 1
+show -name="harbinger"
+select 978-1-336-39277-9
+modify -keyword="Haberman|botulin|foundling|Beaujolais"
+buy 978-0-443-03854-9 1
+buy 978-1-83093-783-4 1
+select 978-0-638-38050-7
+modify -name="scout" -author="AngelYang" -keyword="FPC|Louisiana" -price=410.77
+passwd MnnDfXClzx 3OKMquP2MhaD1sIwO0f40lJK 8Z_QpYue50uB_e
+buy 978-1-83093-783-4 1
+buy 978-1-4472-7478-0 1
+select 978-1-891666-71-1
+modify -name="somebody" -keyword="Beaujolais|Siamese|foundling|Haberman"
+select 978-1-79182-123-4
+modify -name="edit" -author="RichardTurner" -keyword="Louisiana|botulin|Beaujolais|Haberman" -price=95.60
+show -keyword="Haberman"
+select 978-1-233-82261-4
+modify -name="perfume" -author="CandiceCohen" -keyword="factual|antique" -price=467.24
+buy 978-0-435-06298-9 1
+passwd MnnDfXClzx 8Z_QpYue50uB_e iDGzKzm1LIN1QiV8XeesBuVlTn
+logout
+select 978-0-476-74595-7
+modify -author="MelissaKennedy" -price=62.95
+select 978-1-4472-7478-0
+modify -name="Pensacola" -keyword="Louisiana" -price=73.99
+su M_2bdch7E0opWrb2SXY nQ2w7b8ycOV3
+logout
+su U7SjOpc4GA yAq_bW7s2Zr8
+useradd pFhFLY5FIlnE gQWor0Z_JvNToPfRAqTiyVB0 1 SylviaKennedy
+select 978-1-79182-123-4
+import 15 1363.60
+logout
+su BPNuL2Jubyu b
+select 978-0-231-57718-2
+modify -name="scrutiny" -author="KelliShea" -keyword="FPC|Haberman" -price=426.27
+logout
+register OsPLSCGzgbXG AKjvLh8LKIdr_j71DJvhv KirkHerrera
+su NNczaS ZN2m6Anp02Gh0O6Zg3
+select 978-1-4107-2979-8
+modify -name="excrete" -author="BrandonBrown" -keyword="Louisiana|botulin" -price=116.77
+show -keyword="foundling"
+buy 978-1-4472-7478-0 1
+buy 978-1-972388-15-0 1
+logout
+su wEi_lEZy8kC93rJPvknzuU6ajvAIOu TDxIioXA9VgrgQm8GV5pqnjCz7
