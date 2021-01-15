@@ -194,12 +194,12 @@ show
 // Output: ISBN1 name1 author1 keyword1 10.00 0
 su rbq
 select ISBN1
-modify -isbn=ISBN2
+modify -ISBN=ISBN2
 show
 //Output: ISBN2 name1 author1 keyword1 10.00 0
 su root sjtu
 select ISBN2
-modify -isbn=ISBN3
+modify -ISBN=ISBN3
 show
 //Output: ISBN3 name1 author1 keyword1 10.00 0
 logout
@@ -209,7 +209,7 @@ show
 logout
 show
 //Output: ISBN3 name1 author1 keyword1 20.00 0
-modify -isbn=ISBN4
+modify -ISBN=ISBN4
 show
 //Output: ISBN4 name1 author1 keyword1 10.00 0
 logout
