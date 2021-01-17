@@ -73,7 +73,7 @@ Invalid
 ```sh
 su [user-id] [passwd] #0:登录到某用户，从高权限用户登录到低权限不需填写密码
 logout #1:返回到未登录状态
-useradd [user-id] [passwd] [7/3/1] [name] #3:增加一个指定权限的用户，不能创建不小于自己权限的账户
+useradd [user-id] [passwd] [7/3/1] [name] #3:增加一个指定权限的用户，只能创建小于自己权限的账户
 register [user-id] [passwd] [name] #0:注册一个带有这些信息的权限1用户
 delete [user-id] #7:删除某用户
 passwd [user-id] [old-passwd(if not root)] [new-passwd] #1:root不需要填写旧密码，其余账户需要
