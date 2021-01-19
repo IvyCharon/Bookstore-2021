@@ -1,0 +1,9 @@
+su root sjtu
+modify -name="name1" -author="author1" -keyword="keyword1|1|1" -price=10.00
+modify -name="name1" -author="author1" -keyword="keyword1|1|2" -price=10.00
+select 1
+modify -name="name1" -author="author1" -keyword="keyword1|1|1" -price=10.00
+modify -name="name1" -author="author1" -keyword="keyword1|1|2" -price=10.00
+show
+exit
+
