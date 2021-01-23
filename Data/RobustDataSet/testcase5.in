@@ -1,8 +1,0 @@
-su root sjtu
-select 1
-modify -name="!@#$%^&*()_{}:><?" -author="67tyffuyitdfjgldhgcnbjk54wr7iln%*><P}" -keyword="~~!$Y^I<>{?KTDE%()_{+}>|\\" -price=10.00
-show
-show -author="67tyffuyitdfjgldhgcnbjk54wr7iln%*><P}"
-show -keyword="\\"
-exit
-
