@@ -1,0 +1,716 @@
+su root 2
+logout
+su DW6WZ3tSQfDTRFB_zeCxEbBVT6ZE H8GdrWdT
+buy 978-0-8364-6004-9 1
+su keJnNuGymoZD6WK2RDKqNw2kc9xtp 0nmpTZVEs
+show -name="pig"
+buy 978-1-326-79001-1 1
+su Y4o fdXJifRT_boS1T92rrR2oIip7
+buy 978-0-459-18435-3 1
+show -name="Hellespont"
+logout
+buy 978-0-538-37854-3 1
+show -ISBN=978-1-138-99022-7
+logout
+logout
+su KU60gowOGF ejHcNUs873ZatkYOXt5WaB
+passwd KU60gowOGF ejHcNUs873ZatkYOXt5WaB WJ7q44E8ssZd4JywgaxI2U4
+su FOvA mVtZehKkTAygKYgRKAY83MURxwP
+buy 978-0-7397-9686-3 1
+show -author="TylerGonzalez"
+logout
+logout
+su _oBYbI6Dz0 dCTlR8c8gsNiZREl7Ex
+show -ISBN=978-1-397-71332-2
+buy 978-1-66741-421-8 1
+buy 978-1-912045-27-3 1
+su nnjcKDyxM70AiN2zVNagBSCRW 5iWk_BvECrtjHwJ9PTwM_BnhzNV
+buy 978-0-539-28597-0 1
+show -author="JaneDuke"
+buy 978-1-326-79001-1 1
+logout
+passwd _oBYbI6Dz0 dCTlR8c8gsNiZREl7Ex NZfpCLWpI
+buy 978-0-633-49799-6 1
+logout
+su xU9eqW9 eu2p0CMyP6HekS88Py0ySFO8
+su JTWdQykGeMcoI KUmTS1A_INdQq2da_e
+su XFAsA3h2kMxoeXhYu24 lkydx34Y2OBX
+logout
+su zMInWpRNFdhZtuAC46YfhSvddCk 7rrr6Zktpf57Zd8IT3
+passwd zMInWpRNFdhZtuAC46YfhSvddCk 7rrr6Zktpf57Zd8IT3 lIhY7cpeb1UamNpbjse
+show -author="JamesKeith"
+buy 978-0-622-05882-5 1
+buy 978-1-78989-906-1 1
+su yhUx5tUwt7M3h8Mcg28 tSH3SqJQxFXtu
+logout
+buy 978-0-538-37854-3 1
+show -name="computation"
+passwd zMInWpRNFdhZtuAC46YfhSvddCk lIhY7cpeb1UamNpbjse SDCaNbEsurKodl2E73luMDR7O
+logout
+show -ISBN=978-1-928520-31-3
+su 5DMG4nl3XMDi GrPbdt9vOjIBAG
+buy 978-0-622-05882-5 1
+su f8Oj8Y0BlZii4xVRIOMTtcH84raq RIm3aJJQXL
+show -ISBN=978-0-08-077351-3
+logout
+su EVdtWnR5mgmIHqQYP1UnDykzzq_ kkE78tcT3GuY35Lj25eV
+buy 978-0-7836-5800-1 1
+su 3fltvM7xPQk5TeN0iufs kKmn
+buy 978-0-332-86951-3 1
+show -keyword="bevy"
+passwd 3fltvM7xPQk5TeN0iufs kKmn KKeicvrMI7MZH2JdQ9CexEJWnc
+passwd nGrlPPa1i6AcaXthBUHtRpAriz5Nl jxm4yDbzL9A6WLlkhyQfb7r uw7PfDvjl9xFz9xoLENcpIdIwEHN1
+buy 978-1-397-71332-2 1
+buy 978-0-633-49799-6 1
+buy 978-0-332-86951-3 1
+logout
+buy 978-1-355-71155-1 1
+logout
+su G_4_gPrlGH6HRnYoPbk6bHwC ylytX
+su UrS1vPPhBBHuBEEhlovF4 tav6
+buy 978-1-7372650-8-5 1
+buy 978-0-332-86951-3 1
+show -ISBN=978-0-03-806690-2
+logout
+su pVqm y0pD7mVlqoCVm84L20GLdF1F84i
+show finance
+su BsXhv3iXEna2auD_DP45ZNTGKE nSsDViPuvdulCSZenMPFYU
+logout
+select 978-0-401-02756-1
+modify -name="beseech" -author="TamaraHarris" -price=137.12
+su p0nNnjsdXmp7meXGG4AnNh9Aau iJOYoCk0crQdQmA
+buy 978-0-622-05882-5 1
+su RgBC5 0dldOa87ya
+su qnU4 MStii
+show -keyword="Hershel"
+show -author="MelissaBrown"
+su 5DMG4nl3XMDi GrPbdt9vOjIBAG
+buy 978-0-459-18435-3 1
+logout
+show -keyword="wealth"
+passwd qnU4 MStii 9xvtn3NNu4IIkwwZ67cGrH
+buy 978-0-539-28597-0 1
+buy 978-1-397-71332-2 1
+buy 978-1-326-79001-1 1
+su KikFhyW1xpsODpFHpnM5 Y
+passwd KikFhyW1xpsODpFHpnM5 Y U
+buy 978-1-7372650-8-5 1
+buy 978-0-459-18435-3 1
+show -keyword="newborn"
+passwd 8dAHvTKUVfhhxd59e6tVJzXyndN KDNPd8jmDxqqc2mv Ehq4Y_QAtXnVdvM8rvu2Wp
+logout
+su D2v9J8_Rr7UnunIbDCiN v6X55fHCVdw3Mki7E7OXJN
+show -ISBN=978-0-633-49799-6
+show -keyword="consortium"
+show -ISBN=978-1-138-99022-7
+buy 978-0-395-09584-3 1
+logout
+su gwUjc VJkpgHz5XxzE1k
+buy 978-1-326-79001-1 1
+buy 978-1-397-71332-2 1
+buy 978-1-372-89505-0 14
+show -keyword="newborn"
+buy 978-0-395-09584-3 1
+show -author="SandraSutton"
+buy 978-0-7865-1765-7 1
+buy 978-1-355-71155-1 1
+logout
+buy 978-1-7372650-8-5 1
+su pVqm y0pD7mVlqoCVm84L20GLdF1F84i
+select 978-1-397-71332-2
+import 17 2374.37
+modify -name="Velasquez" -author="DanielleRoss" -keyword="banal" -price=149.08
+import 13 2093.16
+import 56 95.25
+show finance
+logout
+logout
+show -ISBN=978-0-459-18435-3
+buy 978-1-67793-253-5 1
+passwd BsXhv3iXEna2auD_DP45ZNTGKE nSsDViPuvdulCSZenMPFYU hXlKRRFqdB1_OxwA11YdS189Uj
+buy 978-0-539-28597-0 1
+logout
+buy 978-1-891774-75-1 1
+buy 978-0-08-077351-3 1
+logout
+modify -name="McDermott" -keyword="enthalpy|wealth"
+select 978-1-912045-27-3
+modify -keyword="admonition|wealth|banal|clarity" -price=375.39
+modify -name="semblance" -author="DanielleRoss" -price=321.56
+su yinr5UMPIuwHR4LzwtUahmF9EyYY Xo
+buy 978-0-395-09584-3 1
+buy 978-0-08-077351-3 1
+buy 978-0-08-077351-3 1
+su QZbJP4IATL9LfT sB7mlOtVaSH9UbNbDS2tX045PK9F1
+buy 978-1-138-99022-7 1
+show -keyword="hansom"
+su nnjcKDyxM70AiN2zVNagBSCRW 5iWk_BvECrtjHwJ9PTwM_BnhzNV
+su IsVy Emw5T9hq2fvsYfZR
+buy 978-1-912045-27-3 1
+logout
+logout
+show -ISBN=978-0-7397-9686-3
+su zMInWpRNFdhZtuAC46YfhSvddCk SDCaNbEsurKodl2E73luMDR7O
+logout
+buy 978-1-397-71332-2 93
+su _07Ifc1eOTFdySSkfsXqgytxvWBoF QDfqOcGHmR3wRpOhC4blhAsoQ
+su CoJNMhSqpebXc8NnIl FM
+buy 978-1-372-89505-0 1
+logout
+su CoJNMhSqpebXc8NnIl FM
+logout
+logout
+passwd QZbJP4IATL9LfT sB7mlOtVaSH9UbNbDS2tX045PK9F1 D
+show -ISBN=978-0-7865-1765-7
+logout
+buy 978-0-02-325637-0 1
+passwd KU60gowOGF WJ7q44E8ssZd4JywgaxI2U4 2Gppi16aRiQd8vD2
+buy 978-1-67793-253-5 1
+su UKgzSMOwZTkwW1MOaC LzyYx66mbuiwEMMj
+buy 978-1-372-89505-0 9
+passwd UKgzSMOwZTkwW1MOaC LzyYx66mbuiwEMMj W5GTGJ78XowIRvRw15zuAWecWQLs
+su p0nNnjsdXmp7meXGG4AnNh9Aau iJOYoCk0crQdQmA
+show -name="bugaboo"
+logout
+buy 978-0-622-05882-5 1
+logout
+show -name="statute"
+logout
+show finance
+select 978-1-85524-909-7
+modify -name="Wang" -author="TiffanySimmons" -keyword="Hershel|annulus|clarity" -price=145.67
+su gHGnSWSn6V0WTOUPcV5vHWXctLNCWs y6pYZ5AXC6z42yuj_FaY5H7it5
+buy 978-1-912045-27-3 1
+passwd gHGnSWSn6V0WTOUPcV5vHWXctLNCWs y6pYZ5AXC6z42yuj_FaY5H7it5 OM3ezYCaHWWK3lCWjfIt
+passwd gHGnSWSn6V0WTOUPcV5vHWXctLNCWs OM3ezYCaHWWK3lCWjfIt QCL6yYmy1iLxX_TkV
+su h5LglwR5960G QrOCJClv9Aw3
+buy 978-0-395-09584-3 1
+logout
+show -ISBN=978-1-85524-909-7
+buy 978-0-538-37854-3 1
+buy 978-1-967758-81-4 1
+buy 978-1-928520-31-3 1
+logout
+import 19 468.38
+modify -name="slosh" -author="PatrickParker" -keyword="annulus|homologue" -price=332.73
+modify -price=192.04
+su g52XfzHmiycTSoc0ZzLph38j0zEQ R8rDQWCY
+buy 978-1-169-09778-0 1
+buy 978-1-66741-421-8 1
+su IdtJ0pXKBm3TdDoEJPn 8PAEM6x4Q
+logout
+su G_qd5FmuGWu_DY0IQXn8BI3h xZsRrE6znpuoBi
+show -author="MatthewSolomon"
+show -author="JaneDuke"
+su 3fltvM7xPQk5TeN0iufs KKeicvrMI7MZH2JdQ9CexEJWnc
+passwd UN8sf6SvfljHi5M ijPU_62QSY943aR_5JiGwPL3q CpnhTe5YAX_WqGL
+buy 978-0-7836-5800-1 1
+su ya4wto8yKHCVzhqiHwpxVZdcjMJrW dsSVBSAdBr
+logout
+su b OYARfSe3Bj
+show -keyword="Britain"
+show -author="ChristianTodd"
+buy 978-1-335-79460-4 1
+logout
+show -keyword="banal"
+buy 978-1-7372650-8-5 1
+buy 978-0-332-86951-3 1
+buy 978-0-02-325637-0 1
+su KikFhyW1xpsODpFHpnM5 U
+passwd KikFhyW1xpsODpFHpnM5 U QKy
+buy 978-1-138-99022-7 1
+show -keyword="newborn"
+buy 978-1-78989-906-1 1
+buy 978-1-397-71332-2 78
+show -keyword="clarity"
+passwd KikFhyW1xpsODpFHpnM5 QKy Ie
+buy 978-0-622-05882-5 1
+buy 978-0-395-09584-3 1
+passwd KikFhyW1xpsODpFHpnM5 Ie oOt
+show -ISBN=978-1-66741-421-8
+show -ISBN=978-0-395-09584-3
+buy 978-0-332-86951-3 1
+buy 978-1-912045-27-3 1
+show -author="JamesKeith"
+show -ISBN=978-0-08-077351-3
+buy 978-1-912045-27-3 1
+buy 978-0-8364-6004-9 1
+buy 978-0-622-05882-5 1
+buy 978-0-03-806690-2 1
+buy 978-0-459-18435-3 1
+logout
+logout
+buy 978-0-02-325637-0 1
+su Et9ChNGBN loL1KpT96zdGTMf
+show -ISBN=978-1-928520-31-3
+buy 978-0-539-28597-0 1
+passwd Y4o jo0ARaNeFF8iotDH1g19oQxAfKD4 bbjgAY2sxUPI4yOu8MFivZ
+logout
+show -ISBN=978-1-326-79001-1
+buy 978-1-397-71332-2 6
+show -author="PatrickParker"
+buy 978-1-85524-909-7 1
+passwd G_qd5FmuGWu_DY0IQXn8BI3h xZsRrE6znpuoBi apAFGaIvyc1DZKx1mr2IZ1rQB
+show -name="Penelope"
+buy 978-1-138-99022-7 1
+logout
+su 4PFpuYXrQLbuo M7X6
+buy 978-1-326-79001-1 1
+show -name="incurring"
+su b OYARfSe3Bj
+buy 978-1-67793-253-5 1
+show -keyword="bevy"
+su f8Oj8Y0BlZii4xVRIOMTtcH84raq RIm3aJJQXL
+show -ISBN=978-0-7865-1765-7
+logout
+buy 978-1-397-71332-2 1
+buy 978-0-7397-9686-3 1
+logout
+buy 978-0-459-18435-3 1
+show -name="bugaboo"
+buy 978-0-401-02756-1 1
+show -author="StevenJohnson"
+passwd 4PFpuYXrQLbuo M7X6 h7dTRGDrHnO3SKytJKcxXf57xf7LGO
+logout
+show -keyword="banal"
+logout
+su G_4_gPrlGH6HRnYoPbk6bHwC ylytX
+su RcfUqruFw2Gzvwm6Pb693z j_eIxtLHvcSk7Z409hl5voG
+logout
+logout
+modify -name="maelstrom" -author="JessicaFoster" -keyword="grew" -price=483.92
+select 978-0-562-48357-2
+modify -name="yah" -author="SandraSutton" -keyword="grew|switch" -price=30.20
+select 978-1-891774-75-1
+import 4 257.65
+import 15 1392.18
+select 978-0-208-87564-8
+modify -name="glory" -author="ConnorMedina" -keyword="Britain|banal" -price=34.36
+modify -name="compassionate" -author="StevenJohnson" -keyword="admonition|bevy" -price=58.22
+logout
+show -keyword="hansom"
+buy 978-1-67793-253-5 1
+buy 978-0-459-18435-3 1
+buy 978-0-7397-9686-3 1
+buy 978-1-7372650-8-5 1
+show -name="drunken"
+su EVdtWnR5mgmIHqQYP1UnDykzzq_ kkE78tcT3GuY35Lj25eV
+buy 978-1-912045-27-3 1
+buy 978-0-02-325637-0 1
+logout
+logout
+logout
+buy 978-0-7865-1765-7 1
+show -name="incurring"
+logout
+buy 978-0-8364-6004-9 1
+buy 978-1-335-79460-4 1
+passwd vBARkr2GQlTNqnSl2SUgKwvKYO VTkyvGREE 01aCwTE
+buy 978-0-459-18435-3 1
+su Ihgmq15Kr_LhrEBfJlPpn2F4mhS iPwCVPevOBjHIdcw2wn35O26tf1
+logout
+su wCAtMS4uwWZo4ZGClrWSLUr8Quchv ID52RLGJR0weDfY9jPUnIUYoToaWN
+buy 978-0-401-02756-1 1
+buy 978-0-401-02756-1 1
+buy 978-0-401-02756-1 1
+buy 978-1-85524-909-7 17
+show -name="finger"
+su BsXhv3iXEna2auD_DP45ZNTGKE hXlKRRFqdB1_OxwA11YdS189Uj
+buy 978-1-7372650-8-5 1
+logout
+show -name="Penelope"
+logout
+buy 978-1-169-09778-0 1
+show -name="incurring"
+su aiy5_l fnI204BChF4bUmFaKziQ
+buy 978-0-459-18435-3 1
+buy 978-1-85524-909-7 2
+logout
+buy 978-0-539-28597-0 1
+su IsVy Emw5T9hq2fvsYfZR
+buy 978-0-459-18435-3 1
+buy 978-0-622-05882-5 1
+show -ISBN=978-1-169-09778-0
+show -author="AdamCastro"
+buy 978-1-355-71155-1 1
+logout
+buy 978-0-622-05882-5 1
+buy 978-1-891774-75-1 6
+passwd xU9eqW9 eu2p0CMyP6HekS88Py0ySFO8 bzEy7nWrWlY4IT
+su KikFhyW1xpsODpFHpnM5 oOt
+logout
+su QZbJP4IATL9LfT D
+buy 978-1-891774-75-1 7
+su KQQeNJcqzMRbRPyh2jc5wg EY_AjpNTCWN1TlkG36ERljfH_HPp
+passwd BsXhv3iXEna2auD_DP45ZNTGKE k87V0iZvlNCi BCpMY7WrvN
+show -author="BryceDavis"
+buy 978-0-08-077351-3 1
+show -keyword="bevy"
+su KMaZ2pnLR3cEQSWKyI t8V
+su BsXhv3iXEna2auD_DP45ZNTGKE hXlKRRFqdB1_OxwA11YdS189Uj
+buy 978-0-459-18435-3 1
+buy 978-1-967758-81-4 1
+su Ihgmq15Kr_LhrEBfJlPpn2F4mhS iPwCVPevOBjHIdcw2wn35O26tf1
+passwd Ihgmq15Kr_LhrEBfJlPpn2F4mhS iPwCVPevOBjHIdcw2wn35O26tf1 YNlGV2_WD9oQ0gz6IGt9Y
+buy 978-0-03-806690-2 1
+su 0jTkV_ XTBFKLX7sU39twTTPmk6nidA
+buy 978-0-7397-9686-3 1
+logout
+su 1VWGN31J0PZ AYVe77rKTGDExEGfTWA9J19
+logout
+buy 978-0-401-02756-1 1
+show -keyword="newborn"
+logout
+show -name="emitted"
+buy 978-0-7836-5800-1 1
+buy 978-1-169-09778-0 1
+buy 978-1-355-71155-1 1
+su BsXhv3iXEna2auD_DP45ZNTGKE hXlKRRFqdB1_OxwA11YdS189Uj
+buy 978-0-538-37854-3 1
+buy 978-0-633-49799-6 1
+su _07Ifc1eOTFdySSkfsXqgytxvWBoF QDfqOcGHmR3wRpOhC4blhAsoQ
+su STpEt8J97A4kCiXYp tIWvLD42COOrmF
+su 34PwJMWwisTp2FzrJpKZoaig wbsx1wOidmGXmi3j
+buy 978-1-355-71155-1 1
+logout
+buy 978-0-02-325637-0 1
+su yhUx5tUwt7M3h8Mcg28 tSH3SqJQxFXtu
+show -name="hernia"
+buy 978-0-02-325637-0 1
+passwd u9oCfF7oAMH XGzSiyZGPYB3 D
+logout
+passwd KMaZ2pnLR3cEQSWKyI t8V XTo92OfK2cMEoLz5YTchM8q
+su G94GUWhyLzPCFAJq6eV3tZs1EP2a ky3agddGE0kTs
+show -author="SaraBrown"
+logout
+buy 978-0-08-077351-3 1
+buy 978-1-397-71332-2 2
+buy 978-0-03-806690-2 1
+buy 978-0-03-806690-2 1
+passwd STpEt8J97A4kCiXYp tIWvLD42COOrmF QzFu
+buy 978-0-00-365772-2 1
+logout
+show -author="DanielleRoss"
+su IdtJ0pXKBm3TdDoEJPn 8PAEM6x4Q
+logout
+buy 978-0-7836-5800-1 1
+buy 978-1-912045-27-3 1
+passwd _07Ifc1eOTFdySSkfsXqgytxvWBoF QDfqOcGHmR3wRpOhC4blhAsoQ syDiz3ohqmYtQkOXvDXLYV6b
+buy 978-0-03-806690-2 1
+buy 978-1-912045-27-3 1
+passwd _07Ifc1eOTFdySSkfsXqgytxvWBoF syDiz3ohqmYtQkOXvDXLYV6b 6uy
+passwd _07Ifc1eOTFdySSkfsXqgytxvWBoF 6uy ysSFi1ZUvsRWcJF
+show -ISBN=978-1-253-97699-1
+buy 978-0-622-05882-5 1
+buy 978-0-208-87564-8 1
+buy 978-1-335-79460-4 1
+buy 978-0-622-05882-5 1
+buy 978-0-539-28597-0 1
+buy 978-0-8364-6004-9 1
+show -name="computation"
+su 4PFpuYXrQLbuo h7dTRGDrHnO3SKytJKcxXf57xf7LGO
+buy 978-1-372-89505-0 3
+passwd QZbJP4IATL9LfT D T_RsgLbLuI9kv
+show -keyword="uranium"
+buy 978-1-326-79001-1 1
+su QfyD Mzn2T9Cf8QDiST_3kilqhPnK8btm
+logout
+logout
+passwd _07Ifc1eOTFdySSkfsXqgytxvWBoF ysSFi1ZUvsRWcJF gzHB8oI6XrqiqamFjG
+buy 978-0-332-86951-3 1
+logout
+passwd BsXhv3iXEna2auD_DP45ZNTGKE hXlKRRFqdB1_OxwA11YdS189Uj T3qzcK00VJNcbBIE
+logout
+buy 978-1-891774-75-1 4
+logout
+buy 978-0-208-87564-8 1
+buy 978-1-355-71155-1 1
+su G_4_gPrlGH6HRnYoPbk6bHwC ylytX
+passwd nnjcKDyxM70AiN2zVNagBSCRW bwAlXdZQyVHF9e1xFEEck H
+show -name="rank"
+su tYFBtxHaaLwrMY77C_lcq ELoSA_k
+su g52XfzHmiycTSoc0ZzLph38j0zEQ R8rDQWCY
+show -ISBN=978-0-8364-6004-9
+buy 978-1-891774-75-1 3
+buy 978-0-622-05882-5 1
+logout
+show -name="flair"
+logout
+buy 978-1-163-93559-0 1
+show -name="rank"
+buy 978-0-459-18435-3 1
+su OBO6Piwbqt2Jclnzmd2c9LzUga7 dFKy7yjY0HlRHg8WT72QoXOJs36ul
+show finance
+show finance
+select 978-0-08-077351-3
+import 16 2335.12
+import 43 5518.30
+su JhhIgz5ga3QhsN CksIjCE
+buy 978-1-372-89505-0 1
+buy 978-1-355-71155-1 1
+show -keyword="admonition"
+buy 978-0-332-86951-3 1
+su IdtJ0pXKBm3TdDoEJPn 8PAEM6x4Q
+logout
+su nnjcKDyxM70AiN2zVNagBSCRW 5iWk_BvECrtjHwJ9PTwM_BnhzNV
+show -author="AdamCastro"
+buy 978-0-622-05882-5 1
+show -ISBN=978-0-395-09584-3
+buy 978-0-562-48357-2 1
+logout
+show -ISBN=978-0-7865-1765-7
+logout
+modify -name="lightfooted" -author="AdamCastro" -keyword="annulus|hansom|consortium|switch"
+select 978-0-688-61661-8
+modify -name="portent" -author="BryceDavis" -keyword="bevy|towhead|clarity|Britain|orthophosphate" -price=199.91
+select 978-1-891774-75-1
+import 12 1920.22
+show finance
+su root 2
+select 978-1-891774-75-1
+modify -name="portent" -author="TonyJordan" -keyword="grew|orthophosphate|towhead"
+passwd FOvA 699wBJUd8Gf6KAskR6xFD
+show finance
+import 3 563.57
+import 35 2098.64
+select 978-0-208-87564-8
+import 6 161.48
+modify -name="exploration" -author="EmilyHudson" -price=63.62
+su UKgzSMOwZTkwW1MOaC W5GTGJ78XowIRvRw15zuAWecWQLs
+show -author="HannahJohnson"
+buy 978-0-688-61661-8 1
+show -keyword="clarity"
+logout
+select 978-1-912045-27-3
+modify -name="inviolate" -author="JamesKeith" -price=209.01
+select 978-0-7836-5800-1
+import 11 2632.66
+show finance
+import 7 1683.70
+passwd _oBYbI6Dz0 _cPVGe_WEUuoLPHzJNQPvA_5lpgePZ
+show finance
+select 978-1-928520-31-3
+modify -author="LindaRios"
+passwd eaehORb2c97obQE_Xyak zY2B_mvqXZ0Pay
+select 978-1-253-97699-1
+import 4 403.46
+select 978-1-891774-75-1
+import 72 2123.12
+select 978-0-635-12175-2
+modify -name="satiable" -author="SaraBrown" -keyword="towhead|consortium|Roberto" -price=189.93
+select 978-0-01-407800-4
+modify -name="Ron" -author="TiffanySimmons" -keyword="switch|Britain" -price=496.03
+modify -keyword="bevy|banal|hansom|wealth"
+logout
+select 978-1-59935-732-4
+modify -name="immaculate" -author="BryceDavis" -keyword="consortium" -price=134.57
+su pVqm y0pD7mVlqoCVm84L20GLdF1F84i
+show finance
+select 978-1-335-79460-4
+import 14 743.21
+logout
+select 978-0-262-09571-6
+modify -name="Trichinella" -author="AaronNovak" -keyword="newborn|annulus" -price=264.71
+show finance
+show finance
+show finance
+select 978-0-03-295658-2
+modify -name="atom" -author="RalphStanton" -keyword="clarity" -price=452.79
+show finance
+logout
+show -name="emitted"
+logout
+buy 978-1-335-79460-4 7
+logout
+buy 978-0-622-05882-5 1
+su eaehORb2c97obQE_Xyak zY2B_mvqXZ0Pay
+buy 978-1-397-71332-2 1
+logout
+buy 978-0-688-61661-8 1
+buy 978-0-395-09584-3 1
+su 5olHao2EV GyoH8Zo9K3a
+su root 2
+select 978-0-03-806690-2
+import 8 3290.89
+su 9UTW2sFzfa_eYEb02ZPJrh7Y11MN fVp
+show -name="Thea"
+logout
+select 978-1-4185-8676-8
+modify -name="digression" -author="ChristinaGarcia" -keyword="annulus|hansom" -price=9.88
+logout
+buy 978-1-85524-909-7 1
+logout
+buy 978-0-02-325637-0 1
+show -ISBN=978-1-372-89505-0
+su Y4o fdXJifRT_boS1T92rrR2oIip7
+logout
+buy 978-1-928520-31-3 1
+buy 978-1-163-93559-0 1
+buy 978-1-59935-732-4 1
+logout
+su _eiciWzVHjeab E51buDhtrPgnKldvZV8JedBty
+logout
+show -ISBN=978-1-372-89505-0
+buy 978-0-401-02756-1 1
+logout
+logout
+su 3fltvM7xPQk5TeN0iufs KKeicvrMI7MZH2JdQ9CexEJWnc
+passwd 3fltvM7xPQk5TeN0iufs KKeicvrMI7MZH2JdQ9CexEJWnc a6
+buy 978-0-8364-6004-9 1
+show -ISBN=978-1-169-09778-0
+logout
+su BsXhv3iXEna2auD_DP45ZNTGKE T3qzcK00VJNcbBIE
+su zMInWpRNFdhZtuAC46YfhSvddCk SDCaNbEsurKodl2E73luMDR7O
+buy 978-0-688-61661-8 1
+show -name="sinful"
+buy 978-1-85524-909-7 1
+show -keyword="hansom"
+show -ISBN=978-0-08-077351-3
+passwd zMInWpRNFdhZtuAC46YfhSvddCk SDCaNbEsurKodl2E73luMDR7O J8NonnkSb5NJv4iJRBvlZoL1Qov
+show -ISBN=978-1-163-93559-0
+logout
+buy 978-1-928520-31-3 1
+su 7 OALJqk
+passwd gwUjc VJkpgHz5XxzE1k v3_Ie
+show -author="MelissaBrown"
+show -keyword="Hershel"
+su Et9ChNGBN loL1KpT96zdGTMf
+buy 978-0-01-407800-4 1
+buy 978-0-7836-5800-1 9
+buy 978-1-66741-421-8 1
+su nnjcKDyxM70AiN2zVNagBSCRW 5iWk_BvECrtjHwJ9PTwM_BnhzNV
+buy 978-0-00-365772-2 1
+buy 978-0-635-12175-2 1
+su tYFBtxHaaLwrMY77C_lcq ELoSA_k
+logout
+show -ISBN=978-1-967758-81-4
+passwd nnjcKDyxM70AiN2zVNagBSCRW 5iWk_BvECrtjHwJ9PTwM_BnhzNV spOm6kk
+buy 978-0-8364-6004-9 1
+logout
+show -keyword="Hershel"
+buy 978-0-7865-1765-7 1
+buy 978-0-332-86951-3 1
+su qcWX7mJ_H6g1ooubqV6e5TW EOKHzuzIDcT
+passwd qcWX7mJ_H6g1ooubqV6e5TW EOKHzuzIDcT kt
+show -ISBN=978-0-08-077351-3
+buy 978-0-03-295658-2 1
+su 7 OALJqk
+buy 978-1-967758-81-4 1
+passwd D2v9J8_Rr7UnunIbDCiN v6X55fHCVdw3Mki7E7OXJN hxbUmQCqf5lalfHFk
+su XFAsA3h2kMxoeXhYu24 lkydx34Y2OBX
+logout
+show -name="Trichinella"
+buy 978-1-7372650-8-5 1
+passwd 7 OALJqk JQY3RYyA
+su TLQT VAqhWI4QOTtvUx8mwdfXnxOL2tk4T_
+show -author="TamaraHarris"
+show -name="Hellespont"
+buy 978-0-00-365772-2 1
+buy 978-0-262-09571-6 1
+su UN8sf6SvfljHi5M 3Zu
+show -keyword="Roberto"
+logout
+su EVdtWnR5mgmIHqQYP1UnDykzzq_ kkE78tcT3GuY35Lj25eV
+show -ISBN=978-0-03-806690-2
+buy 978-0-539-28597-0 1
+show -name="drunken"
+buy 978-1-169-09778-0 1
+buy 978-0-635-12175-2 1
+buy 978-0-539-28597-0 1
+su wimSJrcihLlv4F775EAKqcc9rKmm32 lxfPJABXaruQbCzSDybQ6vevDlsD
+buy 978-0-03-295658-2 1
+show -name="bindle"
+buy 978-1-163-93559-0 1
+su 8dAHvTKUVfhhxd59e6tVJzXyndN Ehq4Y_QAtXnVdvM8rvu2Wp
+show -author="TamaraHarris"
+show -author="ChristianTodd"
+logout
+show -name="portent"
+su UrS1vPPhBBHuBEEhlovF4 tav6
+buy 978-0-395-09584-3 1
+logout
+logout
+buy 978-0-401-02756-1 1
+buy 978-1-4185-8676-8 1
+logout
+logout
+logout
+su D2v9J8_Rr7UnunIbDCiN hxbUmQCqf5lalfHFk
+show -ISBN=978-0-459-18435-3
+show -keyword="banal"
+buy 978-1-967758-81-4 1
+show -ISBN=978-1-169-09778-0
+buy 978-1-67793-253-5 1
+su STpEt8J97A4kCiXYp QzFu
+buy 978-0-633-49799-6 1
+logout
+buy 978-1-891774-75-1 90
+logout
+buy 978-1-912045-27-3 1
+passwd qcWX7mJ_H6g1ooubqV6e5TW kt GLL9PAd47WoFTkHbJS8LjylLF
+passwd qcWX7mJ_H6g1ooubqV6e5TW GLL9PAd47WoFTkHbJS8LjylLF nv06a0Q
+show -keyword="banal"
+passwd qcWX7mJ_H6g1ooubqV6e5TW nv06a0Q HPntWuWFQSYRQMTG99mg
+buy 978-0-395-09584-3 1
+su _N 8b53BHImJOEZh9eO4OgIXpEwhSu
+buy 978-0-562-48357-2 1
+passwd gHGnSWSn6V0WTOUPcV5vHWXctLNCWs QCL6yYmy1iLxX_TkV R63D49629SFl
+buy 978-0-459-18435-3 1
+logout
+logout
+buy 978-1-355-71155-1 1
+su wCAtMS4uwWZo4ZGClrWSLUr8Quchv ID52RLGJR0weDfY9jPUnIUYoToaWN
+logout
+show -name="computation"
+show -keyword="newborn"
+show -ISBN=978-1-355-71155-1
+passwd Et9ChNGBN loL1KpT96zdGTMf PzAOz7TLjPYdPAaQaue9
+buy 978-0-08-077351-3 64
+buy 978-0-401-02756-1 1
+show -ISBN=978-1-78989-906-1
+buy 978-0-7865-1765-7 1
+buy 978-1-967758-81-4 1
+buy 978-1-372-89505-0 1
+buy 978-0-08-077351-3 65
+show -ISBN=978-0-208-87564-8
+buy 978-0-03-806690-2 8
+buy 978-1-4185-8676-8 1
+show -name="maelstrom"
+buy 978-1-78989-906-1 1
+su KMaZ2pnLR3cEQSWKyI XTo92OfK2cMEoLz5YTchM8q
+su 0jTkV_ XTBFKLX7sU39twTTPmk6nidA
+logout
+logout
+buy 978-1-163-93559-0 1
+show -keyword="clarity"
+buy 978-1-967758-81-4 1
+buy 978-1-355-71155-1 1
+buy 978-1-397-71332-2 1
+show -ISBN=978-1-326-79001-1
+buy 978-1-169-09778-0 1
+show -author="RalphStanton"
+su KikFhyW1xpsODpFHpnM5 oOt
+buy 978-1-253-97699-1 2
+show -ISBN=978-1-355-71155-1
+show -keyword="uranium"
+logout
+su G_qd5FmuGWu_DY0IQXn8BI3h apAFGaIvyc1DZKx1mr2IZ1rQB
+buy 978-1-397-71332-2 1
+buy 978-1-372-89505-0 1
+su tMvQzIHwrpO Qp
+buy 978-1-66741-421-8 1
+logout
+passwd G_qd5FmuGWu_DY0IQXn8BI3h apAFGaIvyc1DZKx1mr2IZ1rQB NU4GqhIYrlb7wzCA5495OjOuE_uH36
+su Ihgmq15Kr_LhrEBfJlPpn2F4mhS YNlGV2_WD9oQ0gz6IGt9Y
+show -keyword="annulus"
+show -ISBN=978-1-372-89505-0
+buy 978-1-355-71155-1 1
+buy 978-0-633-49799-6 1
+su tYFBtxHaaLwrMY77C_lcq ELoSA_k
+show -name="pig"
+buy 978-1-326-79001-1 1
+buy 978-1-66741-421-8 1
+buy 978-0-02-325637-0 1
+show -ISBN=978-0-262-09571-6
+passwd tYFBtxHaaLwrMY77C_lcq ELoSA_k K88y_VeJpOdZ_O3m0wSoE
+su MKUaNc1iHSef3YWGdaThEs3vOc6Koi tvu_VjDM88E0sPdFk7wLM6KCiA
